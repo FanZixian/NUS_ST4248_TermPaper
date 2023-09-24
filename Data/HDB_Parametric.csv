@@ -1,0 +1,4779 @@
+,Rental_Price,Time,District,RoomType
+0,2300.0,Q4 2022,Ang Mo Kio,Room3
+1,2900.0,Q4 2022,Ang Mo Kio,Room4
+2,3150.0,Q4 2022,Ang Mo Kio,Room5
+4,2300.0,Q4 2022,Bedok,Room3
+5,2800.0,Q4 2022,Bedok,Room4
+6,3000.0,Q4 2022,Bedok,Room5
+8,2600.0,Q4 2022,Bishan,Room3
+9,3200.0,Q4 2022,Bishan,Room4
+10,3550.0,Q4 2022,Bishan,Room5
+12,2200.0,Q4 2022,Bukit Batok,Room3
+13,2650.0,Q4 2022,Bukit Batok,Room4
+14,3200.0,Q4 2022,Bukit Batok,Room5
+16,2600.0,Q4 2022,Bukit Merah,Room3
+17,3500.0,Q4 2022,Bukit Merah,Room4
+18,3800.0,Q4 2022,Bukit Merah,Room5
+20,2700.0,Q4 2022,Bukit Panjang,Room3
+21,2850.0,Q4 2022,Bukit Panjang,Room4
+22,3000.0,Q4 2022,Bukit Panjang,Room5
+23,3250.0,Q4 2022,Bukit Panjang,Executive
+28,2800.0,Q4 2022,Central,Room3
+29,3850.0,Q4 2022,Central,Room4
+32,2800.0,Q4 2022,Choa Chu Kang,Room3
+33,2800.0,Q4 2022,Choa Chu Kang,Room4
+34,3000.0,Q4 2022,Choa Chu Kang,Room5
+35,3000.0,Q4 2022,Choa Chu Kang,Executive
+36,2500.0,Q4 2022,Clementi,Room3
+37,3200.0,Q4 2022,Clementi,Room4
+38,3400.0,Q4 2022,Clementi,Room5
+40,2350.0,Q4 2022,Geylang,Room3
+41,3000.0,Q4 2022,Geylang,Room4
+44,2300.0,Q4 2022,Hougang,Room3
+45,2750.0,Q4 2022,Hougang,Room4
+46,2700.0,Q4 2022,Hougang,Room5
+47,3000.0,Q4 2022,Hougang,Executive
+48,2500.0,Q4 2022,Jurong East,Room3
+49,2900.0,Q4 2022,Jurong East,Room4
+50,3100.0,Q4 2022,Jurong East,Room5
+52,2200.0,Q4 2022,Jurong West,Room3
+53,2900.0,Q4 2022,Jurong West,Room4
+54,3030.0,Q4 2022,Jurong West,Room5
+56,2450.0,Q4 2022,Kallang/ Whampoa,Room3
+57,3100.0,Q4 2022,Kallang/ Whampoa,Room4
+58,3700.0,Q4 2022,Kallang/ Whampoa,Room5
+60,2400.0,Q4 2022,Marine Parade,Room3
+61,3350.0,Q4 2022,Marine Parade,Room4
+65,2700.0,Q4 2022,Pasir Ris,Room4
+66,3000.0,Q4 2022,Pasir Ris,Room5
+67,3300.0,Q4 2022,Pasir Ris,Executive
+68,2850.0,Q4 2022,Punggol,Room3
+69,3000.0,Q4 2022,Punggol,Room4
+70,3100.0,Q4 2022,Punggol,Room5
+72,2730.0,Q4 2022,Queenstown,Room3
+73,3600.0,Q4 2022,Queenstown,Room4
+74,4200.0,Q4 2022,Queenstown,Room5
+77,3000.0,Q4 2022,Sembawang,Room4
+78,2870.0,Q4 2022,Sembawang,Room5
+79,3000.0,Q4 2022,Sembawang,Executive
+80,2550.0,Q4 2022,Sengkang,Room3
+81,3000.0,Q4 2022,Sengkang,Room4
+82,3100.0,Q4 2022,Sengkang,Room5
+83,3000.0,Q4 2022,Sengkang,Executive
+84,2500.0,Q4 2022,Serangoon,Room3
+85,3200.0,Q4 2022,Serangoon,Room4
+86,2800.0,Q4 2022,Serangoon,Room5
+88,2500.0,Q4 2022,Tampines,Room3
+89,2800.0,Q4 2022,Tampines,Room4
+90,3200.0,Q4 2022,Tampines,Room5
+92,2400.0,Q4 2022,Toa Payoh,Room3
+93,3450.0,Q4 2022,Toa Payoh,Room4
+94,3200.0,Q4 2022,Toa Payoh,Room5
+96,2200.0,Q4 2022,Woodlands,Room3
+97,2650.0,Q4 2022,Woodlands,Room4
+98,3100.0,Q4 2022,Woodlands,Room5
+99,2900.0,Q4 2022,Woodlands,Executive
+100,2400.0,Q4 2022,Yishun,Room3
+101,2800.0,Q4 2022,Yishun,Room4
+102,3150.0,Q4 2022,Yishun,Room5
+104,2290.0,Q3 2022,Ang Mo Kio,Room3
+105,2600.0,Q3 2022,Ang Mo Kio,Room4
+106,3000.0,Q3 2022,Ang Mo Kio,Room5
+108,2200.0,Q3 2022,Bedok,Room3
+109,2500.0,Q3 2022,Bedok,Room4
+110,2980.0,Q3 2022,Bedok,Room5
+112,2400.0,Q3 2022,Bishan,Room3
+113,2730.0,Q3 2022,Bishan,Room4
+114,3300.0,Q3 2022,Bishan,Room5
+116,2000.0,Q3 2022,Bukit Batok,Room3
+117,2500.0,Q3 2022,Bukit Batok,Room4
+118,2800.0,Q3 2022,Bukit Batok,Room5
+120,2400.0,Q3 2022,Bukit Merah,Room3
+121,3000.0,Q3 2022,Bukit Merah,Room4
+122,3450.0,Q3 2022,Bukit Merah,Room5
+124,2000.0,Q3 2022,Bukit Panjang,Room3
+125,2550.0,Q3 2022,Bukit Panjang,Room4
+126,2600.0,Q3 2022,Bukit Panjang,Room5
+132,2600.0,Q3 2022,Central,Room3
+133,3500.0,Q3 2022,Central,Room4
+137,2600.0,Q3 2022,Choa Chu Kang,Room4
+138,2500.0,Q3 2022,Choa Chu Kang,Room5
+139,3000.0,Q3 2022,Choa Chu Kang,Executive
+140,2350.0,Q3 2022,Clementi,Room3
+141,3100.0,Q3 2022,Clementi,Room4
+142,3500.0,Q3 2022,Clementi,Room5
+144,2200.0,Q3 2022,Geylang,Room3
+145,2600.0,Q3 2022,Geylang,Room4
+146,3200.0,Q3 2022,Geylang,Room5
+148,2200.0,Q3 2022,Hougang,Room3
+149,2600.0,Q3 2022,Hougang,Room4
+150,2500.0,Q3 2022,Hougang,Room5
+151,2700.0,Q3 2022,Hougang,Executive
+152,2200.0,Q3 2022,Jurong East,Room3
+153,2800.0,Q3 2022,Jurong East,Room4
+154,2900.0,Q3 2022,Jurong East,Room5
+156,2150.0,Q3 2022,Jurong West,Room3
+157,2600.0,Q3 2022,Jurong West,Room4
+158,2800.0,Q3 2022,Jurong West,Room5
+159,2600.0,Q3 2022,Jurong West,Executive
+160,2300.0,Q3 2022,Kallang/ Whampoa,Room3
+161,2900.0,Q3 2022,Kallang/ Whampoa,Room4
+162,3200.0,Q3 2022,Kallang/ Whampoa,Room5
+164,2300.0,Q3 2022,Marine Parade,Room3
+165,2650.0,Q3 2022,Marine Parade,Room4
+169,2500.0,Q3 2022,Pasir Ris,Room4
+170,2700.0,Q3 2022,Pasir Ris,Room5
+171,3000.0,Q3 2022,Pasir Ris,Executive
+172,2750.0,Q3 2022,Punggol,Room3
+173,2800.0,Q3 2022,Punggol,Room4
+174,2800.0,Q3 2022,Punggol,Room5
+176,2500.0,Q3 2022,Queenstown,Room3
+177,3450.0,Q3 2022,Queenstown,Room4
+178,3600.0,Q3 2022,Queenstown,Room5
+181,2450.0,Q3 2022,Sembawang,Room4
+182,2400.0,Q3 2022,Sembawang,Room5
+183,3150.0,Q3 2022,Sembawang,Executive
+185,2700.0,Q3 2022,Sengkang,Room4
+186,2800.0,Q3 2022,Sengkang,Room5
+187,2800.0,Q3 2022,Sengkang,Executive
+188,2300.0,Q3 2022,Serangoon,Room3
+189,2750.0,Q3 2022,Serangoon,Room4
+190,2850.0,Q3 2022,Serangoon,Room5
+192,2300.0,Q3 2022,Tampines,Room3
+193,2500.0,Q3 2022,Tampines,Room4
+194,2900.0,Q3 2022,Tampines,Room5
+195,2930.0,Q3 2022,Tampines,Executive
+196,2200.0,Q3 2022,Toa Payoh,Room3
+197,2800.0,Q3 2022,Toa Payoh,Room4
+198,3200.0,Q3 2022,Toa Payoh,Room5
+200,2000.0,Q3 2022,Woodlands,Room3
+201,2500.0,Q3 2022,Woodlands,Room4
+202,2600.0,Q3 2022,Woodlands,Room5
+203,2800.0,Q3 2022,Woodlands,Executive
+204,2100.0,Q3 2022,Yishun,Room3
+205,2500.0,Q3 2022,Yishun,Room4
+206,2500.0,Q3 2022,Yishun,Room5
+208,2000.0,Q2 2022,Ang Mo Kio,Room3
+209,2400.0,Q2 2022,Ang Mo Kio,Room4
+210,2650.0,Q2 2022,Ang Mo Kio,Room5
+212,2000.0,Q2 2022,Bedok,Room3
+213,2400.0,Q2 2022,Bedok,Room4
+214,2600.0,Q2 2022,Bedok,Room5
+216,2200.0,Q2 2022,Bishan,Room3
+217,2600.0,Q2 2022,Bishan,Room4
+218,2800.0,Q2 2022,Bishan,Room5
+220,1900.0,Q2 2022,Bukit Batok,Room3
+221,2400.0,Q2 2022,Bukit Batok,Room4
+222,2450.0,Q2 2022,Bukit Batok,Room5
+224,2200.0,Q2 2022,Bukit Merah,Room3
+225,2900.0,Q2 2022,Bukit Merah,Room4
+226,3000.0,Q2 2022,Bukit Merah,Room5
+228,1700.0,Q2 2022,Bukit Panjang,Room3
+229,2300.0,Q2 2022,Bukit Panjang,Room4
+230,2500.0,Q2 2022,Bukit Panjang,Room5
+236,2350.0,Q2 2022,Central,Room3
+237,3050.0,Q2 2022,Central,Room4
+240,2050.0,Q2 2022,Choa Chu Kang,Room3
+241,2200.0,Q2 2022,Choa Chu Kang,Room4
+242,2450.0,Q2 2022,Choa Chu Kang,Room5
+243,2650.0,Q2 2022,Choa Chu Kang,Executive
+244,2200.0,Q2 2022,Clementi,Room3
+245,2700.0,Q2 2022,Clementi,Room4
+246,2870.0,Q2 2022,Clementi,Room5
+248,1950.0,Q2 2022,Geylang,Room3
+249,2400.0,Q2 2022,Geylang,Room4
+250,2700.0,Q2 2022,Geylang,Room5
+252,1900.0,Q2 2022,Hougang,Room3
+253,2200.0,Q2 2022,Hougang,Room4
+254,2500.0,Q2 2022,Hougang,Room5
+255,2630.0,Q2 2022,Hougang,Executive
+256,2000.0,Q2 2022,Jurong East,Room3
+257,2350.0,Q2 2022,Jurong East,Room4
+258,2750.0,Q2 2022,Jurong East,Room5
+260,1930.0,Q2 2022,Jurong West,Room3
+261,2400.0,Q2 2022,Jurong West,Room4
+262,2500.0,Q2 2022,Jurong West,Room5
+263,2700.0,Q2 2022,Jurong West,Executive
+264,2130.0,Q2 2022,Kallang/ Whampoa,Room3
+265,2700.0,Q2 2022,Kallang/ Whampoa,Room4
+266,2950.0,Q2 2022,Kallang/ Whampoa,Room5
+268,2200.0,Q2 2022,Marine Parade,Room3
+269,2430.0,Q2 2022,Marine Parade,Room4
+273,2300.0,Q2 2022,Pasir Ris,Room4
+274,2400.0,Q2 2022,Pasir Ris,Room5
+275,2780.0,Q2 2022,Pasir Ris,Executive
+276,2330.0,Q2 2022,Punggol,Room3
+277,2500.0,Q2 2022,Punggol,Room4
+278,2300.0,Q2 2022,Punggol,Room5
+280,2300.0,Q2 2022,Queenstown,Room3
+281,2900.0,Q2 2022,Queenstown,Room4
+282,3200.0,Q2 2022,Queenstown,Room5
+285,2200.0,Q2 2022,Sembawang,Room4
+286,2400.0,Q2 2022,Sembawang,Room5
+287,2250.0,Q2 2022,Sembawang,Executive
+289,2300.0,Q2 2022,Sengkang,Room4
+290,2400.0,Q2 2022,Sengkang,Room5
+291,2500.0,Q2 2022,Sengkang,Executive
+292,2100.0,Q2 2022,Serangoon,Room3
+293,2500.0,Q2 2022,Serangoon,Room4
+294,2700.0,Q2 2022,Serangoon,Room5
+296,2150.0,Q2 2022,Tampines,Room3
+297,2350.0,Q2 2022,Tampines,Room4
+298,2500.0,Q2 2022,Tampines,Room5
+299,2700.0,Q2 2022,Tampines,Executive
+300,2000.0,Q2 2022,Toa Payoh,Room3
+301,2600.0,Q2 2022,Toa Payoh,Room4
+302,2850.0,Q2 2022,Toa Payoh,Room5
+304,2000.0,Q2 2022,Woodlands,Room3
+305,2300.0,Q2 2022,Woodlands,Room4
+306,2400.0,Q2 2022,Woodlands,Room5
+307,2500.0,Q2 2022,Woodlands,Executive
+308,1950.0,Q2 2022,Yishun,Room3
+309,2250.0,Q2 2022,Yishun,Room4
+310,2400.0,Q2 2022,Yishun,Room5
+311,2400.0,Q2 2022,Yishun,Executive
+312,1900.0,Q1 2022,Ang Mo Kio,Room3
+313,2350.0,Q1 2022,Ang Mo Kio,Room4
+314,2600.0,Q1 2022,Ang Mo Kio,Room5
+316,1900.0,Q1 2022,Bedok,Room3
+317,2200.0,Q1 2022,Bedok,Room4
+318,2500.0,Q1 2022,Bedok,Room5
+319,2550.0,Q1 2022,Bedok,Executive
+320,2130.0,Q1 2022,Bishan,Room3
+321,2500.0,Q1 2022,Bishan,Room4
+322,2700.0,Q1 2022,Bishan,Room5
+324,1900.0,Q1 2022,Bukit Batok,Room3
+325,2100.0,Q1 2022,Bukit Batok,Room4
+326,2600.0,Q1 2022,Bukit Batok,Room5
+328,2100.0,Q1 2022,Bukit Merah,Room3
+329,2800.0,Q1 2022,Bukit Merah,Room4
+330,3000.0,Q1 2022,Bukit Merah,Room5
+332,1700.0,Q1 2022,Bukit Panjang,Room3
+333,2100.0,Q1 2022,Bukit Panjang,Room4
+334,2400.0,Q1 2022,Bukit Panjang,Room5
+340,2300.0,Q1 2022,Central,Room3
+341,3000.0,Q1 2022,Central,Room4
+344,1780.0,Q1 2022,Choa Chu Kang,Room3
+345,2050.0,Q1 2022,Choa Chu Kang,Room4
+346,2200.0,Q1 2022,Choa Chu Kang,Room5
+347,2300.0,Q1 2022,Choa Chu Kang,Executive
+348,2100.0,Q1 2022,Clementi,Room3
+349,2600.0,Q1 2022,Clementi,Room4
+350,2800.0,Q1 2022,Clementi,Room5
+352,2000.0,Q1 2022,Geylang,Room3
+353,2500.0,Q1 2022,Geylang,Room4
+354,2600.0,Q1 2022,Geylang,Room5
+356,1900.0,Q1 2022,Hougang,Room3
+357,2200.0,Q1 2022,Hougang,Room4
+358,2400.0,Q1 2022,Hougang,Room5
+359,2500.0,Q1 2022,Hougang,Executive
+360,1900.0,Q1 2022,Jurong East,Room3
+361,2300.0,Q1 2022,Jurong East,Room4
+362,2500.0,Q1 2022,Jurong East,Room5
+364,1800.0,Q1 2022,Jurong West,Room3
+365,2200.0,Q1 2022,Jurong West,Room4
+366,2460.0,Q1 2022,Jurong West,Room5
+367,2510.0,Q1 2022,Jurong West,Executive
+368,2100.0,Q1 2022,Kallang/ Whampoa,Room3
+369,2600.0,Q1 2022,Kallang/ Whampoa,Room4
+370,2700.0,Q1 2022,Kallang/ Whampoa,Room5
+372,2030.0,Q1 2022,Marine Parade,Room3
+373,2300.0,Q1 2022,Marine Parade,Room4
+377,2200.0,Q1 2022,Pasir Ris,Room4
+378,2300.0,Q1 2022,Pasir Ris,Room5
+379,2400.0,Q1 2022,Pasir Ris,Executive
+380,2200.0,Q1 2022,Punggol,Room3
+381,2300.0,Q1 2022,Punggol,Room4
+382,2300.0,Q1 2022,Punggol,Room5
+384,2200.0,Q1 2022,Queenstown,Room3
+385,2900.0,Q1 2022,Queenstown,Room4
+386,3010.0,Q1 2022,Queenstown,Room5
+389,2100.0,Q1 2022,Sembawang,Room4
+390,2250.0,Q1 2022,Sembawang,Room5
+391,2330.0,Q1 2022,Sembawang,Executive
+393,2200.0,Q1 2022,Sengkang,Room4
+394,2250.0,Q1 2022,Sengkang,Room5
+395,2400.0,Q1 2022,Sengkang,Executive
+396,2000.0,Q1 2022,Serangoon,Room3
+397,2300.0,Q1 2022,Serangoon,Room4
+398,2540.0,Q1 2022,Serangoon,Room5
+399,2780.0,Q1 2022,Serangoon,Executive
+400,2000.0,Q1 2022,Tampines,Room3
+401,2300.0,Q1 2022,Tampines,Room4
+402,2500.0,Q1 2022,Tampines,Room5
+403,2550.0,Q1 2022,Tampines,Executive
+404,2000.0,Q1 2022,Toa Payoh,Room3
+405,2450.0,Q1 2022,Toa Payoh,Room4
+406,2800.0,Q1 2022,Toa Payoh,Room5
+408,1650.0,Q1 2022,Woodlands,Room3
+409,2100.0,Q1 2022,Woodlands,Room4
+410,2400.0,Q1 2022,Woodlands,Room5
+411,2500.0,Q1 2022,Woodlands,Executive
+412,1900.0,Q1 2022,Yishun,Room3
+413,2100.0,Q1 2022,Yishun,Room4
+414,2330.0,Q1 2022,Yishun,Room5
+415,2400.0,Q1 2022,Yishun,Executive
+416,1900.0,Q4 2021,Ang Mo Kio,Room3
+417,2300.0,Q4 2021,Ang Mo Kio,Room4
+418,2600.0,Q4 2021,Ang Mo Kio,Room5
+420,1900.0,Q4 2021,Bedok,Room3
+421,2250.0,Q4 2021,Bedok,Room4
+422,2480.0,Q4 2021,Bedok,Room5
+424,2100.0,Q4 2021,Bishan,Room3
+425,2400.0,Q4 2021,Bishan,Room4
+426,2650.0,Q4 2021,Bishan,Room5
+428,1800.0,Q4 2021,Bukit Batok,Room3
+429,2100.0,Q4 2021,Bukit Batok,Room4
+430,2250.0,Q4 2021,Bukit Batok,Room5
+432,2000.0,Q4 2021,Bukit Merah,Room3
+433,2670.0,Q4 2021,Bukit Merah,Room4
+434,3000.0,Q4 2021,Bukit Merah,Room5
+436,1600.0,Q4 2021,Bukit Panjang,Room3
+437,2000.0,Q4 2021,Bukit Panjang,Room4
+438,2200.0,Q4 2021,Bukit Panjang,Room5
+439,2100.0,Q4 2021,Bukit Panjang,Executive
+444,2300.0,Q4 2021,Central,Room3
+445,2800.0,Q4 2021,Central,Room4
+449,2000.0,Q4 2021,Choa Chu Kang,Room4
+450,2100.0,Q4 2021,Choa Chu Kang,Room5
+451,2300.0,Q4 2021,Choa Chu Kang,Executive
+452,2000.0,Q4 2021,Clementi,Room3
+453,2550.0,Q4 2021,Clementi,Room4
+454,2600.0,Q4 2021,Clementi,Room5
+456,1900.0,Q4 2021,Geylang,Room3
+457,2400.0,Q4 2021,Geylang,Room4
+458,2600.0,Q4 2021,Geylang,Room5
+460,1800.0,Q4 2021,Hougang,Room3
+461,2150.0,Q4 2021,Hougang,Room4
+462,2250.0,Q4 2021,Hougang,Room5
+463,2500.0,Q4 2021,Hougang,Executive
+464,1800.0,Q4 2021,Jurong East,Room3
+465,2200.0,Q4 2021,Jurong East,Room4
+466,2400.0,Q4 2021,Jurong East,Room5
+468,1800.0,Q4 2021,Jurong West,Room3
+469,2200.0,Q4 2021,Jurong West,Room4
+470,2300.0,Q4 2021,Jurong West,Room5
+471,2400.0,Q4 2021,Jurong West,Executive
+472,2000.0,Q4 2021,Kallang/ Whampoa,Room3
+473,2550.0,Q4 2021,Kallang/ Whampoa,Room4
+474,2800.0,Q4 2021,Kallang/ Whampoa,Room5
+476,2000.0,Q4 2021,Marine Parade,Room3
+477,2480.0,Q4 2021,Marine Parade,Room4
+481,2100.0,Q4 2021,Pasir Ris,Room4
+482,2200.0,Q4 2021,Pasir Ris,Room5
+483,2300.0,Q4 2021,Pasir Ris,Executive
+485,2100.0,Q4 2021,Punggol,Room4
+486,2100.0,Q4 2021,Punggol,Room5
+488,2100.0,Q4 2021,Queenstown,Room3
+489,2730.0,Q4 2021,Queenstown,Room4
+490,3000.0,Q4 2021,Queenstown,Room5
+493,2000.0,Q4 2021,Sembawang,Room4
+494,2050.0,Q4 2021,Sembawang,Room5
+495,2300.0,Q4 2021,Sembawang,Executive
+496,1830.0,Q4 2021,Sengkang,Room3
+497,2100.0,Q4 2021,Sengkang,Room4
+498,2200.0,Q4 2021,Sengkang,Room5
+499,2250.0,Q4 2021,Sengkang,Executive
+500,1900.0,Q4 2021,Serangoon,Room3
+501,2300.0,Q4 2021,Serangoon,Room4
+502,2500.0,Q4 2021,Serangoon,Room5
+503,2680.0,Q4 2021,Serangoon,Executive
+504,1850.0,Q4 2021,Tampines,Room3
+505,2200.0,Q4 2021,Tampines,Room4
+506,2400.0,Q4 2021,Tampines,Room5
+507,2500.0,Q4 2021,Tampines,Executive
+508,2000.0,Q4 2021,Toa Payoh,Room3
+509,2500.0,Q4 2021,Toa Payoh,Room4
+510,2600.0,Q4 2021,Toa Payoh,Room5
+512,1800.0,Q4 2021,Woodlands,Room3
+513,2000.0,Q4 2021,Woodlands,Room4
+514,2100.0,Q4 2021,Woodlands,Room5
+515,2300.0,Q4 2021,Woodlands,Executive
+516,1800.0,Q4 2021,Yishun,Room3
+517,2000.0,Q4 2021,Yishun,Room4
+518,2200.0,Q4 2021,Yishun,Room5
+519,2450.0,Q4 2021,Yishun,Executive
+520,1850.0,Q3 2021,Ang Mo Kio,Room3
+521,2200.0,Q3 2021,Ang Mo Kio,Room4
+522,2400.0,Q3 2021,Ang Mo Kio,Room5
+524,1800.0,Q3 2021,Bedok,Room3
+525,2200.0,Q3 2021,Bedok,Room4
+526,2400.0,Q3 2021,Bedok,Room5
+527,2700.0,Q3 2021,Bedok,Executive
+528,1900.0,Q3 2021,Bishan,Room3
+529,2400.0,Q3 2021,Bishan,Room4
+530,2600.0,Q3 2021,Bishan,Room5
+532,1750.0,Q3 2021,Bukit Batok,Room3
+533,2100.0,Q3 2021,Bukit Batok,Room4
+534,2300.0,Q3 2021,Bukit Batok,Room5
+535,2500.0,Q3 2021,Bukit Batok,Executive
+536,2000.0,Q3 2021,Bukit Merah,Room3
+537,2600.0,Q3 2021,Bukit Merah,Room4
+538,2900.0,Q3 2021,Bukit Merah,Room5
+540,1680.0,Q3 2021,Bukit Panjang,Room3
+541,2000.0,Q3 2021,Bukit Panjang,Room4
+542,2100.0,Q3 2021,Bukit Panjang,Room5
+543,2200.0,Q3 2021,Bukit Panjang,Executive
+548,2230.0,Q3 2021,Central,Room3
+549,2800.0,Q3 2021,Central,Room4
+552,1700.0,Q3 2021,Choa Chu Kang,Room3
+553,2000.0,Q3 2021,Choa Chu Kang,Room4
+554,2000.0,Q3 2021,Choa Chu Kang,Room5
+555,2200.0,Q3 2021,Choa Chu Kang,Executive
+556,2000.0,Q3 2021,Clementi,Room3
+557,2500.0,Q3 2021,Clementi,Room4
+558,2700.0,Q3 2021,Clementi,Room5
+560,1810.0,Q3 2021,Geylang,Room3
+561,2400.0,Q3 2021,Geylang,Room4
+562,2860.0,Q3 2021,Geylang,Room5
+564,1700.0,Q3 2021,Hougang,Room3
+565,2030.0,Q3 2021,Hougang,Room4
+566,2200.0,Q3 2021,Hougang,Room5
+567,2330.0,Q3 2021,Hougang,Executive
+568,1850.0,Q3 2021,Jurong East,Room3
+569,2200.0,Q3 2021,Jurong East,Room4
+570,2400.0,Q3 2021,Jurong East,Room5
+571,2500.0,Q3 2021,Jurong East,Executive
+572,1800.0,Q3 2021,Jurong West,Room3
+573,2150.0,Q3 2021,Jurong West,Room4
+574,2350.0,Q3 2021,Jurong West,Room5
+575,2450.0,Q3 2021,Jurong West,Executive
+576,2000.0,Q3 2021,Kallang/ Whampoa,Room3
+577,2500.0,Q3 2021,Kallang/ Whampoa,Room4
+578,2600.0,Q3 2021,Kallang/ Whampoa,Room5
+580,1900.0,Q3 2021,Marine Parade,Room3
+581,2200.0,Q3 2021,Marine Parade,Room4
+585,2050.0,Q3 2021,Pasir Ris,Room4
+586,2300.0,Q3 2021,Pasir Ris,Room5
+587,2300.0,Q3 2021,Pasir Ris,Executive
+588,1950.0,Q3 2021,Punggol,Room3
+589,2000.0,Q3 2021,Punggol,Room4
+590,2000.0,Q3 2021,Punggol,Room5
+592,2000.0,Q3 2021,Queenstown,Room3
+593,2750.0,Q3 2021,Queenstown,Room4
+594,3000.0,Q3 2021,Queenstown,Room5
+597,1900.0,Q3 2021,Sembawang,Room4
+598,2050.0,Q3 2021,Sembawang,Room5
+599,2200.0,Q3 2021,Sembawang,Executive
+601,2100.0,Q3 2021,Sengkang,Room4
+602,2100.0,Q3 2021,Sengkang,Room5
+603,2200.0,Q3 2021,Sengkang,Executive
+604,1880.0,Q3 2021,Serangoon,Room3
+605,2300.0,Q3 2021,Serangoon,Room4
+606,2500.0,Q3 2021,Serangoon,Room5
+608,1850.0,Q3 2021,Tampines,Room3
+609,2200.0,Q3 2021,Tampines,Room4
+610,2300.0,Q3 2021,Tampines,Room5
+611,2450.0,Q3 2021,Tampines,Executive
+612,1900.0,Q3 2021,Toa Payoh,Room3
+613,2300.0,Q3 2021,Toa Payoh,Room4
+614,2600.0,Q3 2021,Toa Payoh,Room5
+616,1650.0,Q3 2021,Woodlands,Room3
+617,1900.0,Q3 2021,Woodlands,Room4
+618,2000.0,Q3 2021,Woodlands,Room5
+619,2300.0,Q3 2021,Woodlands,Executive
+620,1700.0,Q3 2021,Yishun,Room3
+621,2000.0,Q3 2021,Yishun,Room4
+622,2150.0,Q3 2021,Yishun,Room5
+623,2300.0,Q3 2021,Yishun,Executive
+624,1800.0,Q2 2021,Ang Mo Kio,Room3
+625,2200.0,Q2 2021,Ang Mo Kio,Room4
+626,2450.0,Q2 2021,Ang Mo Kio,Room5
+628,1800.0,Q2 2021,Bedok,Room3
+629,2100.0,Q2 2021,Bedok,Room4
+630,2350.0,Q2 2021,Bedok,Room5
+631,2400.0,Q2 2021,Bedok,Executive
+632,1900.0,Q2 2021,Bishan,Room3
+633,2400.0,Q2 2021,Bishan,Room4
+634,2650.0,Q2 2021,Bishan,Room5
+636,1700.0,Q2 2021,Bukit Batok,Room3
+637,2000.0,Q2 2021,Bukit Batok,Room4
+638,2300.0,Q2 2021,Bukit Batok,Room5
+639,2400.0,Q2 2021,Bukit Batok,Executive
+640,2000.0,Q2 2021,Bukit Merah,Room3
+641,2650.0,Q2 2021,Bukit Merah,Room4
+642,2900.0,Q2 2021,Bukit Merah,Room5
+644,1600.0,Q2 2021,Bukit Panjang,Room3
+645,1900.0,Q2 2021,Bukit Panjang,Room4
+646,2100.0,Q2 2021,Bukit Panjang,Room5
+647,2200.0,Q2 2021,Bukit Panjang,Executive
+652,2200.0,Q2 2021,Central,Room3
+653,2800.0,Q2 2021,Central,Room4
+657,1900.0,Q2 2021,Choa Chu Kang,Room4
+658,2000.0,Q2 2021,Choa Chu Kang,Room5
+659,2200.0,Q2 2021,Choa Chu Kang,Executive
+660,2000.0,Q2 2021,Clementi,Room3
+661,2500.0,Q2 2021,Clementi,Room4
+662,2600.0,Q2 2021,Clementi,Room5
+664,1800.0,Q2 2021,Geylang,Room3
+665,2300.0,Q2 2021,Geylang,Room4
+666,2530.0,Q2 2021,Geylang,Room5
+668,1700.0,Q2 2021,Hougang,Room3
+669,2000.0,Q2 2021,Hougang,Room4
+670,2200.0,Q2 2021,Hougang,Room5
+671,2300.0,Q2 2021,Hougang,Executive
+672,1800.0,Q2 2021,Jurong East,Room3
+673,2150.0,Q2 2021,Jurong East,Room4
+674,2400.0,Q2 2021,Jurong East,Room5
+676,1700.0,Q2 2021,Jurong West,Room3
+677,2050.0,Q2 2021,Jurong West,Room4
+678,2300.0,Q2 2021,Jurong West,Room5
+679,2300.0,Q2 2021,Jurong West,Executive
+680,2000.0,Q2 2021,Kallang/ Whampoa,Room3
+681,2500.0,Q2 2021,Kallang/ Whampoa,Room4
+682,2750.0,Q2 2021,Kallang/ Whampoa,Room5
+684,1850.0,Q2 2021,Marine Parade,Room3
+685,2200.0,Q2 2021,Marine Parade,Room4
+689,2000.0,Q2 2021,Pasir Ris,Room4
+690,2100.0,Q2 2021,Pasir Ris,Room5
+691,2300.0,Q2 2021,Pasir Ris,Executive
+692,1800.0,Q2 2021,Punggol,Room3
+693,2000.0,Q2 2021,Punggol,Room4
+694,2050.0,Q2 2021,Punggol,Room5
+696,2000.0,Q2 2021,Queenstown,Room3
+697,2700.0,Q2 2021,Queenstown,Room4
+698,2900.0,Q2 2021,Queenstown,Room5
+701,1900.0,Q2 2021,Sembawang,Room4
+702,2000.0,Q2 2021,Sembawang,Room5
+703,2100.0,Q2 2021,Sembawang,Executive
+705,2000.0,Q2 2021,Sengkang,Room4
+706,2050.0,Q2 2021,Sengkang,Room5
+707,2230.0,Q2 2021,Sengkang,Executive
+708,1850.0,Q2 2021,Serangoon,Room3
+709,2200.0,Q2 2021,Serangoon,Room4
+710,2350.0,Q2 2021,Serangoon,Room5
+712,1800.0,Q2 2021,Tampines,Room3
+713,2100.0,Q2 2021,Tampines,Room4
+714,2300.0,Q2 2021,Tampines,Room5
+715,2400.0,Q2 2021,Tampines,Executive
+716,1900.0,Q2 2021,Toa Payoh,Room3
+717,2300.0,Q2 2021,Toa Payoh,Room4
+718,2650.0,Q2 2021,Toa Payoh,Room5
+720,1530.0,Q2 2021,Woodlands,Room3
+721,1880.0,Q2 2021,Woodlands,Room4
+722,2000.0,Q2 2021,Woodlands,Room5
+723,2200.0,Q2 2021,Woodlands,Executive
+724,1650.0,Q2 2021,Yishun,Room3
+725,2000.0,Q2 2021,Yishun,Room4
+726,2150.0,Q2 2021,Yishun,Room5
+727,2300.0,Q2 2021,Yishun,Executive
+728,1800.0,Q1 2021,Ang Mo Kio,Room3
+729,2200.0,Q1 2021,Ang Mo Kio,Room4
+730,2400.0,Q1 2021,Ang Mo Kio,Room5
+732,1800.0,Q1 2021,Bedok,Room3
+733,2100.0,Q1 2021,Bedok,Room4
+734,2350.0,Q1 2021,Bedok,Room5
+735,2500.0,Q1 2021,Bedok,Executive
+736,1880.0,Q1 2021,Bishan,Room3
+737,2300.0,Q1 2021,Bishan,Room4
+738,2500.0,Q1 2021,Bishan,Room5
+740,1650.0,Q1 2021,Bukit Batok,Room3
+741,2000.0,Q1 2021,Bukit Batok,Room4
+742,2200.0,Q1 2021,Bukit Batok,Room5
+743,2400.0,Q1 2021,Bukit Batok,Executive
+744,2000.0,Q1 2021,Bukit Merah,Room3
+745,2600.0,Q1 2021,Bukit Merah,Room4
+746,2800.0,Q1 2021,Bukit Merah,Room5
+748,1600.0,Q1 2021,Bukit Panjang,Room3
+749,1800.0,Q1 2021,Bukit Panjang,Room4
+750,2000.0,Q1 2021,Bukit Panjang,Room5
+751,2200.0,Q1 2021,Bukit Panjang,Executive
+756,2200.0,Q1 2021,Central,Room3
+757,2830.0,Q1 2021,Central,Room4
+761,1800.0,Q1 2021,Choa Chu Kang,Room4
+762,2000.0,Q1 2021,Choa Chu Kang,Room5
+763,2100.0,Q1 2021,Choa Chu Kang,Executive
+764,1900.0,Q1 2021,Clementi,Room3
+765,2400.0,Q1 2021,Clementi,Room4
+766,2650.0,Q1 2021,Clementi,Room5
+768,1800.0,Q1 2021,Geylang,Room3
+769,2300.0,Q1 2021,Geylang,Room4
+770,2700.0,Q1 2021,Geylang,Room5
+772,1700.0,Q1 2021,Hougang,Room3
+773,2000.0,Q1 2021,Hougang,Room4
+774,2200.0,Q1 2021,Hougang,Room5
+775,2380.0,Q1 2021,Hougang,Executive
+776,1800.0,Q1 2021,Jurong East,Room3
+777,2100.0,Q1 2021,Jurong East,Room4
+778,2330.0,Q1 2021,Jurong East,Room5
+779,2500.0,Q1 2021,Jurong East,Executive
+780,1700.0,Q1 2021,Jurong West,Room3
+781,2050.0,Q1 2021,Jurong West,Room4
+782,2200.0,Q1 2021,Jurong West,Room5
+783,2300.0,Q1 2021,Jurong West,Executive
+784,2000.0,Q1 2021,Kallang/ Whampoa,Room3
+785,2450.0,Q1 2021,Kallang/ Whampoa,Room4
+786,2700.0,Q1 2021,Kallang/ Whampoa,Room5
+788,1850.0,Q1 2021,Marine Parade,Room3
+789,2200.0,Q1 2021,Marine Parade,Room4
+793,2000.0,Q1 2021,Pasir Ris,Room4
+794,2100.0,Q1 2021,Pasir Ris,Room5
+795,2300.0,Q1 2021,Pasir Ris,Executive
+797,2000.0,Q1 2021,Punggol,Room4
+798,2000.0,Q1 2021,Punggol,Room5
+800,1900.0,Q1 2021,Queenstown,Room3
+801,2700.0,Q1 2021,Queenstown,Room4
+802,2800.0,Q1 2021,Queenstown,Room5
+805,1850.0,Q1 2021,Sembawang,Room4
+806,2000.0,Q1 2021,Sembawang,Room5
+807,2100.0,Q1 2021,Sembawang,Executive
+808,1850.0,Q1 2021,Sengkang,Room3
+809,2000.0,Q1 2021,Sengkang,Room4
+810,2000.0,Q1 2021,Sengkang,Room5
+811,2200.0,Q1 2021,Sengkang,Executive
+812,1850.0,Q1 2021,Serangoon,Room3
+813,2250.0,Q1 2021,Serangoon,Room4
+814,2380.0,Q1 2021,Serangoon,Room5
+815,2500.0,Q1 2021,Serangoon,Executive
+816,1800.0,Q1 2021,Tampines,Room3
+817,2100.0,Q1 2021,Tampines,Room4
+818,2300.0,Q1 2021,Tampines,Room5
+819,2480.0,Q1 2021,Tampines,Executive
+820,1850.0,Q1 2021,Toa Payoh,Room3
+821,2300.0,Q1 2021,Toa Payoh,Room4
+822,2500.0,Q1 2021,Toa Payoh,Room5
+824,1500.0,Q1 2021,Woodlands,Room3
+825,1800.0,Q1 2021,Woodlands,Room4
+826,1950.0,Q1 2021,Woodlands,Room5
+827,2200.0,Q1 2021,Woodlands,Executive
+828,1700.0,Q1 2021,Yishun,Room3
+829,1900.0,Q1 2021,Yishun,Room4
+830,2100.0,Q1 2021,Yishun,Room5
+831,2250.0,Q1 2021,Yishun,Executive
+832,1800.0,Q4 2020,Ang Mo Kio,Room3
+833,2100.0,Q4 2020,Ang Mo Kio,Room4
+834,2400.0,Q4 2020,Ang Mo Kio,Room5
+836,1800.0,Q4 2020,Bedok,Room3
+837,2100.0,Q4 2020,Bedok,Room4
+838,2200.0,Q4 2020,Bedok,Room5
+840,1880.0,Q4 2020,Bishan,Room3
+841,2300.0,Q4 2020,Bishan,Room4
+842,2600.0,Q4 2020,Bishan,Room5
+844,1700.0,Q4 2020,Bukit Batok,Room3
+845,2000.0,Q4 2020,Bukit Batok,Room4
+846,2200.0,Q4 2020,Bukit Batok,Room5
+847,2300.0,Q4 2020,Bukit Batok,Executive
+848,2000.0,Q4 2020,Bukit Merah,Room3
+849,2600.0,Q4 2020,Bukit Merah,Room4
+850,2800.0,Q4 2020,Bukit Merah,Room5
+852,1550.0,Q4 2020,Bukit Panjang,Room3
+853,1800.0,Q4 2020,Bukit Panjang,Room4
+854,2000.0,Q4 2020,Bukit Panjang,Room5
+855,2000.0,Q4 2020,Bukit Panjang,Executive
+860,2200.0,Q4 2020,Central,Room3
+861,2700.0,Q4 2020,Central,Room4
+865,1890.0,Q4 2020,Choa Chu Kang,Room4
+866,1950.0,Q4 2020,Choa Chu Kang,Room5
+867,2000.0,Q4 2020,Choa Chu Kang,Executive
+868,1910.0,Q4 2020,Clementi,Room3
+869,2500.0,Q4 2020,Clementi,Room4
+870,2600.0,Q4 2020,Clementi,Room5
+872,1800.0,Q4 2020,Geylang,Room3
+873,2350.0,Q4 2020,Geylang,Room4
+874,2680.0,Q4 2020,Geylang,Room5
+876,1750.0,Q4 2020,Hougang,Room3
+877,2000.0,Q4 2020,Hougang,Room4
+878,2130.0,Q4 2020,Hougang,Room5
+879,2300.0,Q4 2020,Hougang,Executive
+880,1800.0,Q4 2020,Jurong East,Room3
+881,2100.0,Q4 2020,Jurong East,Room4
+882,2300.0,Q4 2020,Jurong East,Room5
+884,1700.0,Q4 2020,Jurong West,Room3
+885,2000.0,Q4 2020,Jurong West,Room4
+886,2250.0,Q4 2020,Jurong West,Room5
+887,2400.0,Q4 2020,Jurong West,Executive
+888,1900.0,Q4 2020,Kallang/ Whampoa,Room3
+889,2500.0,Q4 2020,Kallang/ Whampoa,Room4
+890,2630.0,Q4 2020,Kallang/ Whampoa,Room5
+892,1880.0,Q4 2020,Marine Parade,Room3
+897,2000.0,Q4 2020,Pasir Ris,Room4
+898,2200.0,Q4 2020,Pasir Ris,Room5
+899,2300.0,Q4 2020,Pasir Ris,Executive
+901,2000.0,Q4 2020,Punggol,Room4
+902,2000.0,Q4 2020,Punggol,Room5
+904,2000.0,Q4 2020,Queenstown,Room3
+905,2700.0,Q4 2020,Queenstown,Room4
+906,2850.0,Q4 2020,Queenstown,Room5
+909,1900.0,Q4 2020,Sembawang,Room4
+910,2000.0,Q4 2020,Sembawang,Room5
+911,2150.0,Q4 2020,Sembawang,Executive
+913,2000.0,Q4 2020,Sengkang,Room4
+914,2000.0,Q4 2020,Sengkang,Room5
+915,2100.0,Q4 2020,Sengkang,Executive
+916,1800.0,Q4 2020,Serangoon,Room3
+917,2230.0,Q4 2020,Serangoon,Room4
+918,2300.0,Q4 2020,Serangoon,Room5
+920,1800.0,Q4 2020,Tampines,Room3
+921,2100.0,Q4 2020,Tampines,Room4
+922,2300.0,Q4 2020,Tampines,Room5
+923,2400.0,Q4 2020,Tampines,Executive
+924,1800.0,Q4 2020,Toa Payoh,Room3
+925,2350.0,Q4 2020,Toa Payoh,Room4
+926,2500.0,Q4 2020,Toa Payoh,Room5
+928,1550.0,Q4 2020,Woodlands,Room3
+929,1900.0,Q4 2020,Woodlands,Room4
+930,1900.0,Q4 2020,Woodlands,Room5
+931,2030.0,Q4 2020,Woodlands,Executive
+932,1650.0,Q4 2020,Yishun,Room3
+933,1900.0,Q4 2020,Yishun,Room4
+934,2000.0,Q4 2020,Yishun,Room5
+936,1750.0,Q3 2020,Ang Mo Kio,Room3
+937,2140.0,Q3 2020,Ang Mo Kio,Room4
+938,2400.0,Q3 2020,Ang Mo Kio,Room5
+940,1800.0,Q3 2020,Bedok,Room3
+941,2030.0,Q3 2020,Bedok,Room4
+942,2200.0,Q3 2020,Bedok,Room5
+944,1850.0,Q3 2020,Bishan,Room3
+945,2250.0,Q3 2020,Bishan,Room4
+946,2500.0,Q3 2020,Bishan,Room5
+948,1650.0,Q3 2020,Bukit Batok,Room3
+949,2050.0,Q3 2020,Bukit Batok,Room4
+950,2150.0,Q3 2020,Bukit Batok,Room5
+952,2000.0,Q3 2020,Bukit Merah,Room3
+953,2550.0,Q3 2020,Bukit Merah,Room4
+954,2800.0,Q3 2020,Bukit Merah,Room5
+956,1530.0,Q3 2020,Bukit Panjang,Room3
+957,1750.0,Q3 2020,Bukit Panjang,Room4
+958,1900.0,Q3 2020,Bukit Panjang,Room5
+959,2200.0,Q3 2020,Bukit Panjang,Executive
+964,2150.0,Q3 2020,Central,Room3
+965,2600.0,Q3 2020,Central,Room4
+969,1800.0,Q3 2020,Choa Chu Kang,Room4
+970,1880.0,Q3 2020,Choa Chu Kang,Room5
+971,2200.0,Q3 2020,Choa Chu Kang,Executive
+972,1900.0,Q3 2020,Clementi,Room3
+973,2400.0,Q3 2020,Clementi,Room4
+974,2600.0,Q3 2020,Clementi,Room5
+976,1800.0,Q3 2020,Geylang,Room3
+977,2300.0,Q3 2020,Geylang,Room4
+978,2500.0,Q3 2020,Geylang,Room5
+980,1700.0,Q3 2020,Hougang,Room3
+981,2000.0,Q3 2020,Hougang,Room4
+982,2100.0,Q3 2020,Hougang,Room5
+984,1750.0,Q3 2020,Jurong East,Room3
+985,2100.0,Q3 2020,Jurong East,Room4
+986,2300.0,Q3 2020,Jurong East,Room5
+988,1600.0,Q3 2020,Jurong West,Room3
+989,2000.0,Q3 2020,Jurong West,Room4
+990,2200.0,Q3 2020,Jurong West,Room5
+991,2400.0,Q3 2020,Jurong West,Executive
+992,1900.0,Q3 2020,Kallang/ Whampoa,Room3
+993,2400.0,Q3 2020,Kallang/ Whampoa,Room4
+994,2500.0,Q3 2020,Kallang/ Whampoa,Room5
+996,1800.0,Q3 2020,Marine Parade,Room3
+997,2150.0,Q3 2020,Marine Parade,Room4
+1001,2000.0,Q3 2020,Pasir Ris,Room4
+1002,2150.0,Q3 2020,Pasir Ris,Room5
+1003,2300.0,Q3 2020,Pasir Ris,Executive
+1004,1700.0,Q3 2020,Punggol,Room3
+1005,1900.0,Q3 2020,Punggol,Room4
+1006,2000.0,Q3 2020,Punggol,Room5
+1008,1900.0,Q3 2020,Queenstown,Room3
+1009,2600.0,Q3 2020,Queenstown,Room4
+1010,2850.0,Q3 2020,Queenstown,Room5
+1013,1800.0,Q3 2020,Sembawang,Room4
+1014,1940.0,Q3 2020,Sembawang,Room5
+1015,2100.0,Q3 2020,Sembawang,Executive
+1016,1700.0,Q3 2020,Sengkang,Room3
+1017,1950.0,Q3 2020,Sengkang,Room4
+1018,2000.0,Q3 2020,Sengkang,Room5
+1019,2000.0,Q3 2020,Sengkang,Executive
+1020,1850.0,Q3 2020,Serangoon,Room3
+1021,2300.0,Q3 2020,Serangoon,Room4
+1022,2430.0,Q3 2020,Serangoon,Room5
+1024,1800.0,Q3 2020,Tampines,Room3
+1025,2000.0,Q3 2020,Tampines,Room4
+1026,2200.0,Q3 2020,Tampines,Room5
+1027,2400.0,Q3 2020,Tampines,Executive
+1028,1840.0,Q3 2020,Toa Payoh,Room3
+1029,2300.0,Q3 2020,Toa Payoh,Room4
+1030,2500.0,Q3 2020,Toa Payoh,Room5
+1032,1550.0,Q3 2020,Woodlands,Room3
+1033,1800.0,Q3 2020,Woodlands,Room4
+1034,1950.0,Q3 2020,Woodlands,Room5
+1035,2200.0,Q3 2020,Woodlands,Executive
+1036,1650.0,Q3 2020,Yishun,Room3
+1037,1800.0,Q3 2020,Yishun,Room4
+1038,2000.0,Q3 2020,Yishun,Room5
+1040,1700.0,Q2 2020,Ang Mo Kio,Room3
+1041,2100.0,Q2 2020,Ang Mo Kio,Room4
+1042,2350.0,Q2 2020,Ang Mo Kio,Room5
+1044,1700.0,Q2 2020,Bedok,Room3
+1045,2000.0,Q2 2020,Bedok,Room4
+1046,2300.0,Q2 2020,Bedok,Room5
+1047,2400.0,Q2 2020,Bedok,Executive
+1048,1800.0,Q2 2020,Bishan,Room3
+1049,2300.0,Q2 2020,Bishan,Room4
+1050,2500.0,Q2 2020,Bishan,Room5
+1052,1600.0,Q2 2020,Bukit Batok,Room3
+1053,1900.0,Q2 2020,Bukit Batok,Room4
+1054,2100.0,Q2 2020,Bukit Batok,Room5
+1056,1950.0,Q2 2020,Bukit Merah,Room3
+1057,2500.0,Q2 2020,Bukit Merah,Room4
+1058,2700.0,Q2 2020,Bukit Merah,Room5
+1060,1500.0,Q2 2020,Bukit Panjang,Room3
+1061,1700.0,Q2 2020,Bukit Panjang,Room4
+1062,1900.0,Q2 2020,Bukit Panjang,Room5
+1063,2000.0,Q2 2020,Bukit Panjang,Executive
+1068,2080.0,Q2 2020,Central,Room3
+1069,2500.0,Q2 2020,Central,Room4
+1073,1800.0,Q2 2020,Choa Chu Kang,Room4
+1074,1850.0,Q2 2020,Choa Chu Kang,Room5
+1075,21000.0,Q2 2020,Choa Chu Kang,Executive
+1076,1880.0,Q2 2020,Clementi,Room3
+1077,2350.0,Q2 2020,Clementi,Room4
+1078,2580.0,Q2 2020,Clementi,Room5
+1080,1750.0,Q2 2020,Geylang,Room3
+1081,2250.0,Q2 2020,Geylang,Room4
+1082,2450.0,Q2 2020,Geylang,Room5
+1084,1650.0,Q2 2020,Hougang,Room3
+1085,1900.0,Q2 2020,Hougang,Room4
+1086,2100.0,Q2 2020,Hougang,Room5
+1087,2250.0,Q2 2020,Hougang,Executive
+1088,1700.0,Q2 2020,Jurong East,Room3
+1089,2000.0,Q2 2020,Jurong East,Room4
+1090,2250.0,Q2 2020,Jurong East,Room5
+1091,2500.0,Q2 2020,Jurong East,Executive
+1092,1650.0,Q2 2020,Jurong West,Room3
+1093,2000.0,Q2 2020,Jurong West,Room4
+1094,2100.0,Q2 2020,Jurong West,Room5
+1095,2200.0,Q2 2020,Jurong West,Executive
+1096,1850.0,Q2 2020,Kallang/ Whampoa,Room3
+1097,2400.0,Q2 2020,Kallang/ Whampoa,Room4
+1098,2500.0,Q2 2020,Kallang/ Whampoa,Room5
+1100,1800.0,Q2 2020,Marine Parade,Room3
+1101,2050.0,Q2 2020,Marine Parade,Room4
+1105,1900.0,Q2 2020,Pasir Ris,Room4
+1106,2050.0,Q2 2020,Pasir Ris,Room5
+1107,2200.0,Q2 2020,Pasir Ris,Executive
+1109,1900.0,Q2 2020,Punggol,Room4
+1110,1900.0,Q2 2020,Punggol,Room5
+1112,1900.0,Q2 2020,Queenstown,Room3
+1113,2550.0,Q2 2020,Queenstown,Room4
+1114,2750.0,Q2 2020,Queenstown,Room5
+1117,1800.0,Q2 2020,Sembawang,Room4
+1118,1900.0,Q2 2020,Sembawang,Room5
+1119,2050.0,Q2 2020,Sembawang,Executive
+1121,1850.0,Q2 2020,Sengkang,Room4
+1122,1950.0,Q2 2020,Sengkang,Room5
+1123,2100.0,Q2 2020,Sengkang,Executive
+1124,1800.0,Q2 2020,Serangoon,Room3
+1125,2200.0,Q2 2020,Serangoon,Room4
+1126,2100.0,Q2 2020,Serangoon,Room5
+1128,1750.0,Q2 2020,Tampines,Room3
+1129,2000.0,Q2 2020,Tampines,Room4
+1130,2200.0,Q2 2020,Tampines,Room5
+1131,2300.0,Q2 2020,Tampines,Executive
+1132,1800.0,Q2 2020,Toa Payoh,Room3
+1133,2300.0,Q2 2020,Toa Payoh,Room4
+1134,2600.0,Q2 2020,Toa Payoh,Room5
+1136,1400.0,Q2 2020,Woodlands,Room3
+1137,1710.0,Q2 2020,Woodlands,Room4
+1138,1800.0,Q2 2020,Woodlands,Room5
+1139,2130.0,Q2 2020,Woodlands,Executive
+1140,1550.0,Q2 2020,Yishun,Room3
+1141,1850.0,Q2 2020,Yishun,Room4
+1142,2000.0,Q2 2020,Yishun,Room5
+1143,2100.0,Q2 2020,Yishun,Executive
+1144,1700.0,Q1 2020,Ang Mo Kio,Room3
+1145,2100.0,Q1 2020,Ang Mo Kio,Room4
+1146,2400.0,Q1 2020,Ang Mo Kio,Room5
+1148,1700.0,Q1 2020,Bedok,Room3
+1149,2000.0,Q1 2020,Bedok,Room4
+1150,2300.0,Q1 2020,Bedok,Room5
+1151,2480.0,Q1 2020,Bedok,Executive
+1152,1900.0,Q1 2020,Bishan,Room3
+1153,2200.0,Q1 2020,Bishan,Room4
+1154,2500.0,Q1 2020,Bishan,Room5
+1156,1600.0,Q1 2020,Bukit Batok,Room3
+1157,1900.0,Q1 2020,Bukit Batok,Room4
+1158,2100.0,Q1 2020,Bukit Batok,Room5
+1159,2200.0,Q1 2020,Bukit Batok,Executive
+1160,1900.0,Q1 2020,Bukit Merah,Room3
+1161,2500.0,Q1 2020,Bukit Merah,Room4
+1162,2720.0,Q1 2020,Bukit Merah,Room5
+1164,1550.0,Q1 2020,Bukit Panjang,Room3
+1165,1800.0,Q1 2020,Bukit Panjang,Room4
+1166,1900.0,Q1 2020,Bukit Panjang,Room5
+1172,2200.0,Q1 2020,Central,Room3
+1173,2600.0,Q1 2020,Central,Room4
+1177,1800.0,Q1 2020,Choa Chu Kang,Room4
+1178,1900.0,Q1 2020,Choa Chu Kang,Room5
+1179,2100.0,Q1 2020,Choa Chu Kang,Executive
+1180,1800.0,Q1 2020,Clementi,Room3
+1181,2350.0,Q1 2020,Clementi,Room4
+1182,2600.0,Q1 2020,Clementi,Room5
+1184,1800.0,Q1 2020,Geylang,Room3
+1185,2300.0,Q1 2020,Geylang,Room4
+1186,2500.0,Q1 2020,Geylang,Room5
+1188,1650.0,Q1 2020,Hougang,Room3
+1189,1950.0,Q1 2020,Hougang,Room4
+1190,2100.0,Q1 2020,Hougang,Room5
+1191,2400.0,Q1 2020,Hougang,Executive
+1192,1700.0,Q1 2020,Jurong East,Room3
+1193,2000.0,Q1 2020,Jurong East,Room4
+1194,2300.0,Q1 2020,Jurong East,Room5
+1196,1600.0,Q1 2020,Jurong West,Room3
+1197,2000.0,Q1 2020,Jurong West,Room4
+1198,2150.0,Q1 2020,Jurong West,Room5
+1199,2300.0,Q1 2020,Jurong West,Executive
+1200,1900.0,Q1 2020,Kallang/ Whampoa,Room3
+1201,2400.0,Q1 2020,Kallang/ Whampoa,Room4
+1202,2600.0,Q1 2020,Kallang/ Whampoa,Room5
+1204,1800.0,Q1 2020,Marine Parade,Room3
+1205,2050.0,Q1 2020,Marine Parade,Room4
+1209,2000.0,Q1 2020,Pasir Ris,Room4
+1210,2100.0,Q1 2020,Pasir Ris,Room5
+1211,2250.0,Q1 2020,Pasir Ris,Executive
+1213,1900.0,Q1 2020,Punggol,Room4
+1214,1900.0,Q1 2020,Punggol,Room5
+1216,1900.0,Q1 2020,Queenstown,Room3
+1217,2650.0,Q1 2020,Queenstown,Room4
+1218,2800.0,Q1 2020,Queenstown,Room5
+1221,1800.0,Q1 2020,Sembawang,Room4
+1222,1900.0,Q1 2020,Sembawang,Room5
+1223,2100.0,Q1 2020,Sembawang,Executive
+1225,1900.0,Q1 2020,Sengkang,Room4
+1226,1950.0,Q1 2020,Sengkang,Room5
+1227,2100.0,Q1 2020,Sengkang,Executive
+1228,1800.0,Q1 2020,Serangoon,Room3
+1229,2200.0,Q1 2020,Serangoon,Room4
+1230,2300.0,Q1 2020,Serangoon,Room5
+1232,1750.0,Q1 2020,Tampines,Room3
+1233,2100.0,Q1 2020,Tampines,Room4
+1234,2250.0,Q1 2020,Tampines,Room5
+1235,2400.0,Q1 2020,Tampines,Executive
+1236,1800.0,Q1 2020,Toa Payoh,Room3
+1237,2200.0,Q1 2020,Toa Payoh,Room4
+1238,2500.0,Q1 2020,Toa Payoh,Room5
+1240,1400.0,Q1 2020,Woodlands,Room3
+1241,1750.0,Q1 2020,Woodlands,Room4
+1242,1800.0,Q1 2020,Woodlands,Room5
+1243,2000.0,Q1 2020,Woodlands,Executive
+1244,1600.0,Q1 2020,Yishun,Room3
+1245,1800.0,Q1 2020,Yishun,Room4
+1246,2030.0,Q1 2020,Yishun,Room5
+1247,2100.0,Q1 2020,Yishun,Executive
+1248,1700.0,Q4 2019,Ang Mo Kio,Room3
+1249,2100.0,Q4 2019,Ang Mo Kio,Room4
+1250,2300.0,Q4 2019,Ang Mo Kio,Room5
+1252,1700.0,Q4 2019,Bedok,Room3
+1253,2000.0,Q4 2019,Bedok,Room4
+1254,2250.0,Q4 2019,Bedok,Room5
+1255,2500.0,Q4 2019,Bedok,Executive
+1256,1800.0,Q4 2019,Bishan,Room3
+1257,2250.0,Q4 2019,Bishan,Room4
+1258,2550.0,Q4 2019,Bishan,Room5
+1260,1600.0,Q4 2019,Bukit Batok,Room3
+1261,1900.0,Q4 2019,Bukit Batok,Room4
+1262,2100.0,Q4 2019,Bukit Batok,Room5
+1263,2200.0,Q4 2019,Bukit Batok,Executive
+1264,1900.0,Q4 2019,Bukit Merah,Room3
+1265,2500.0,Q4 2019,Bukit Merah,Room4
+1266,2800.0,Q4 2019,Bukit Merah,Room5
+1268,1500.0,Q4 2019,Bukit Panjang,Room3
+1269,1700.0,Q4 2019,Bukit Panjang,Room4
+1270,1850.0,Q4 2019,Bukit Panjang,Room5
+1271,1980.0,Q4 2019,Bukit Panjang,Executive
+1276,2200.0,Q4 2019,Central,Room3
+1277,2550.0,Q4 2019,Central,Room4
+1281,1800.0,Q4 2019,Choa Chu Kang,Room4
+1282,1850.0,Q4 2019,Choa Chu Kang,Room5
+1283,2000.0,Q4 2019,Choa Chu Kang,Executive
+1284,1850.0,Q4 2019,Clementi,Room3
+1285,2400.0,Q4 2019,Clementi,Room4
+1286,2500.0,Q4 2019,Clementi,Room5
+1288,1800.0,Q4 2019,Geylang,Room3
+1289,2250.0,Q4 2019,Geylang,Room4
+1290,2500.0,Q4 2019,Geylang,Room5
+1292,1600.0,Q4 2019,Hougang,Room3
+1293,1900.0,Q4 2019,Hougang,Room4
+1294,2100.0,Q4 2019,Hougang,Room5
+1295,2330.0,Q4 2019,Hougang,Executive
+1296,1700.0,Q4 2019,Jurong East,Room3
+1297,2000.0,Q4 2019,Jurong East,Room4
+1298,2200.0,Q4 2019,Jurong East,Room5
+1299,2500.0,Q4 2019,Jurong East,Executive
+1300,1600.0,Q4 2019,Jurong West,Room3
+1301,1950.0,Q4 2019,Jurong West,Room4
+1302,2180.0,Q4 2019,Jurong West,Room5
+1303,2200.0,Q4 2019,Jurong West,Executive
+1304,1900.0,Q4 2019,Kallang/ Whampoa,Room3
+1305,2400.0,Q4 2019,Kallang/ Whampoa,Room4
+1306,2580.0,Q4 2019,Kallang/ Whampoa,Room5
+1308,1800.0,Q4 2019,Marine Parade,Room3
+1309,2100.0,Q4 2019,Marine Parade,Room4
+1313,2000.0,Q4 2019,Pasir Ris,Room4
+1314,2100.0,Q4 2019,Pasir Ris,Room5
+1315,2250.0,Q4 2019,Pasir Ris,Executive
+1317,1900.0,Q4 2019,Punggol,Room4
+1318,1900.0,Q4 2019,Punggol,Room5
+1320,1880.0,Q4 2019,Queenstown,Room3
+1321,2600.0,Q4 2019,Queenstown,Room4
+1322,2800.0,Q4 2019,Queenstown,Room5
+1325,1800.0,Q4 2019,Sembawang,Room4
+1326,1900.0,Q4 2019,Sembawang,Room5
+1327,2000.0,Q4 2019,Sembawang,Executive
+1328,1650.0,Q4 2019,Sengkang,Room3
+1329,1900.0,Q4 2019,Sengkang,Room4
+1330,1900.0,Q4 2019,Sengkang,Room5
+1331,2100.0,Q4 2019,Sengkang,Executive
+1332,1750.0,Q4 2019,Serangoon,Room3
+1333,2100.0,Q4 2019,Serangoon,Room4
+1334,2250.0,Q4 2019,Serangoon,Room5
+1335,2550.0,Q4 2019,Serangoon,Executive
+1336,1750.0,Q4 2019,Tampines,Room3
+1337,2050.0,Q4 2019,Tampines,Room4
+1338,2200.0,Q4 2019,Tampines,Room5
+1339,2400.0,Q4 2019,Tampines,Executive
+1340,1800.0,Q4 2019,Toa Payoh,Room3
+1341,2300.0,Q4 2019,Toa Payoh,Room4
+1342,2400.0,Q4 2019,Toa Payoh,Room5
+1344,1450.0,Q4 2019,Woodlands,Room3
+1345,1700.0,Q4 2019,Woodlands,Room4
+1346,1800.0,Q4 2019,Woodlands,Room5
+1347,2100.0,Q4 2019,Woodlands,Executive
+1348,1600.0,Q4 2019,Yishun,Room3
+1349,1800.0,Q4 2019,Yishun,Room4
+1350,2000.0,Q4 2019,Yishun,Room5
+1351,2150.0,Q4 2019,Yishun,Executive
+1352,1700.0,Q3 2019,Ang Mo Kio,Room3
+1353,2100.0,Q3 2019,Ang Mo Kio,Room4
+1354,2400.0,Q3 2019,Ang Mo Kio,Room5
+1356,1700.0,Q3 2019,Bedok,Room3
+1357,2000.0,Q3 2019,Bedok,Room4
+1358,2250.0,Q3 2019,Bedok,Room5
+1359,2400.0,Q3 2019,Bedok,Executive
+1360,1800.0,Q3 2019,Bishan,Room3
+1361,2300.0,Q3 2019,Bishan,Room4
+1362,2500.0,Q3 2019,Bishan,Room5
+1364,1600.0,Q3 2019,Bukit Batok,Room3
+1365,1900.0,Q3 2019,Bukit Batok,Room4
+1366,2050.0,Q3 2019,Bukit Batok,Room5
+1367,2300.0,Q3 2019,Bukit Batok,Executive
+1368,1950.0,Q3 2019,Bukit Merah,Room3
+1369,2500.0,Q3 2019,Bukit Merah,Room4
+1370,2800.0,Q3 2019,Bukit Merah,Room5
+1372,1500.0,Q3 2019,Bukit Panjang,Room3
+1373,1700.0,Q3 2019,Bukit Panjang,Room4
+1374,1800.0,Q3 2019,Bukit Panjang,Room5
+1375,2080.0,Q3 2019,Bukit Panjang,Executive
+1380,2200.0,Q3 2019,Central,Room3
+1381,2800.0,Q3 2019,Central,Room4
+1384,1480.0,Q3 2019,Choa Chu Kang,Room3
+1385,1750.0,Q3 2019,Choa Chu Kang,Room4
+1386,1900.0,Q3 2019,Choa Chu Kang,Room5
+1387,2030.0,Q3 2019,Choa Chu Kang,Executive
+1388,1850.0,Q3 2019,Clementi,Room3
+1389,2400.0,Q3 2019,Clementi,Room4
+1390,2600.0,Q3 2019,Clementi,Room5
+1392,1800.0,Q3 2019,Geylang,Room3
+1393,2250.0,Q3 2019,Geylang,Room4
+1394,2500.0,Q3 2019,Geylang,Room5
+1396,1600.0,Q3 2019,Hougang,Room3
+1397,1900.0,Q3 2019,Hougang,Room4
+1398,2100.0,Q3 2019,Hougang,Room5
+1399,2300.0,Q3 2019,Hougang,Executive
+1400,1700.0,Q3 2019,Jurong East,Room3
+1401,2000.0,Q3 2019,Jurong East,Room4
+1402,2200.0,Q3 2019,Jurong East,Room5
+1403,2500.0,Q3 2019,Jurong East,Executive
+1404,1600.0,Q3 2019,Jurong West,Room3
+1405,2000.0,Q3 2019,Jurong West,Room4
+1406,2100.0,Q3 2019,Jurong West,Room5
+1407,2300.0,Q3 2019,Jurong West,Executive
+1408,1900.0,Q3 2019,Kallang/ Whampoa,Room3
+1409,2450.0,Q3 2019,Kallang/ Whampoa,Room4
+1410,2630.0,Q3 2019,Kallang/ Whampoa,Room5
+1412,1800.0,Q3 2019,Marine Parade,Room3
+1413,2100.0,Q3 2019,Marine Parade,Room4
+1414,2500.0,Q3 2019,Marine Parade,Room5
+1417,1950.0,Q3 2019,Pasir Ris,Room4
+1418,2080.0,Q3 2019,Pasir Ris,Room5
+1419,2300.0,Q3 2019,Pasir Ris,Executive
+1420,1700.0,Q3 2019,Punggol,Room3
+1421,1900.0,Q3 2019,Punggol,Room4
+1422,1900.0,Q3 2019,Punggol,Room5
+1424,1900.0,Q3 2019,Queenstown,Room3
+1425,2520.0,Q3 2019,Queenstown,Room4
+1426,2800.0,Q3 2019,Queenstown,Room5
+1429,1800.0,Q3 2019,Sembawang,Room4
+1430,1900.0,Q3 2019,Sembawang,Room5
+1431,2000.0,Q3 2019,Sembawang,Executive
+1432,1650.0,Q3 2019,Sengkang,Room3
+1433,1880.0,Q3 2019,Sengkang,Room4
+1434,1900.0,Q3 2019,Sengkang,Room5
+1435,2000.0,Q3 2019,Sengkang,Executive
+1436,1800.0,Q3 2019,Serangoon,Room3
+1437,2190.0,Q3 2019,Serangoon,Room4
+1438,2200.0,Q3 2019,Serangoon,Room5
+1440,1750.0,Q3 2019,Tampines,Room3
+1441,2000.0,Q3 2019,Tampines,Room4
+1442,2200.0,Q3 2019,Tampines,Room5
+1443,2400.0,Q3 2019,Tampines,Executive
+1444,1800.0,Q3 2019,Toa Payoh,Room3
+1445,2300.0,Q3 2019,Toa Payoh,Room4
+1446,2600.0,Q3 2019,Toa Payoh,Room5
+1448,1400.0,Q3 2019,Woodlands,Room3
+1449,1700.0,Q3 2019,Woodlands,Room4
+1450,1800.0,Q3 2019,Woodlands,Room5
+1451,2100.0,Q3 2019,Woodlands,Executive
+1452,1600.0,Q3 2019,Yishun,Room3
+1453,1800.0,Q3 2019,Yishun,Room4
+1454,2000.0,Q3 2019,Yishun,Room5
+1455,2000.0,Q3 2019,Yishun,Executive
+1456,1700.0,Q2 2019,Ang Mo Kio,Room3
+1457,2100.0,Q2 2019,Ang Mo Kio,Room4
+1458,2300.0,Q2 2019,Ang Mo Kio,Room5
+1460,1700.0,Q2 2019,Bedok,Room3
+1461,2100.0,Q2 2019,Bedok,Room4
+1462,2300.0,Q2 2019,Bedok,Room5
+1463,2400.0,Q2 2019,Bedok,Executive
+1464,1800.0,Q2 2019,Bishan,Room3
+1465,2300.0,Q2 2019,Bishan,Room4
+1466,2500.0,Q2 2019,Bishan,Room5
+1468,1600.0,Q2 2019,Bukit Batok,Room3
+1469,1900.0,Q2 2019,Bukit Batok,Room4
+1470,2030.0,Q2 2019,Bukit Batok,Room5
+1471,2280.0,Q2 2019,Bukit Batok,Executive
+1472,1900.0,Q2 2019,Bukit Merah,Room3
+1473,2600.0,Q2 2019,Bukit Merah,Room4
+1474,2730.0,Q2 2019,Bukit Merah,Room5
+1476,1500.0,Q2 2019,Bukit Panjang,Room3
+1477,1700.0,Q2 2019,Bukit Panjang,Room4
+1478,1800.0,Q2 2019,Bukit Panjang,Room5
+1479,2000.0,Q2 2019,Bukit Panjang,Executive
+1484,2100.0,Q2 2019,Central,Room3
+1485,2700.0,Q2 2019,Central,Room4
+1488,1500.0,Q2 2019,Choa Chu Kang,Room3
+1489,1750.0,Q2 2019,Choa Chu Kang,Room4
+1490,1800.0,Q2 2019,Choa Chu Kang,Room5
+1491,2050.0,Q2 2019,Choa Chu Kang,Executive
+1492,1800.0,Q2 2019,Clementi,Room3
+1493,2400.0,Q2 2019,Clementi,Room4
+1494,2500.0,Q2 2019,Clementi,Room5
+1496,1800.0,Q2 2019,Geylang,Room3
+1497,2300.0,Q2 2019,Geylang,Room4
+1498,2400.0,Q2 2019,Geylang,Room5
+1500,1650.0,Q2 2019,Hougang,Room3
+1501,1900.0,Q2 2019,Hougang,Room4
+1502,2050.0,Q2 2019,Hougang,Room5
+1503,2400.0,Q2 2019,Hougang,Executive
+1504,1700.0,Q2 2019,Jurong East,Room3
+1505,2050.0,Q2 2019,Jurong East,Room4
+1506,2230.0,Q2 2019,Jurong East,Room5
+1508,1600.0,Q2 2019,Jurong West,Room3
+1509,2000.0,Q2 2019,Jurong West,Room4
+1510,2100.0,Q2 2019,Jurong West,Room5
+1511,2250.0,Q2 2019,Jurong West,Executive
+1512,1900.0,Q2 2019,Kallang/ Whampoa,Room3
+1513,2400.0,Q2 2019,Kallang/ Whampoa,Room4
+1514,2500.0,Q2 2019,Kallang/ Whampoa,Room5
+1516,1800.0,Q2 2019,Marine Parade,Room3
+1517,2100.0,Q2 2019,Marine Parade,Room4
+1521,1900.0,Q2 2019,Pasir Ris,Room4
+1522,2050.0,Q2 2019,Pasir Ris,Room5
+1523,2250.0,Q2 2019,Pasir Ris,Executive
+1525,1800.0,Q2 2019,Punggol,Room4
+1526,1900.0,Q2 2019,Punggol,Room5
+1528,1900.0,Q2 2019,Queenstown,Room3
+1529,2600.0,Q2 2019,Queenstown,Room4
+1530,2800.0,Q2 2019,Queenstown,Room5
+1533,1800.0,Q2 2019,Sembawang,Room4
+1534,1900.0,Q2 2019,Sembawang,Room5
+1535,2000.0,Q2 2019,Sembawang,Executive
+1537,1800.0,Q2 2019,Sengkang,Room4
+1538,1900.0,Q2 2019,Sengkang,Room5
+1539,2090.0,Q2 2019,Sengkang,Executive
+1540,1750.0,Q2 2019,Serangoon,Room3
+1541,2200.0,Q2 2019,Serangoon,Room4
+1542,2200.0,Q2 2019,Serangoon,Room5
+1543,2300.0,Q2 2019,Serangoon,Executive
+1544,1700.0,Q2 2019,Tampines,Room3
+1545,2000.0,Q2 2019,Tampines,Room4
+1546,2200.0,Q2 2019,Tampines,Room5
+1547,2390.0,Q2 2019,Tampines,Executive
+1548,1800.0,Q2 2019,Toa Payoh,Room3
+1549,2250.0,Q2 2019,Toa Payoh,Room4
+1550,2500.0,Q2 2019,Toa Payoh,Room5
+1552,1430.0,Q2 2019,Woodlands,Room3
+1553,1700.0,Q2 2019,Woodlands,Room4
+1554,1800.0,Q2 2019,Woodlands,Room5
+1555,2000.0,Q2 2019,Woodlands,Executive
+1556,1500.0,Q2 2019,Yishun,Room3
+1557,1800.0,Q2 2019,Yishun,Room4
+1558,2000.0,Q2 2019,Yishun,Room5
+1559,2100.0,Q2 2019,Yishun,Executive
+1560,1700.0,Q1 2019,Ang Mo Kio,Room3
+1561,2100.0,Q1 2019,Ang Mo Kio,Room4
+1562,2300.0,Q1 2019,Ang Mo Kio,Room5
+1564,1700.0,Q1 2019,Bedok,Room3
+1565,2000.0,Q1 2019,Bedok,Room4
+1566,2250.0,Q1 2019,Bedok,Room5
+1567,2400.0,Q1 2019,Bedok,Executive
+1568,1800.0,Q1 2019,Bishan,Room3
+1569,2200.0,Q1 2019,Bishan,Room4
+1570,2500.0,Q1 2019,Bishan,Room5
+1572,1600.0,Q1 2019,Bukit Batok,Room3
+1573,1900.0,Q1 2019,Bukit Batok,Room4
+1574,2100.0,Q1 2019,Bukit Batok,Room5
+1575,2200.0,Q1 2019,Bukit Batok,Executive
+1576,1900.0,Q1 2019,Bukit Merah,Room3
+1577,2500.0,Q1 2019,Bukit Merah,Room4
+1578,2800.0,Q1 2019,Bukit Merah,Room5
+1580,1500.0,Q1 2019,Bukit Panjang,Room3
+1581,1700.0,Q1 2019,Bukit Panjang,Room4
+1582,1900.0,Q1 2019,Bukit Panjang,Room5
+1583,2000.0,Q1 2019,Bukit Panjang,Executive
+1588,2150.0,Q1 2019,Central,Room3
+1589,2700.0,Q1 2019,Central,Room4
+1593,1700.0,Q1 2019,Choa Chu Kang,Room4
+1594,1800.0,Q1 2019,Choa Chu Kang,Room5
+1595,2000.0,Q1 2019,Choa Chu Kang,Executive
+1596,1800.0,Q1 2019,Clementi,Room3
+1597,2300.0,Q1 2019,Clementi,Room4
+1598,2580.0,Q1 2019,Clementi,Room5
+1600,1800.0,Q1 2019,Geylang,Room3
+1601,2300.0,Q1 2019,Geylang,Room4
+1602,2500.0,Q1 2019,Geylang,Room5
+1604,1600.0,Q1 2019,Hougang,Room3
+1605,1900.0,Q1 2019,Hougang,Room4
+1606,2050.0,Q1 2019,Hougang,Room5
+1607,2250.0,Q1 2019,Hougang,Executive
+1608,1700.0,Q1 2019,Jurong East,Room3
+1609,2030.0,Q1 2019,Jurong East,Room4
+1610,2300.0,Q1 2019,Jurong East,Room5
+1611,2500.0,Q1 2019,Jurong East,Executive
+1612,1600.0,Q1 2019,Jurong West,Room3
+1613,1950.0,Q1 2019,Jurong West,Room4
+1614,2100.0,Q1 2019,Jurong West,Room5
+1615,2250.0,Q1 2019,Jurong West,Executive
+1616,1850.0,Q1 2019,Kallang/ Whampoa,Room3
+1617,2400.0,Q1 2019,Kallang/ Whampoa,Room4
+1618,2600.0,Q1 2019,Kallang/ Whampoa,Room5
+1620,1850.0,Q1 2019,Marine Parade,Room3
+1621,2100.0,Q1 2019,Marine Parade,Room4
+1622,2500.0,Q1 2019,Marine Parade,Room5
+1625,2000.0,Q1 2019,Pasir Ris,Room4
+1626,2100.0,Q1 2019,Pasir Ris,Room5
+1627,2250.0,Q1 2019,Pasir Ris,Executive
+1629,1800.0,Q1 2019,Punggol,Room4
+1630,1900.0,Q1 2019,Punggol,Room5
+1632,1900.0,Q1 2019,Queenstown,Room3
+1633,2500.0,Q1 2019,Queenstown,Room4
+1634,2800.0,Q1 2019,Queenstown,Room5
+1637,1800.0,Q1 2019,Sembawang,Room4
+1638,1900.0,Q1 2019,Sembawang,Room5
+1639,2000.0,Q1 2019,Sembawang,Executive
+1641,1850.0,Q1 2019,Sengkang,Room4
+1642,1900.0,Q1 2019,Sengkang,Room5
+1643,2000.0,Q1 2019,Sengkang,Executive
+1644,1800.0,Q1 2019,Serangoon,Room3
+1645,2200.0,Q1 2019,Serangoon,Room4
+1646,2250.0,Q1 2019,Serangoon,Room5
+1648,1700.0,Q1 2019,Tampines,Room3
+1649,2000.0,Q1 2019,Tampines,Room4
+1650,2200.0,Q1 2019,Tampines,Room5
+1651,2400.0,Q1 2019,Tampines,Executive
+1652,1800.0,Q1 2019,Toa Payoh,Room3
+1653,2250.0,Q1 2019,Toa Payoh,Room4
+1654,2500.0,Q1 2019,Toa Payoh,Room5
+1656,1400.0,Q1 2019,Woodlands,Room3
+1657,1750.0,Q1 2019,Woodlands,Room4
+1658,1800.0,Q1 2019,Woodlands,Room5
+1659,2100.0,Q1 2019,Woodlands,Executive
+1660,1550.0,Q1 2019,Yishun,Room3
+1661,1800.0,Q1 2019,Yishun,Room4
+1662,2000.0,Q1 2019,Yishun,Room5
+1663,2100.0,Q1 2019,Yishun,Executive
+1664,1700.0,Q4 2018,Ang Mo Kio,Room3
+1665,2100.0,Q4 2018,Ang Mo Kio,Room4
+1666,2330.0,Q4 2018,Ang Mo Kio,Room5
+1668,1700.0,Q4 2018,Bedok,Room3
+1669,2000.0,Q4 2018,Bedok,Room4
+1670,2200.0,Q4 2018,Bedok,Room5
+1671,2500.0,Q4 2018,Bedok,Executive
+1672,1800.0,Q4 2018,Bishan,Room3
+1673,2300.0,Q4 2018,Bishan,Room4
+1674,2500.0,Q4 2018,Bishan,Room5
+1676,1600.0,Q4 2018,Bukit Batok,Room3
+1677,1900.0,Q4 2018,Bukit Batok,Room4
+1678,2100.0,Q4 2018,Bukit Batok,Room5
+1679,2100.0,Q4 2018,Bukit Batok,Executive
+1680,1900.0,Q4 2018,Bukit Merah,Room3
+1681,2500.0,Q4 2018,Bukit Merah,Room4
+1682,2700.0,Q4 2018,Bukit Merah,Room5
+1684,1500.0,Q4 2018,Bukit Panjang,Room3
+1685,1700.0,Q4 2018,Bukit Panjang,Room4
+1686,1800.0,Q4 2018,Bukit Panjang,Room5
+1687,2000.0,Q4 2018,Bukit Panjang,Executive
+1692,2100.0,Q4 2018,Central,Room3
+1693,2600.0,Q4 2018,Central,Room4
+1697,1700.0,Q4 2018,Choa Chu Kang,Room4
+1698,1800.0,Q4 2018,Choa Chu Kang,Room5
+1699,2000.0,Q4 2018,Choa Chu Kang,Executive
+1700,1800.0,Q4 2018,Clementi,Room3
+1701,2300.0,Q4 2018,Clementi,Room4
+1702,2500.0,Q4 2018,Clementi,Room5
+1704,1750.0,Q4 2018,Geylang,Room3
+1705,2300.0,Q4 2018,Geylang,Room4
+1706,2500.0,Q4 2018,Geylang,Room5
+1708,1600.0,Q4 2018,Hougang,Room3
+1709,1900.0,Q4 2018,Hougang,Room4
+1710,2030.0,Q4 2018,Hougang,Room5
+1711,2200.0,Q4 2018,Hougang,Executive
+1712,1680.0,Q4 2018,Jurong East,Room3
+1713,2000.0,Q4 2018,Jurong East,Room4
+1714,2250.0,Q4 2018,Jurong East,Room5
+1715,2500.0,Q4 2018,Jurong East,Executive
+1716,1600.0,Q4 2018,Jurong West,Room3
+1717,2000.0,Q4 2018,Jurong West,Room4
+1718,2200.0,Q4 2018,Jurong West,Room5
+1719,2200.0,Q4 2018,Jurong West,Executive
+1720,1900.0,Q4 2018,Kallang/ Whampoa,Room3
+1721,2400.0,Q4 2018,Kallang/ Whampoa,Room4
+1722,2500.0,Q4 2018,Kallang/ Whampoa,Room5
+1724,1800.0,Q4 2018,Marine Parade,Room3
+1725,2100.0,Q4 2018,Marine Parade,Room4
+1729,1950.0,Q4 2018,Pasir Ris,Room4
+1730,2000.0,Q4 2018,Pasir Ris,Room5
+1731,2200.0,Q4 2018,Pasir Ris,Executive
+1733,1800.0,Q4 2018,Punggol,Room4
+1734,1900.0,Q4 2018,Punggol,Room5
+1735,2000.0,Q4 2018,Punggol,Executive
+1736,1900.0,Q4 2018,Queenstown,Room3
+1737,2500.0,Q4 2018,Queenstown,Room4
+1738,2800.0,Q4 2018,Queenstown,Room5
+1741,1750.0,Q4 2018,Sembawang,Room4
+1742,1900.0,Q4 2018,Sembawang,Room5
+1743,2000.0,Q4 2018,Sembawang,Executive
+1745,1800.0,Q4 2018,Sengkang,Room4
+1746,1900.0,Q4 2018,Sengkang,Room5
+1747,2000.0,Q4 2018,Sengkang,Executive
+1748,1800.0,Q4 2018,Serangoon,Room3
+1749,2140.0,Q4 2018,Serangoon,Room4
+1750,2200.0,Q4 2018,Serangoon,Room5
+1751,2350.0,Q4 2018,Serangoon,Executive
+1752,1700.0,Q4 2018,Tampines,Room3
+1753,2000.0,Q4 2018,Tampines,Room4
+1754,2200.0,Q4 2018,Tampines,Room5
+1755,2400.0,Q4 2018,Tampines,Executive
+1756,1800.0,Q4 2018,Toa Payoh,Room3
+1757,2300.0,Q4 2018,Toa Payoh,Room4
+1758,2500.0,Q4 2018,Toa Payoh,Room5
+1760,1400.0,Q4 2018,Woodlands,Room3
+1761,1700.0,Q4 2018,Woodlands,Room4
+1762,1800.0,Q4 2018,Woodlands,Room5
+1763,2050.0,Q4 2018,Woodlands,Executive
+1764,1550.0,Q4 2018,Yishun,Room3
+1765,1800.0,Q4 2018,Yishun,Room4
+1766,2000.0,Q4 2018,Yishun,Room5
+1767,2010.0,Q4 2018,Yishun,Executive
+1768,1700.0,Q3 2018,Ang Mo Kio,Room3
+1769,2100.0,Q3 2018,Ang Mo Kio,Room4
+1770,2300.0,Q3 2018,Ang Mo Kio,Room5
+1772,1700.0,Q3 2018,Bedok,Room3
+1773,2000.0,Q3 2018,Bedok,Room4
+1774,2200.0,Q3 2018,Bedok,Room5
+1776,1850.0,Q3 2018,Bishan,Room3
+1777,2200.0,Q3 2018,Bishan,Room4
+1778,2500.0,Q3 2018,Bishan,Room5
+1780,1600.0,Q3 2018,Bukit Batok,Room3
+1781,1900.0,Q3 2018,Bukit Batok,Room4
+1782,2000.0,Q3 2018,Bukit Batok,Room5
+1783,2100.0,Q3 2018,Bukit Batok,Executive
+1784,1900.0,Q3 2018,Bukit Merah,Room3
+1785,2550.0,Q3 2018,Bukit Merah,Room4
+1786,2750.0,Q3 2018,Bukit Merah,Room5
+1788,1500.0,Q3 2018,Bukit Panjang,Room3
+1789,1700.0,Q3 2018,Bukit Panjang,Room4
+1790,1800.0,Q3 2018,Bukit Panjang,Room5
+1791,2000.0,Q3 2018,Bukit Panjang,Executive
+1796,2100.0,Q3 2018,Central,Room3
+1797,2500.0,Q3 2018,Central,Room4
+1800,1530.0,Q3 2018,Choa Chu Kang,Room3
+1801,1750.0,Q3 2018,Choa Chu Kang,Room4
+1802,1850.0,Q3 2018,Choa Chu Kang,Room5
+1803,2000.0,Q3 2018,Choa Chu Kang,Executive
+1804,1800.0,Q3 2018,Clementi,Room3
+1805,2400.0,Q3 2018,Clementi,Room4
+1806,2580.0,Q3 2018,Clementi,Room5
+1808,1800.0,Q3 2018,Geylang,Room3
+1809,2300.0,Q3 2018,Geylang,Room4
+1810,2500.0,Q3 2018,Geylang,Room5
+1812,1600.0,Q3 2018,Hougang,Room3
+1813,1900.0,Q3 2018,Hougang,Room4
+1814,2100.0,Q3 2018,Hougang,Room5
+1815,2300.0,Q3 2018,Hougang,Executive
+1816,1700.0,Q3 2018,Jurong East,Room3
+1817,2000.0,Q3 2018,Jurong East,Room4
+1818,2200.0,Q3 2018,Jurong East,Room5
+1820,1600.0,Q3 2018,Jurong West,Room3
+1821,2000.0,Q3 2018,Jurong West,Room4
+1822,2150.0,Q3 2018,Jurong West,Room5
+1823,2300.0,Q3 2018,Jurong West,Executive
+1824,1900.0,Q3 2018,Kallang/ Whampoa,Room3
+1825,2400.0,Q3 2018,Kallang/ Whampoa,Room4
+1826,2600.0,Q3 2018,Kallang/ Whampoa,Room5
+1828,1800.0,Q3 2018,Marine Parade,Room3
+1829,2200.0,Q3 2018,Marine Parade,Room4
+1833,1900.0,Q3 2018,Pasir Ris,Room4
+1834,2100.0,Q3 2018,Pasir Ris,Room5
+1835,2250.0,Q3 2018,Pasir Ris,Executive
+1837,1850.0,Q3 2018,Punggol,Room4
+1838,1850.0,Q3 2018,Punggol,Room5
+1840,1900.0,Q3 2018,Queenstown,Room3
+1841,2500.0,Q3 2018,Queenstown,Room4
+1842,2800.0,Q3 2018,Queenstown,Room5
+1845,1750.0,Q3 2018,Sembawang,Room4
+1846,1900.0,Q3 2018,Sembawang,Room5
+1847,1950.0,Q3 2018,Sembawang,Executive
+1849,1800.0,Q3 2018,Sengkang,Room4
+1850,1900.0,Q3 2018,Sengkang,Room5
+1851,2000.0,Q3 2018,Sengkang,Executive
+1852,1800.0,Q3 2018,Serangoon,Room3
+1853,2200.0,Q3 2018,Serangoon,Room4
+1854,2300.0,Q3 2018,Serangoon,Room5
+1856,1700.0,Q3 2018,Tampines,Room3
+1857,2000.0,Q3 2018,Tampines,Room4
+1858,2200.0,Q3 2018,Tampines,Room5
+1859,2300.0,Q3 2018,Tampines,Executive
+1860,1800.0,Q3 2018,Toa Payoh,Room3
+1861,2200.0,Q3 2018,Toa Payoh,Room4
+1862,2500.0,Q3 2018,Toa Payoh,Room5
+1864,1400.0,Q3 2018,Woodlands,Room3
+1865,1700.0,Q3 2018,Woodlands,Room4
+1866,1800.0,Q3 2018,Woodlands,Room5
+1867,2000.0,Q3 2018,Woodlands,Executive
+1868,1550.0,Q3 2018,Yishun,Room3
+1869,1800.0,Q3 2018,Yishun,Room4
+1870,2000.0,Q3 2018,Yishun,Room5
+1871,2100.0,Q3 2018,Yishun,Executive
+1872,1700.0,Q2 2018,Ang Mo Kio,Room3
+1873,2000.0,Q2 2018,Ang Mo Kio,Room4
+1874,2400.0,Q2 2018,Ang Mo Kio,Room5
+1876,1700.0,Q2 2018,Bedok,Room3
+1877,2000.0,Q2 2018,Bedok,Room4
+1878,2300.0,Q2 2018,Bedok,Room5
+1879,2350.0,Q2 2018,Bedok,Executive
+1880,1850.0,Q2 2018,Bishan,Room3
+1881,2300.0,Q2 2018,Bishan,Room4
+1882,2550.0,Q2 2018,Bishan,Room5
+1884,1600.0,Q2 2018,Bukit Batok,Room3
+1885,1900.0,Q2 2018,Bukit Batok,Room4
+1886,2100.0,Q2 2018,Bukit Batok,Room5
+1887,2250.0,Q2 2018,Bukit Batok,Executive
+1888,1900.0,Q2 2018,Bukit Merah,Room3
+1889,2500.0,Q2 2018,Bukit Merah,Room4
+1890,2750.0,Q2 2018,Bukit Merah,Room5
+1892,1500.0,Q2 2018,Bukit Panjang,Room3
+1893,1650.0,Q2 2018,Bukit Panjang,Room4
+1894,1800.0,Q2 2018,Bukit Panjang,Room5
+1895,2000.0,Q2 2018,Bukit Panjang,Executive
+1900,2150.0,Q2 2018,Central,Room3
+1901,2750.0,Q2 2018,Central,Room4
+1905,1800.0,Q2 2018,Choa Chu Kang,Room4
+1906,1900.0,Q2 2018,Choa Chu Kang,Room5
+1907,2100.0,Q2 2018,Choa Chu Kang,Executive
+1908,1890.0,Q2 2018,Clementi,Room3
+1909,2300.0,Q2 2018,Clementi,Room4
+1910,2600.0,Q2 2018,Clementi,Room5
+1912,1800.0,Q2 2018,Geylang,Room3
+1913,2250.0,Q2 2018,Geylang,Room4
+1914,2450.0,Q2 2018,Geylang,Room5
+1916,1600.0,Q2 2018,Hougang,Room3
+1917,1900.0,Q2 2018,Hougang,Room4
+1918,2100.0,Q2 2018,Hougang,Room5
+1919,2250.0,Q2 2018,Hougang,Executive
+1920,1700.0,Q2 2018,Jurong East,Room3
+1921,2000.0,Q2 2018,Jurong East,Room4
+1922,2300.0,Q2 2018,Jurong East,Room5
+1923,2600.0,Q2 2018,Jurong East,Executive
+1924,1600.0,Q2 2018,Jurong West,Room3
+1925,2000.0,Q2 2018,Jurong West,Room4
+1926,2100.0,Q2 2018,Jurong West,Room5
+1927,2200.0,Q2 2018,Jurong West,Executive
+1928,1900.0,Q2 2018,Kallang/ Whampoa,Room3
+1929,2400.0,Q2 2018,Kallang/ Whampoa,Room4
+1930,2600.0,Q2 2018,Kallang/ Whampoa,Room5
+1932,1800.0,Q2 2018,Marine Parade,Room3
+1933,2100.0,Q2 2018,Marine Parade,Room4
+1937,1900.0,Q2 2018,Pasir Ris,Room4
+1938,2000.0,Q2 2018,Pasir Ris,Room5
+1939,2300.0,Q2 2018,Pasir Ris,Executive
+1941,1800.0,Q2 2018,Punggol,Room4
+1942,1850.0,Q2 2018,Punggol,Room5
+1944,1850.0,Q2 2018,Queenstown,Room3
+1945,2600.0,Q2 2018,Queenstown,Room4
+1946,2800.0,Q2 2018,Queenstown,Room5
+1949,1750.0,Q2 2018,Sembawang,Room4
+1950,1900.0,Q2 2018,Sembawang,Room5
+1951,2000.0,Q2 2018,Sembawang,Executive
+1953,1800.0,Q2 2018,Sengkang,Room4
+1954,1900.0,Q2 2018,Sengkang,Room5
+1955,2000.0,Q2 2018,Sengkang,Executive
+1956,1800.0,Q2 2018,Serangoon,Room3
+1957,2200.0,Q2 2018,Serangoon,Room4
+1958,2250.0,Q2 2018,Serangoon,Room5
+1959,2500.0,Q2 2018,Serangoon,Executive
+1960,1700.0,Q2 2018,Tampines,Room3
+1961,2000.0,Q2 2018,Tampines,Room4
+1962,2200.0,Q2 2018,Tampines,Room5
+1963,2400.0,Q2 2018,Tampines,Executive
+1964,1800.0,Q2 2018,Toa Payoh,Room3
+1965,2350.0,Q2 2018,Toa Payoh,Room4
+1966,2480.0,Q2 2018,Toa Payoh,Room5
+1968,1400.0,Q2 2018,Woodlands,Room3
+1969,1700.0,Q2 2018,Woodlands,Room4
+1970,1850.0,Q2 2018,Woodlands,Room5
+1971,2100.0,Q2 2018,Woodlands,Executive
+1972,1500.0,Q2 2018,Yishun,Room3
+1973,1900.0,Q2 2018,Yishun,Room4
+1974,2000.0,Q2 2018,Yishun,Room5
+1975,2200.0,Q2 2018,Yishun,Executive
+1976,1700.0,Q1 2018,Ang Mo Kio,Room3
+1977,2100.0,Q1 2018,Ang Mo Kio,Room4
+1978,2300.0,Q1 2018,Ang Mo Kio,Room5
+1980,1700.0,Q1 2018,Bedok,Room3
+1981,2050.0,Q1 2018,Bedok,Room4
+1982,2300.0,Q1 2018,Bedok,Room5
+1983,2400.0,Q1 2018,Bedok,Executive
+1984,1800.0,Q1 2018,Bishan,Room3
+1985,2250.0,Q1 2018,Bishan,Room4
+1986,2500.0,Q1 2018,Bishan,Room5
+1988,1600.0,Q1 2018,Bukit Batok,Room3
+1989,1900.0,Q1 2018,Bukit Batok,Room4
+1990,2100.0,Q1 2018,Bukit Batok,Room5
+1991,2200.0,Q1 2018,Bukit Batok,Executive
+1992,1900.0,Q1 2018,Bukit Merah,Room3
+1993,2500.0,Q1 2018,Bukit Merah,Room4
+1994,2800.0,Q1 2018,Bukit Merah,Room5
+1996,1500.0,Q1 2018,Bukit Panjang,Room3
+1997,1700.0,Q1 2018,Bukit Panjang,Room4
+1998,1800.0,Q1 2018,Bukit Panjang,Room5
+1999,2000.0,Q1 2018,Bukit Panjang,Executive
+2004,2100.0,Q1 2018,Central,Room3
+2005,2580.0,Q1 2018,Central,Room4
+2009,1750.0,Q1 2018,Choa Chu Kang,Room4
+2010,1900.0,Q1 2018,Choa Chu Kang,Room5
+2011,2000.0,Q1 2018,Choa Chu Kang,Executive
+2012,1800.0,Q1 2018,Clementi,Room3
+2013,2300.0,Q1 2018,Clementi,Room4
+2014,2500.0,Q1 2018,Clementi,Room5
+2016,1750.0,Q1 2018,Geylang,Room3
+2017,2300.0,Q1 2018,Geylang,Room4
+2018,2550.0,Q1 2018,Geylang,Room5
+2020,1600.0,Q1 2018,Hougang,Room3
+2021,1900.0,Q1 2018,Hougang,Room4
+2022,2100.0,Q1 2018,Hougang,Room5
+2023,2350.0,Q1 2018,Hougang,Executive
+2024,1700.0,Q1 2018,Jurong East,Room3
+2025,2100.0,Q1 2018,Jurong East,Room4
+2026,2300.0,Q1 2018,Jurong East,Room5
+2027,2500.0,Q1 2018,Jurong East,Executive
+2028,1650.0,Q1 2018,Jurong West,Room3
+2029,2000.0,Q1 2018,Jurong West,Room4
+2030,2150.0,Q1 2018,Jurong West,Room5
+2031,2300.0,Q1 2018,Jurong West,Executive
+2032,1850.0,Q1 2018,Kallang/ Whampoa,Room3
+2033,2500.0,Q1 2018,Kallang/ Whampoa,Room4
+2034,2600.0,Q1 2018,Kallang/ Whampoa,Room5
+2036,1800.0,Q1 2018,Marine Parade,Room3
+2037,2200.0,Q1 2018,Marine Parade,Room4
+2038,2500.0,Q1 2018,Marine Parade,Room5
+2041,2000.0,Q1 2018,Pasir Ris,Room4
+2042,2100.0,Q1 2018,Pasir Ris,Room5
+2043,2300.0,Q1 2018,Pasir Ris,Executive
+2045,1800.0,Q1 2018,Punggol,Room4
+2046,1800.0,Q1 2018,Punggol,Room5
+2048,1850.0,Q1 2018,Queenstown,Room3
+2049,2600.0,Q1 2018,Queenstown,Room4
+2050,2800.0,Q1 2018,Queenstown,Room5
+2053,1850.0,Q1 2018,Sembawang,Room4
+2054,1900.0,Q1 2018,Sembawang,Room5
+2055,2100.0,Q1 2018,Sembawang,Executive
+2057,1800.0,Q1 2018,Sengkang,Room4
+2058,1900.0,Q1 2018,Sengkang,Room5
+2059,2000.0,Q1 2018,Sengkang,Executive
+2060,1750.0,Q1 2018,Serangoon,Room3
+2061,2200.0,Q1 2018,Serangoon,Room4
+2062,2350.0,Q1 2018,Serangoon,Room5
+2063,2500.0,Q1 2018,Serangoon,Executive
+2064,1700.0,Q1 2018,Tampines,Room3
+2065,2000.0,Q1 2018,Tampines,Room4
+2066,2200.0,Q1 2018,Tampines,Room5
+2067,2400.0,Q1 2018,Tampines,Executive
+2068,1800.0,Q1 2018,Toa Payoh,Room3
+2069,2250.0,Q1 2018,Toa Payoh,Room4
+2070,2600.0,Q1 2018,Toa Payoh,Room5
+2072,1400.0,Q1 2018,Woodlands,Room3
+2073,1800.0,Q1 2018,Woodlands,Room4
+2074,1900.0,Q1 2018,Woodlands,Room5
+2075,2100.0,Q1 2018,Woodlands,Executive
+2076,1530.0,Q1 2018,Yishun,Room3
+2077,1890.0,Q1 2018,Yishun,Room4
+2078,2000.0,Q1 2018,Yishun,Room5
+2079,2200.0,Q1 2018,Yishun,Executive
+2080,1700.0,Q4 2017,Ang Mo Kio,Room3
+2081,2200.0,Q4 2017,Ang Mo Kio,Room4
+2082,2450.0,Q4 2017,Ang Mo Kio,Room5
+2084,1700.0,Q4 2017,Bedok,Room3
+2085,2100.0,Q4 2017,Bedok,Room4
+2086,2200.0,Q4 2017,Bedok,Room5
+2088,1900.0,Q4 2017,Bishan,Room3
+2089,2300.0,Q4 2017,Bishan,Room4
+2090,2600.0,Q4 2017,Bishan,Room5
+2092,1600.0,Q4 2017,Bukit Batok,Room3
+2093,2000.0,Q4 2017,Bukit Batok,Room4
+2094,2100.0,Q4 2017,Bukit Batok,Room5
+2095,2350.0,Q4 2017,Bukit Batok,Executive
+2096,1900.0,Q4 2017,Bukit Merah,Room3
+2097,2600.0,Q4 2017,Bukit Merah,Room4
+2098,2850.0,Q4 2017,Bukit Merah,Room5
+2100,1500.0,Q4 2017,Bukit Panjang,Room3
+2101,1700.0,Q4 2017,Bukit Panjang,Room4
+2102,1850.0,Q4 2017,Bukit Panjang,Room5
+2103,2000.0,Q4 2017,Bukit Panjang,Executive
+2108,2200.0,Q4 2017,Central,Room3
+2109,2750.0,Q4 2017,Central,Room4
+2113,1800.0,Q4 2017,Choa Chu Kang,Room4
+2114,1890.0,Q4 2017,Choa Chu Kang,Room5
+2115,2100.0,Q4 2017,Choa Chu Kang,Executive
+2116,1800.0,Q4 2017,Clementi,Room3
+2117,2400.0,Q4 2017,Clementi,Room4
+2118,2530.0,Q4 2017,Clementi,Room5
+2120,1800.0,Q4 2017,Geylang,Room3
+2121,2380.0,Q4 2017,Geylang,Room4
+2122,2530.0,Q4 2017,Geylang,Room5
+2124,1600.0,Q4 2017,Hougang,Room3
+2125,1900.0,Q4 2017,Hougang,Room4
+2126,2100.0,Q4 2017,Hougang,Room5
+2127,2200.0,Q4 2017,Hougang,Executive
+2128,1700.0,Q4 2017,Jurong East,Room3
+2129,2100.0,Q4 2017,Jurong East,Room4
+2130,2300.0,Q4 2017,Jurong East,Room5
+2132,1700.0,Q4 2017,Jurong West,Room3
+2133,2000.0,Q4 2017,Jurong West,Room4
+2134,2200.0,Q4 2017,Jurong West,Room5
+2135,2400.0,Q4 2017,Jurong West,Executive
+2136,1900.0,Q4 2017,Kallang/ Whampoa,Room3
+2137,2500.0,Q4 2017,Kallang/ Whampoa,Room4
+2138,2680.0,Q4 2017,Kallang/ Whampoa,Room5
+2140,1800.0,Q4 2017,Marine Parade,Room3
+2141,2200.0,Q4 2017,Marine Parade,Room4
+2145,1900.0,Q4 2017,Pasir Ris,Room4
+2146,2100.0,Q4 2017,Pasir Ris,Room5
+2147,2300.0,Q4 2017,Pasir Ris,Executive
+2149,1800.0,Q4 2017,Punggol,Room4
+2150,1800.0,Q4 2017,Punggol,Room5
+2152,1900.0,Q4 2017,Queenstown,Room3
+2153,2600.0,Q4 2017,Queenstown,Room4
+2154,2800.0,Q4 2017,Queenstown,Room5
+2157,1800.0,Q4 2017,Sembawang,Room4
+2158,1900.0,Q4 2017,Sembawang,Room5
+2159,2050.0,Q4 2017,Sembawang,Executive
+2161,1800.0,Q4 2017,Sengkang,Room4
+2162,1900.0,Q4 2017,Sengkang,Room5
+2163,2050.0,Q4 2017,Sengkang,Executive
+2164,1800.0,Q4 2017,Serangoon,Room3
+2165,2200.0,Q4 2017,Serangoon,Room4
+2166,2200.0,Q4 2017,Serangoon,Room5
+2167,2580.0,Q4 2017,Serangoon,Executive
+2168,1700.0,Q4 2017,Tampines,Room3
+2169,2000.0,Q4 2017,Tampines,Room4
+2170,2200.0,Q4 2017,Tampines,Room5
+2171,2400.0,Q4 2017,Tampines,Executive
+2172,1800.0,Q4 2017,Toa Payoh,Room3
+2173,2350.0,Q4 2017,Toa Payoh,Room4
+2174,2600.0,Q4 2017,Toa Payoh,Room5
+2176,1400.0,Q4 2017,Woodlands,Room3
+2177,1750.0,Q4 2017,Woodlands,Room4
+2178,1900.0,Q4 2017,Woodlands,Room5
+2179,2200.0,Q4 2017,Woodlands,Executive
+2180,1550.0,Q4 2017,Yishun,Room3
+2181,1880.0,Q4 2017,Yishun,Room4
+2182,2000.0,Q4 2017,Yishun,Room5
+2183,2300.0,Q4 2017,Yishun,Executive
+2184,1700.0,Q3 2017,Ang Mo Kio,Room3
+2185,2200.0,Q3 2017,Ang Mo Kio,Room4
+2186,2450.0,Q3 2017,Ang Mo Kio,Room5
+2188,1700.0,Q3 2017,Bedok,Room3
+2189,2100.0,Q3 2017,Bedok,Room4
+2190,2300.0,Q3 2017,Bedok,Room5
+2191,2500.0,Q3 2017,Bedok,Executive
+2192,1900.0,Q3 2017,Bishan,Room3
+2193,2300.0,Q3 2017,Bishan,Room4
+2194,2600.0,Q3 2017,Bishan,Room5
+2196,1600.0,Q3 2017,Bukit Batok,Room3
+2197,2000.0,Q3 2017,Bukit Batok,Room4
+2198,2200.0,Q3 2017,Bukit Batok,Room5
+2199,2350.0,Q3 2017,Bukit Batok,Executive
+2200,2000.0,Q3 2017,Bukit Merah,Room3
+2201,2600.0,Q3 2017,Bukit Merah,Room4
+2202,2800.0,Q3 2017,Bukit Merah,Room5
+2204,1550.0,Q3 2017,Bukit Panjang,Room3
+2205,1750.0,Q3 2017,Bukit Panjang,Room4
+2206,1850.0,Q3 2017,Bukit Panjang,Room5
+2207,1990.0,Q3 2017,Bukit Panjang,Executive
+2212,2200.0,Q3 2017,Central,Room3
+2213,2750.0,Q3 2017,Central,Room4
+2217,1800.0,Q3 2017,Choa Chu Kang,Room4
+2218,2000.0,Q3 2017,Choa Chu Kang,Room5
+2219,2100.0,Q3 2017,Choa Chu Kang,Executive
+2220,1800.0,Q3 2017,Clementi,Room3
+2221,2450.0,Q3 2017,Clementi,Room4
+2222,2700.0,Q3 2017,Clementi,Room5
+2224,1800.0,Q3 2017,Geylang,Room3
+2225,2300.0,Q3 2017,Geylang,Room4
+2226,2600.0,Q3 2017,Geylang,Room5
+2228,1650.0,Q3 2017,Hougang,Room3
+2229,2000.0,Q3 2017,Hougang,Room4
+2230,2200.0,Q3 2017,Hougang,Room5
+2231,2400.0,Q3 2017,Hougang,Executive
+2232,1750.0,Q3 2017,Jurong East,Room3
+2233,2100.0,Q3 2017,Jurong East,Room4
+2234,2300.0,Q3 2017,Jurong East,Room5
+2235,2600.0,Q3 2017,Jurong East,Executive
+2236,1700.0,Q3 2017,Jurong West,Room3
+2237,2100.0,Q3 2017,Jurong West,Room4
+2238,2300.0,Q3 2017,Jurong West,Room5
+2239,2400.0,Q3 2017,Jurong West,Executive
+2240,1900.0,Q3 2017,Kallang/ Whampoa,Room3
+2241,2400.0,Q3 2017,Kallang/ Whampoa,Room4
+2242,2650.0,Q3 2017,Kallang/ Whampoa,Room5
+2244,1800.0,Q3 2017,Marine Parade,Room3
+2245,2150.0,Q3 2017,Marine Parade,Room4
+2249,2000.0,Q3 2017,Pasir Ris,Room4
+2250,2100.0,Q3 2017,Pasir Ris,Room5
+2251,2390.0,Q3 2017,Pasir Ris,Executive
+2253,1800.0,Q3 2017,Punggol,Room4
+2254,1850.0,Q3 2017,Punggol,Room5
+2256,1900.0,Q3 2017,Queenstown,Room3
+2257,2600.0,Q3 2017,Queenstown,Room4
+2258,2800.0,Q3 2017,Queenstown,Room5
+2261,1800.0,Q3 2017,Sembawang,Room4
+2262,2000.0,Q3 2017,Sembawang,Room5
+2263,2100.0,Q3 2017,Sembawang,Executive
+2265,1900.0,Q3 2017,Sengkang,Room4
+2266,1900.0,Q3 2017,Sengkang,Room5
+2267,2130.0,Q3 2017,Sengkang,Executive
+2268,1750.0,Q3 2017,Serangoon,Room3
+2269,2200.0,Q3 2017,Serangoon,Room4
+2270,2300.0,Q3 2017,Serangoon,Room5
+2272,1700.0,Q3 2017,Tampines,Room3
+2273,2050.0,Q3 2017,Tampines,Room4
+2274,2200.0,Q3 2017,Tampines,Room5
+2275,2400.0,Q3 2017,Tampines,Executive
+2276,1800.0,Q3 2017,Toa Payoh,Room3
+2277,2300.0,Q3 2017,Toa Payoh,Room4
+2278,2600.0,Q3 2017,Toa Payoh,Room5
+2280,1450.0,Q3 2017,Woodlands,Room3
+2281,1800.0,Q3 2017,Woodlands,Room4
+2282,1900.0,Q3 2017,Woodlands,Room5
+2283,2200.0,Q3 2017,Woodlands,Executive
+2284,1600.0,Q3 2017,Yishun,Room3
+2285,1800.0,Q3 2017,Yishun,Room4
+2286,2100.0,Q3 2017,Yishun,Room5
+2287,2230.0,Q3 2017,Yishun,Executive
+2288,1750.0,Q2 2017,Ang Mo Kio,Room3
+2289,2250.0,Q2 2017,Ang Mo Kio,Room4
+2290,2400.0,Q2 2017,Ang Mo Kio,Room5
+2292,1700.0,Q2 2017,Bedok,Room3
+2293,2100.0,Q2 2017,Bedok,Room4
+2294,2250.0,Q2 2017,Bedok,Room5
+2295,2500.0,Q2 2017,Bedok,Executive
+2296,1800.0,Q2 2017,Bishan,Room3
+2297,2300.0,Q2 2017,Bishan,Room4
+2298,2600.0,Q2 2017,Bishan,Room5
+2300,1650.0,Q2 2017,Bukit Batok,Room3
+2301,2000.0,Q2 2017,Bukit Batok,Room4
+2302,2300.0,Q2 2017,Bukit Batok,Room5
+2303,2450.0,Q2 2017,Bukit Batok,Executive
+2304,1950.0,Q2 2017,Bukit Merah,Room3
+2305,2600.0,Q2 2017,Bukit Merah,Room4
+2306,2750.0,Q2 2017,Bukit Merah,Room5
+2308,1500.0,Q2 2017,Bukit Panjang,Room3
+2309,1750.0,Q2 2017,Bukit Panjang,Room4
+2310,1880.0,Q2 2017,Bukit Panjang,Room5
+2311,1900.0,Q2 2017,Bukit Panjang,Executive
+2316,2200.0,Q2 2017,Central,Room3
+2317,2700.0,Q2 2017,Central,Room4
+2321,1800.0,Q2 2017,Choa Chu Kang,Room4
+2322,1900.0,Q2 2017,Choa Chu Kang,Room5
+2323,2100.0,Q2 2017,Choa Chu Kang,Executive
+2324,1900.0,Q2 2017,Clementi,Room3
+2325,2450.0,Q2 2017,Clementi,Room4
+2326,2730.0,Q2 2017,Clementi,Room5
+2328,1800.0,Q2 2017,Geylang,Room3
+2329,2400.0,Q2 2017,Geylang,Room4
+2330,2500.0,Q2 2017,Geylang,Room5
+2332,1650.0,Q2 2017,Hougang,Room3
+2333,2000.0,Q2 2017,Hougang,Room4
+2334,2100.0,Q2 2017,Hougang,Room5
+2335,2480.0,Q2 2017,Hougang,Executive
+2336,1750.0,Q2 2017,Jurong East,Room3
+2337,2150.0,Q2 2017,Jurong East,Room4
+2338,2300.0,Q2 2017,Jurong East,Room5
+2339,2500.0,Q2 2017,Jurong East,Executive
+2340,1700.0,Q2 2017,Jurong West,Room3
+2341,2050.0,Q2 2017,Jurong West,Room4
+2342,2300.0,Q2 2017,Jurong West,Room5
+2343,2450.0,Q2 2017,Jurong West,Executive
+2344,1900.0,Q2 2017,Kallang/ Whampoa,Room3
+2345,2500.0,Q2 2017,Kallang/ Whampoa,Room4
+2346,2700.0,Q2 2017,Kallang/ Whampoa,Room5
+2348,1800.0,Q2 2017,Marine Parade,Room3
+2349,2200.0,Q2 2017,Marine Parade,Room4
+2350,2500.0,Q2 2017,Marine Parade,Room5
+2353,2000.0,Q2 2017,Pasir Ris,Room4
+2354,2180.0,Q2 2017,Pasir Ris,Room5
+2355,2300.0,Q2 2017,Pasir Ris,Executive
+2357,1800.0,Q2 2017,Punggol,Room4
+2358,1850.0,Q2 2017,Punggol,Room5
+2360,2000.0,Q2 2017,Queenstown,Room3
+2361,2600.0,Q2 2017,Queenstown,Room4
+2362,2950.0,Q2 2017,Queenstown,Room5
+2365,1850.0,Q2 2017,Sembawang,Room4
+2366,2000.0,Q2 2017,Sembawang,Room5
+2367,2100.0,Q2 2017,Sembawang,Executive
+2369,1800.0,Q2 2017,Sengkang,Room4
+2370,1900.0,Q2 2017,Sengkang,Room5
+2371,2000.0,Q2 2017,Sengkang,Executive
+2372,1800.0,Q2 2017,Serangoon,Room3
+2373,2300.0,Q2 2017,Serangoon,Room4
+2374,2300.0,Q2 2017,Serangoon,Room5
+2375,2500.0,Q2 2017,Serangoon,Executive
+2376,1700.0,Q2 2017,Tampines,Room3
+2377,2100.0,Q2 2017,Tampines,Room4
+2378,2200.0,Q2 2017,Tampines,Room5
+2379,2450.0,Q2 2017,Tampines,Executive
+2380,1800.0,Q2 2017,Toa Payoh,Room3
+2381,2370.0,Q2 2017,Toa Payoh,Room4
+2382,2600.0,Q2 2017,Toa Payoh,Room5
+2384,1480.0,Q2 2017,Woodlands,Room3
+2385,1800.0,Q2 2017,Woodlands,Room4
+2386,1900.0,Q2 2017,Woodlands,Room5
+2387,2250.0,Q2 2017,Woodlands,Executive
+2388,1600.0,Q2 2017,Yishun,Room3
+2389,1900.0,Q2 2017,Yishun,Room4
+2390,2100.0,Q2 2017,Yishun,Room5
+2391,2350.0,Q2 2017,Yishun,Executive
+2392,1750.0,Q1 2017,Ang Mo Kio,Room3
+2393,2200.0,Q1 2017,Ang Mo Kio,Room4
+2394,2400.0,Q1 2017,Ang Mo Kio,Room5
+2396,1750.0,Q1 2017,Bedok,Room3
+2397,2100.0,Q1 2017,Bedok,Room4
+2398,2400.0,Q1 2017,Bedok,Room5
+2400,1900.0,Q1 2017,Bishan,Room3
+2401,2300.0,Q1 2017,Bishan,Room4
+2402,2500.0,Q1 2017,Bishan,Room5
+2404,1650.0,Q1 2017,Bukit Batok,Room3
+2405,2000.0,Q1 2017,Bukit Batok,Room4
+2406,2280.0,Q1 2017,Bukit Batok,Room5
+2407,2430.0,Q1 2017,Bukit Batok,Executive
+2408,2000.0,Q1 2017,Bukit Merah,Room3
+2409,2600.0,Q1 2017,Bukit Merah,Room4
+2410,2900.0,Q1 2017,Bukit Merah,Room5
+2412,1550.0,Q1 2017,Bukit Panjang,Room3
+2413,1800.0,Q1 2017,Bukit Panjang,Room4
+2414,1900.0,Q1 2017,Bukit Panjang,Room5
+2415,2000.0,Q1 2017,Bukit Panjang,Executive
+2420,2200.0,Q1 2017,Central,Room3
+2421,2680.0,Q1 2017,Central,Room4
+2424,1580.0,Q1 2017,Choa Chu Kang,Room3
+2425,1800.0,Q1 2017,Choa Chu Kang,Room4
+2426,2000.0,Q1 2017,Choa Chu Kang,Room5
+2427,2200.0,Q1 2017,Choa Chu Kang,Executive
+2428,1900.0,Q1 2017,Clementi,Room3
+2429,2500.0,Q1 2017,Clementi,Room4
+2430,2700.0,Q1 2017,Clementi,Room5
+2432,1800.0,Q1 2017,Geylang,Room3
+2433,2400.0,Q1 2017,Geylang,Room4
+2434,2550.0,Q1 2017,Geylang,Room5
+2436,1650.0,Q1 2017,Hougang,Room3
+2437,2000.0,Q1 2017,Hougang,Room4
+2438,2100.0,Q1 2017,Hougang,Room5
+2439,2500.0,Q1 2017,Hougang,Executive
+2440,1800.0,Q1 2017,Jurong East,Room3
+2441,2200.0,Q1 2017,Jurong East,Room4
+2442,2400.0,Q1 2017,Jurong East,Room5
+2443,2600.0,Q1 2017,Jurong East,Executive
+2444,1700.0,Q1 2017,Jurong West,Room3
+2445,2150.0,Q1 2017,Jurong West,Room4
+2446,2300.0,Q1 2017,Jurong West,Room5
+2447,2500.0,Q1 2017,Jurong West,Executive
+2448,1950.0,Q1 2017,Kallang/ Whampoa,Room3
+2449,2500.0,Q1 2017,Kallang/ Whampoa,Room4
+2450,2800.0,Q1 2017,Kallang/ Whampoa,Room5
+2452,1900.0,Q1 2017,Marine Parade,Room3
+2453,2250.0,Q1 2017,Marine Parade,Room4
+2457,2000.0,Q1 2017,Pasir Ris,Room4
+2458,2200.0,Q1 2017,Pasir Ris,Room5
+2459,2330.0,Q1 2017,Pasir Ris,Executive
+2461,1800.0,Q1 2017,Punggol,Room4
+2462,1900.0,Q1 2017,Punggol,Room5
+2464,2000.0,Q1 2017,Queenstown,Room3
+2465,2600.0,Q1 2017,Queenstown,Room4
+2466,2900.0,Q1 2017,Queenstown,Room5
+2469,1800.0,Q1 2017,Sembawang,Room4
+2470,2000.0,Q1 2017,Sembawang,Room5
+2471,2180.0,Q1 2017,Sembawang,Executive
+2473,1900.0,Q1 2017,Sengkang,Room4
+2474,1950.0,Q1 2017,Sengkang,Room5
+2475,2000.0,Q1 2017,Sengkang,Executive
+2476,1800.0,Q1 2017,Serangoon,Room3
+2477,2400.0,Q1 2017,Serangoon,Room4
+2478,2350.0,Q1 2017,Serangoon,Room5
+2480,1800.0,Q1 2017,Tampines,Room3
+2481,2100.0,Q1 2017,Tampines,Room4
+2482,2300.0,Q1 2017,Tampines,Room5
+2483,2400.0,Q1 2017,Tampines,Executive
+2484,1800.0,Q1 2017,Toa Payoh,Room3
+2485,2300.0,Q1 2017,Toa Payoh,Room4
+2486,2600.0,Q1 2017,Toa Payoh,Room5
+2488,1500.0,Q1 2017,Woodlands,Room3
+2489,1800.0,Q1 2017,Woodlands,Room4
+2490,1900.0,Q1 2017,Woodlands,Room5
+2491,2200.0,Q1 2017,Woodlands,Executive
+2492,1600.0,Q1 2017,Yishun,Room3
+2493,1930.0,Q1 2017,Yishun,Room4
+2494,2100.0,Q1 2017,Yishun,Room5
+2495,2300.0,Q1 2017,Yishun,Executive
+2496,1800.0,Q4 2016,Ang Mo Kio,Room3
+2497,2200.0,Q4 2016,Ang Mo Kio,Room4
+2498,2500.0,Q4 2016,Ang Mo Kio,Room5
+2500,1800.0,Q4 2016,Bedok,Room3
+2501,2200.0,Q4 2016,Bedok,Room4
+2502,2380.0,Q4 2016,Bedok,Room5
+2503,2500.0,Q4 2016,Bedok,Executive
+2504,1850.0,Q4 2016,Bishan,Room3
+2505,2300.0,Q4 2016,Bishan,Room4
+2506,2600.0,Q4 2016,Bishan,Room5
+2508,1700.0,Q4 2016,Bukit Batok,Room3
+2509,2100.0,Q4 2016,Bukit Batok,Room4
+2510,2300.0,Q4 2016,Bukit Batok,Room5
+2511,2450.0,Q4 2016,Bukit Batok,Executive
+2512,2000.0,Q4 2016,Bukit Merah,Room3
+2513,2700.0,Q4 2016,Bukit Merah,Room4
+2514,2900.0,Q4 2016,Bukit Merah,Room5
+2516,1580.0,Q4 2016,Bukit Panjang,Room3
+2517,1800.0,Q4 2016,Bukit Panjang,Room4
+2518,1900.0,Q4 2016,Bukit Panjang,Room5
+2519,2150.0,Q4 2016,Bukit Panjang,Executive
+2524,2200.0,Q4 2016,Central,Room3
+2525,2750.0,Q4 2016,Central,Room4
+2526,3500.0,Q4 2016,Central,Room5
+2529,1900.0,Q4 2016,Choa Chu Kang,Room4
+2530,2000.0,Q4 2016,Choa Chu Kang,Room5
+2531,2180.0,Q4 2016,Choa Chu Kang,Executive
+2532,2000.0,Q4 2016,Clementi,Room3
+2533,2400.0,Q4 2016,Clementi,Room4
+2534,2800.0,Q4 2016,Clementi,Room5
+2536,1800.0,Q4 2016,Geylang,Room3
+2537,2400.0,Q4 2016,Geylang,Room4
+2538,2500.0,Q4 2016,Geylang,Room5
+2540,1690.0,Q4 2016,Hougang,Room3
+2541,2000.0,Q4 2016,Hougang,Room4
+2542,2200.0,Q4 2016,Hougang,Room5
+2543,2500.0,Q4 2016,Hougang,Executive
+2544,1800.0,Q4 2016,Jurong East,Room3
+2545,2300.0,Q4 2016,Jurong East,Room4
+2546,2400.0,Q4 2016,Jurong East,Room5
+2547,2700.0,Q4 2016,Jurong East,Executive
+2548,1700.0,Q4 2016,Jurong West,Room3
+2549,2200.0,Q4 2016,Jurong West,Room4
+2550,2400.0,Q4 2016,Jurong West,Room5
+2551,2500.0,Q4 2016,Jurong West,Executive
+2552,1950.0,Q4 2016,Kallang/ Whampoa,Room3
+2553,2500.0,Q4 2016,Kallang/ Whampoa,Room4
+2554,2700.0,Q4 2016,Kallang/ Whampoa,Room5
+2556,1900.0,Q4 2016,Marine Parade,Room3
+2557,2200.0,Q4 2016,Marine Parade,Room4
+2561,2000.0,Q4 2016,Pasir Ris,Room4
+2562,2200.0,Q4 2016,Pasir Ris,Room5
+2563,2300.0,Q4 2016,Pasir Ris,Executive
+2565,1900.0,Q4 2016,Punggol,Room4
+2566,1900.0,Q4 2016,Punggol,Room5
+2568,2000.0,Q4 2016,Queenstown,Room3
+2569,2730.0,Q4 2016,Queenstown,Room4
+2570,2900.0,Q4 2016,Queenstown,Room5
+2573,1900.0,Q4 2016,Sembawang,Room4
+2574,2050.0,Q4 2016,Sembawang,Room5
+2575,2150.0,Q4 2016,Sembawang,Executive
+2577,1900.0,Q4 2016,Sengkang,Room4
+2578,2000.0,Q4 2016,Sengkang,Room5
+2579,2180.0,Q4 2016,Sengkang,Executive
+2580,1830.0,Q4 2016,Serangoon,Room3
+2581,2300.0,Q4 2016,Serangoon,Room4
+2582,2450.0,Q4 2016,Serangoon,Room5
+2583,2600.0,Q4 2016,Serangoon,Executive
+2584,1800.0,Q4 2016,Tampines,Room3
+2585,2100.0,Q4 2016,Tampines,Room4
+2586,2300.0,Q4 2016,Tampines,Room5
+2587,2500.0,Q4 2016,Tampines,Executive
+2588,1900.0,Q4 2016,Toa Payoh,Room3
+2589,2400.0,Q4 2016,Toa Payoh,Room4
+2590,2700.0,Q4 2016,Toa Payoh,Room5
+2592,1500.0,Q4 2016,Woodlands,Room3
+2593,1850.0,Q4 2016,Woodlands,Room4
+2594,2000.0,Q4 2016,Woodlands,Room5
+2595,2300.0,Q4 2016,Woodlands,Executive
+2596,1600.0,Q4 2016,Yishun,Room3
+2597,2000.0,Q4 2016,Yishun,Room4
+2598,2130.0,Q4 2016,Yishun,Room5
+2599,2300.0,Q4 2016,Yishun,Executive
+2600,1800.0,Q3 2016,Ang Mo Kio,Room3
+2601,2300.0,Q3 2016,Ang Mo Kio,Room4
+2602,2500.0,Q3 2016,Ang Mo Kio,Room5
+2604,1800.0,Q3 2016,Bedok,Room3
+2605,2200.0,Q3 2016,Bedok,Room4
+2606,2500.0,Q3 2016,Bedok,Room5
+2607,2680.0,Q3 2016,Bedok,Executive
+2608,2000.0,Q3 2016,Bishan,Room3
+2609,2400.0,Q3 2016,Bishan,Room4
+2610,2700.0,Q3 2016,Bishan,Room5
+2612,1700.0,Q3 2016,Bukit Batok,Room3
+2613,2100.0,Q3 2016,Bukit Batok,Room4
+2614,2400.0,Q3 2016,Bukit Batok,Room5
+2615,2500.0,Q3 2016,Bukit Batok,Executive
+2616,2000.0,Q3 2016,Bukit Merah,Room3
+2617,2700.0,Q3 2016,Bukit Merah,Room4
+2618,3000.0,Q3 2016,Bukit Merah,Room5
+2620,1550.0,Q3 2016,Bukit Panjang,Room3
+2621,1800.0,Q3 2016,Bukit Panjang,Room4
+2622,1900.0,Q3 2016,Bukit Panjang,Room5
+2623,2100.0,Q3 2016,Bukit Panjang,Executive
+2628,2250.0,Q3 2016,Central,Room3
+2629,3100.0,Q3 2016,Central,Room4
+2630,3600.0,Q3 2016,Central,Room5
+2633,1900.0,Q3 2016,Choa Chu Kang,Room4
+2634,2100.0,Q3 2016,Choa Chu Kang,Room5
+2635,2200.0,Q3 2016,Choa Chu Kang,Executive
+2636,2000.0,Q3 2016,Clementi,Room3
+2637,2600.0,Q3 2016,Clementi,Room4
+2640,1850.0,Q3 2016,Geylang,Room3
+2641,2500.0,Q3 2016,Geylang,Room4
+2642,2680.0,Q3 2016,Geylang,Room5
+2644,1700.0,Q3 2016,Hougang,Room3
+2645,2100.0,Q3 2016,Hougang,Room4
+2646,2250.0,Q3 2016,Hougang,Room5
+2647,2400.0,Q3 2016,Hougang,Executive
+2648,1800.0,Q3 2016,Jurong East,Room3
+2649,2400.0,Q3 2016,Jurong East,Room4
+2650,2500.0,Q3 2016,Jurong East,Room5
+2651,2800.0,Q3 2016,Jurong East,Executive
+2652,1850.0,Q3 2016,Jurong West,Room3
+2653,2300.0,Q3 2016,Jurong West,Room4
+2654,2500.0,Q3 2016,Jurong West,Room5
+2656,2000.0,Q3 2016,Kallang/ Whampoa,Room3
+2657,2600.0,Q3 2016,Kallang/ Whampoa,Room4
+2658,2800.0,Q3 2016,Kallang/ Whampoa,Room5
+2660,1900.0,Q3 2016,Marine Parade,Room3
+2661,2330.0,Q3 2016,Marine Parade,Room4
+2662,2500.0,Q3 2016,Marine Parade,Room5
+2665,2100.0,Q3 2016,Pasir Ris,Room4
+2666,2200.0,Q3 2016,Pasir Ris,Room5
+2667,2400.0,Q3 2016,Pasir Ris,Executive
+2669,1900.0,Q3 2016,Punggol,Room4
+2670,2000.0,Q3 2016,Punggol,Room5
+2672,2000.0,Q3 2016,Queenstown,Room3
+2673,2700.0,Q3 2016,Queenstown,Room4
+2674,2950.0,Q3 2016,Queenstown,Room5
+2677,1950.0,Q3 2016,Sembawang,Room4
+2678,2100.0,Q3 2016,Sembawang,Room5
+2679,2200.0,Q3 2016,Sembawang,Executive
+2681,2000.0,Q3 2016,Sengkang,Room4
+2682,2000.0,Q3 2016,Sengkang,Room5
+2683,2300.0,Q3 2016,Sengkang,Executive
+2684,1800.0,Q3 2016,Serangoon,Room3
+2685,2330.0,Q3 2016,Serangoon,Room4
+2686,2420.0,Q3 2016,Serangoon,Room5
+2687,2600.0,Q3 2016,Serangoon,Executive
+2688,1800.0,Q3 2016,Tampines,Room3
+2689,2200.0,Q3 2016,Tampines,Room4
+2690,2400.0,Q3 2016,Tampines,Room5
+2691,2500.0,Q3 2016,Tampines,Executive
+2692,1950.0,Q3 2016,Toa Payoh,Room3
+2693,2500.0,Q3 2016,Toa Payoh,Room4
+2694,2700.0,Q3 2016,Toa Payoh,Room5
+2696,1500.0,Q3 2016,Woodlands,Room3
+2697,1900.0,Q3 2016,Woodlands,Room4
+2698,2000.0,Q3 2016,Woodlands,Room5
+2699,2330.0,Q3 2016,Woodlands,Executive
+2700,1650.0,Q3 2016,Yishun,Room3
+2701,2000.0,Q3 2016,Yishun,Room4
+2702,2200.0,Q3 2016,Yishun,Room5
+2704,1800.0,Q2 2016,Ang Mo Kio,Room3
+2705,2300.0,Q2 2016,Ang Mo Kio,Room4
+2706,2600.0,Q2 2016,Ang Mo Kio,Room5
+2708,1800.0,Q2 2016,Bedok,Room3
+2709,2200.0,Q2 2016,Bedok,Room4
+2710,2400.0,Q2 2016,Bedok,Room5
+2711,2600.0,Q2 2016,Bedok,Executive
+2712,1900.0,Q2 2016,Bishan,Room3
+2713,2430.0,Q2 2016,Bishan,Room4
+2714,2700.0,Q2 2016,Bishan,Room5
+2715,3000.0,Q2 2016,Bishan,Executive
+2716,1800.0,Q2 2016,Bukit Batok,Room3
+2717,2150.0,Q2 2016,Bukit Batok,Room4
+2718,2350.0,Q2 2016,Bukit Batok,Room5
+2719,2500.0,Q2 2016,Bukit Batok,Executive
+2720,2050.0,Q2 2016,Bukit Merah,Room3
+2721,2700.0,Q2 2016,Bukit Merah,Room4
+2722,3000.0,Q2 2016,Bukit Merah,Room5
+2724,1600.0,Q2 2016,Bukit Panjang,Room3
+2725,1800.0,Q2 2016,Bukit Panjang,Room4
+2726,1980.0,Q2 2016,Bukit Panjang,Room5
+2727,2030.0,Q2 2016,Bukit Panjang,Executive
+2732,2300.0,Q2 2016,Central,Room3
+2733,3000.0,Q2 2016,Central,Room4
+2737,2000.0,Q2 2016,Choa Chu Kang,Room4
+2738,2100.0,Q2 2016,Choa Chu Kang,Room5
+2739,2200.0,Q2 2016,Choa Chu Kang,Executive
+2740,2000.0,Q2 2016,Clementi,Room3
+2741,2600.0,Q2 2016,Clementi,Room4
+2742,2800.0,Q2 2016,Clementi,Room5
+2744,1900.0,Q2 2016,Geylang,Room3
+2745,2450.0,Q2 2016,Geylang,Room4
+2746,2700.0,Q2 2016,Geylang,Room5
+2748,1750.0,Q2 2016,Hougang,Room3
+2749,2100.0,Q2 2016,Hougang,Room4
+2750,2300.0,Q2 2016,Hougang,Room5
+2751,2500.0,Q2 2016,Hougang,Executive
+2752,1800.0,Q2 2016,Jurong East,Room3
+2753,2400.0,Q2 2016,Jurong East,Room4
+2754,2500.0,Q2 2016,Jurong East,Room5
+2755,2800.0,Q2 2016,Jurong East,Executive
+2756,1800.0,Q2 2016,Jurong West,Room3
+2757,2300.0,Q2 2016,Jurong West,Room4
+2758,2450.0,Q2 2016,Jurong West,Room5
+2759,2600.0,Q2 2016,Jurong West,Executive
+2760,2000.0,Q2 2016,Kallang/ Whampoa,Room3
+2761,2500.0,Q2 2016,Kallang/ Whampoa,Room4
+2762,2750.0,Q2 2016,Kallang/ Whampoa,Room5
+2764,1980.0,Q2 2016,Marine Parade,Room3
+2765,2300.0,Q2 2016,Marine Parade,Room4
+2766,2650.0,Q2 2016,Marine Parade,Room5
+2769,2100.0,Q2 2016,Pasir Ris,Room4
+2770,2300.0,Q2 2016,Pasir Ris,Room5
+2771,2400.0,Q2 2016,Pasir Ris,Executive
+2773,1900.0,Q2 2016,Punggol,Room4
+2774,2000.0,Q2 2016,Punggol,Room5
+2776,2100.0,Q2 2016,Queenstown,Room3
+2777,2800.0,Q2 2016,Queenstown,Room4
+2778,3000.0,Q2 2016,Queenstown,Room5
+2781,2000.0,Q2 2016,Sembawang,Room4
+2782,2100.0,Q2 2016,Sembawang,Room5
+2783,2200.0,Q2 2016,Sembawang,Executive
+2785,2000.0,Q2 2016,Sengkang,Room4
+2786,2100.0,Q2 2016,Sengkang,Room5
+2787,2300.0,Q2 2016,Sengkang,Executive
+2788,1850.0,Q2 2016,Serangoon,Room3
+2789,2300.0,Q2 2016,Serangoon,Room4
+2790,2500.0,Q2 2016,Serangoon,Room5
+2791,2650.0,Q2 2016,Serangoon,Executive
+2792,1850.0,Q2 2016,Tampines,Room3
+2793,2200.0,Q2 2016,Tampines,Room4
+2794,2400.0,Q2 2016,Tampines,Room5
+2795,2500.0,Q2 2016,Tampines,Executive
+2796,2000.0,Q2 2016,Toa Payoh,Room3
+2797,2400.0,Q2 2016,Toa Payoh,Room4
+2798,2700.0,Q2 2016,Toa Payoh,Room5
+2800,1500.0,Q2 2016,Woodlands,Room3
+2801,1900.0,Q2 2016,Woodlands,Room4
+2802,2050.0,Q2 2016,Woodlands,Room5
+2803,2400.0,Q2 2016,Woodlands,Executive
+2804,1700.0,Q2 2016,Yishun,Room3
+2805,2000.0,Q2 2016,Yishun,Room4
+2806,2200.0,Q2 2016,Yishun,Room5
+2807,2400.0,Q2 2016,Yishun,Executive
+2808,1850.0,Q1 2016,Ang Mo Kio,Room3
+2809,2300.0,Q1 2016,Ang Mo Kio,Room4
+2810,2600.0,Q1 2016,Ang Mo Kio,Room5
+2812,1900.0,Q1 2016,Bedok,Room3
+2813,2300.0,Q1 2016,Bedok,Room4
+2814,2500.0,Q1 2016,Bedok,Room5
+2815,2800.0,Q1 2016,Bedok,Executive
+2816,2000.0,Q1 2016,Bishan,Room3
+2817,2450.0,Q1 2016,Bishan,Room4
+2818,2700.0,Q1 2016,Bishan,Room5
+2820,1800.0,Q1 2016,Bukit Batok,Room3
+2821,2200.0,Q1 2016,Bukit Batok,Room4
+2822,2300.0,Q1 2016,Bukit Batok,Room5
+2823,2600.0,Q1 2016,Bukit Batok,Executive
+2824,2100.0,Q1 2016,Bukit Merah,Room3
+2825,2750.0,Q1 2016,Bukit Merah,Room4
+2826,3000.0,Q1 2016,Bukit Merah,Room5
+2828,1600.0,Q1 2016,Bukit Panjang,Room3
+2829,1900.0,Q1 2016,Bukit Panjang,Room4
+2830,1950.0,Q1 2016,Bukit Panjang,Room5
+2831,2100.0,Q1 2016,Bukit Panjang,Executive
+2836,2300.0,Q1 2016,Central,Room3
+2837,3000.0,Q1 2016,Central,Room4
+2841,2000.0,Q1 2016,Choa Chu Kang,Room4
+2842,2100.0,Q1 2016,Choa Chu Kang,Room5
+2843,2230.0,Q1 2016,Choa Chu Kang,Executive
+2844,2000.0,Q1 2016,Clementi,Room3
+2845,2600.0,Q1 2016,Clementi,Room4
+2846,2830.0,Q1 2016,Clementi,Room5
+2848,1900.0,Q1 2016,Geylang,Room3
+2849,2400.0,Q1 2016,Geylang,Room4
+2850,2800.0,Q1 2016,Geylang,Room5
+2852,1800.0,Q1 2016,Hougang,Room3
+2853,2100.0,Q1 2016,Hougang,Room4
+2854,2250.0,Q1 2016,Hougang,Room5
+2855,2500.0,Q1 2016,Hougang,Executive
+2856,1830.0,Q1 2016,Jurong East,Room3
+2857,2350.0,Q1 2016,Jurong East,Room4
+2858,2500.0,Q1 2016,Jurong East,Room5
+2859,2780.0,Q1 2016,Jurong East,Executive
+2860,1800.0,Q1 2016,Jurong West,Room3
+2861,2300.0,Q1 2016,Jurong West,Room4
+2862,2500.0,Q1 2016,Jurong West,Room5
+2863,2650.0,Q1 2016,Jurong West,Executive
+2864,2000.0,Q1 2016,Kallang/ Whampoa,Room3
+2865,2500.0,Q1 2016,Kallang/ Whampoa,Room4
+2866,2900.0,Q1 2016,Kallang/ Whampoa,Room5
+2868,2000.0,Q1 2016,Marine Parade,Room3
+2869,2330.0,Q1 2016,Marine Parade,Room4
+2873,2100.0,Q1 2016,Pasir Ris,Room4
+2874,2350.0,Q1 2016,Pasir Ris,Room5
+2875,2500.0,Q1 2016,Pasir Ris,Executive
+2877,1900.0,Q1 2016,Punggol,Room4
+2878,2050.0,Q1 2016,Punggol,Room5
+2880,2100.0,Q1 2016,Queenstown,Room3
+2881,2800.0,Q1 2016,Queenstown,Room4
+2882,3000.0,Q1 2016,Queenstown,Room5
+2885,2000.0,Q1 2016,Sembawang,Room4
+2886,2100.0,Q1 2016,Sembawang,Room5
+2887,2300.0,Q1 2016,Sembawang,Executive
+2889,2000.0,Q1 2016,Sengkang,Room4
+2890,2100.0,Q1 2016,Sengkang,Room5
+2891,2300.0,Q1 2016,Sengkang,Executive
+2892,1900.0,Q1 2016,Serangoon,Room3
+2893,2380.0,Q1 2016,Serangoon,Room4
+2894,2500.0,Q1 2016,Serangoon,Room5
+2895,2800.0,Q1 2016,Serangoon,Executive
+2896,1900.0,Q1 2016,Tampines,Room3
+2897,2250.0,Q1 2016,Tampines,Room4
+2898,2400.0,Q1 2016,Tampines,Room5
+2899,2600.0,Q1 2016,Tampines,Executive
+2900,2000.0,Q1 2016,Toa Payoh,Room3
+2901,2600.0,Q1 2016,Toa Payoh,Room4
+2902,2750.0,Q1 2016,Toa Payoh,Room5
+2904,1500.0,Q1 2016,Woodlands,Room3
+2905,1900.0,Q1 2016,Woodlands,Room4
+2906,2100.0,Q1 2016,Woodlands,Room5
+2907,2400.0,Q1 2016,Woodlands,Executive
+2908,1700.0,Q1 2016,Yishun,Room3
+2909,2000.0,Q1 2016,Yishun,Room4
+2910,2300.0,Q1 2016,Yishun,Room5
+2911,2500.0,Q1 2016,Yishun,Executive
+2912,1900.0,Q4 2015,Ang Mo Kio,Room3
+2913,2380.0,Q4 2015,Ang Mo Kio,Room4
+2914,2600.0,Q4 2015,Ang Mo Kio,Room5
+2916,1900.0,Q4 2015,Bedok,Room3
+2917,2300.0,Q4 2015,Bedok,Room4
+2918,2550.0,Q4 2015,Bedok,Room5
+2919,2800.0,Q4 2015,Bedok,Executive
+2920,2000.0,Q4 2015,Bishan,Room3
+2921,2500.0,Q4 2015,Bishan,Room4
+2922,2750.0,Q4 2015,Bishan,Room5
+2924,1800.0,Q4 2015,Bukit Batok,Room3
+2925,2200.0,Q4 2015,Bukit Batok,Room4
+2926,2400.0,Q4 2015,Bukit Batok,Room5
+2927,2600.0,Q4 2015,Bukit Batok,Executive
+2928,2100.0,Q4 2015,Bukit Merah,Room3
+2929,2800.0,Q4 2015,Bukit Merah,Room4
+2930,3100.0,Q4 2015,Bukit Merah,Room5
+2932,1650.0,Q4 2015,Bukit Panjang,Room3
+2933,1800.0,Q4 2015,Bukit Panjang,Room4
+2934,2000.0,Q4 2015,Bukit Panjang,Room5
+2935,2100.0,Q4 2015,Bukit Panjang,Executive
+2940,2300.0,Q4 2015,Central,Room3
+2941,2880.0,Q4 2015,Central,Room4
+2945,2000.0,Q4 2015,Choa Chu Kang,Room4
+2946,2100.0,Q4 2015,Choa Chu Kang,Room5
+2947,2350.0,Q4 2015,Choa Chu Kang,Executive
+2948,2000.0,Q4 2015,Clementi,Room3
+2949,2600.0,Q4 2015,Clementi,Room4
+2950,2850.0,Q4 2015,Clementi,Room5
+2952,1900.0,Q4 2015,Geylang,Room3
+2953,2500.0,Q4 2015,Geylang,Room4
+2954,2750.0,Q4 2015,Geylang,Room5
+2956,1800.0,Q4 2015,Hougang,Room3
+2957,2200.0,Q4 2015,Hougang,Room4
+2958,2350.0,Q4 2015,Hougang,Room5
+2959,2600.0,Q4 2015,Hougang,Executive
+2960,1900.0,Q4 2015,Jurong East,Room3
+2961,2400.0,Q4 2015,Jurong East,Room4
+2962,2500.0,Q4 2015,Jurong East,Room5
+2963,2650.0,Q4 2015,Jurong East,Executive
+2964,1800.0,Q4 2015,Jurong West,Room3
+2965,2300.0,Q4 2015,Jurong West,Room4
+2966,2500.0,Q4 2015,Jurong West,Room5
+2967,2700.0,Q4 2015,Jurong West,Executive
+2968,2030.0,Q4 2015,Kallang/ Whampoa,Room3
+2969,2600.0,Q4 2015,Kallang/ Whampoa,Room4
+2970,2800.0,Q4 2015,Kallang/ Whampoa,Room5
+2972,2000.0,Q4 2015,Marine Parade,Room3
+2973,2300.0,Q4 2015,Marine Parade,Room4
+2974,2700.0,Q4 2015,Marine Parade,Room5
+2977,2200.0,Q4 2015,Pasir Ris,Room4
+2978,2300.0,Q4 2015,Pasir Ris,Room5
+2979,2500.0,Q4 2015,Pasir Ris,Executive
+2981,2000.0,Q4 2015,Punggol,Room4
+2982,2100.0,Q4 2015,Punggol,Room5
+2983,2230.0,Q4 2015,Punggol,Executive
+2984,2100.0,Q4 2015,Queenstown,Room3
+2985,2800.0,Q4 2015,Queenstown,Room4
+2986,3100.0,Q4 2015,Queenstown,Room5
+2989,2000.0,Q4 2015,Sembawang,Room4
+2990,2200.0,Q4 2015,Sembawang,Room5
+2991,2330.0,Q4 2015,Sembawang,Executive
+2993,2000.0,Q4 2015,Sengkang,Room4
+2994,2200.0,Q4 2015,Sengkang,Room5
+2995,2400.0,Q4 2015,Sengkang,Executive
+2996,2000.0,Q4 2015,Serangoon,Room3
+2997,2400.0,Q4 2015,Serangoon,Room4
+2998,2400.0,Q4 2015,Serangoon,Room5
+2999,2700.0,Q4 2015,Serangoon,Executive
+3000,1950.0,Q4 2015,Tampines,Room3
+3001,2300.0,Q4 2015,Tampines,Room4
+3002,2400.0,Q4 2015,Tampines,Room5
+3003,2600.0,Q4 2015,Tampines,Executive
+3004,2000.0,Q4 2015,Toa Payoh,Room3
+3005,2500.0,Q4 2015,Toa Payoh,Room4
+3006,2780.0,Q4 2015,Toa Payoh,Room5
+3008,1600.0,Q4 2015,Woodlands,Room3
+3009,2000.0,Q4 2015,Woodlands,Room4
+3010,2100.0,Q4 2015,Woodlands,Room5
+3011,2400.0,Q4 2015,Woodlands,Executive
+3012,1700.0,Q4 2015,Yishun,Room3
+3013,2050.0,Q4 2015,Yishun,Room4
+3014,2300.0,Q4 2015,Yishun,Room5
+3015,2400.0,Q4 2015,Yishun,Executive
+3016,1900.0,Q3 2015,Ang Mo Kio,Room3
+3017,2400.0,Q3 2015,Ang Mo Kio,Room4
+3018,2700.0,Q3 2015,Ang Mo Kio,Room5
+3020,1950.0,Q3 2015,Bedok,Room3
+3021,2300.0,Q3 2015,Bedok,Room4
+3022,2500.0,Q3 2015,Bedok,Room5
+3023,2700.0,Q3 2015,Bedok,Executive
+3024,2050.0,Q3 2015,Bishan,Room3
+3025,2500.0,Q3 2015,Bishan,Room4
+3026,2800.0,Q3 2015,Bishan,Room5
+3028,1800.0,Q3 2015,Bukit Batok,Room3
+3029,2250.0,Q3 2015,Bukit Batok,Room4
+3030,2500.0,Q3 2015,Bukit Batok,Room5
+3031,2600.0,Q3 2015,Bukit Batok,Executive
+3032,2100.0,Q3 2015,Bukit Merah,Room3
+3033,2800.0,Q3 2015,Bukit Merah,Room4
+3034,3100.0,Q3 2015,Bukit Merah,Room5
+3036,1600.0,Q3 2015,Bukit Panjang,Room3
+3037,1850.0,Q3 2015,Bukit Panjang,Room4
+3038,1900.0,Q3 2015,Bukit Panjang,Room5
+3039,2200.0,Q3 2015,Bukit Panjang,Executive
+3044,2300.0,Q3 2015,Central,Room3
+3045,3100.0,Q3 2015,Central,Room4
+3049,2000.0,Q3 2015,Choa Chu Kang,Room4
+3050,2150.0,Q3 2015,Choa Chu Kang,Room5
+3051,2400.0,Q3 2015,Choa Chu Kang,Executive
+3052,2100.0,Q3 2015,Clementi,Room3
+3053,2700.0,Q3 2015,Clementi,Room4
+3054,2800.0,Q3 2015,Clementi,Room5
+3056,2000.0,Q3 2015,Geylang,Room3
+3057,2500.0,Q3 2015,Geylang,Room4
+3058,2800.0,Q3 2015,Geylang,Room5
+3060,1850.0,Q3 2015,Hougang,Room3
+3061,2200.0,Q3 2015,Hougang,Room4
+3062,2400.0,Q3 2015,Hougang,Room5
+3063,2600.0,Q3 2015,Hougang,Executive
+3064,2000.0,Q3 2015,Jurong East,Room3
+3065,2500.0,Q3 2015,Jurong East,Room4
+3066,2550.0,Q3 2015,Jurong East,Room5
+3067,2850.0,Q3 2015,Jurong East,Executive
+3068,1800.0,Q3 2015,Jurong West,Room3
+3069,2400.0,Q3 2015,Jurong West,Room4
+3070,2500.0,Q3 2015,Jurong West,Room5
+3071,2750.0,Q3 2015,Jurong West,Executive
+3072,2050.0,Q3 2015,Kallang/ Whampoa,Room3
+3073,2600.0,Q3 2015,Kallang/ Whampoa,Room4
+3074,2900.0,Q3 2015,Kallang/ Whampoa,Room5
+3076,2150.0,Q3 2015,Marine Parade,Room3
+3077,2400.0,Q3 2015,Marine Parade,Room4
+3081,2200.0,Q3 2015,Pasir Ris,Room4
+3082,2400.0,Q3 2015,Pasir Ris,Room5
+3083,2600.0,Q3 2015,Pasir Ris,Executive
+3085,2000.0,Q3 2015,Punggol,Room4
+3086,2200.0,Q3 2015,Punggol,Room5
+3088,2200.0,Q3 2015,Queenstown,Room3
+3089,2900.0,Q3 2015,Queenstown,Room4
+3090,3200.0,Q3 2015,Queenstown,Room5
+3093,2000.0,Q3 2015,Sembawang,Room4
+3094,2100.0,Q3 2015,Sembawang,Room5
+3095,2300.0,Q3 2015,Sembawang,Executive
+3097,2100.0,Q3 2015,Sengkang,Room4
+3098,2200.0,Q3 2015,Sengkang,Room5
+3099,2400.0,Q3 2015,Sengkang,Executive
+3100,2000.0,Q3 2015,Serangoon,Room3
+3101,2500.0,Q3 2015,Serangoon,Room4
+3102,2500.0,Q3 2015,Serangoon,Room5
+3104,2000.0,Q3 2015,Tampines,Room3
+3105,2330.0,Q3 2015,Tampines,Room4
+3106,2500.0,Q3 2015,Tampines,Room5
+3107,2700.0,Q3 2015,Tampines,Executive
+3108,2000.0,Q3 2015,Toa Payoh,Room3
+3109,2500.0,Q3 2015,Toa Payoh,Room4
+3110,2980.0,Q3 2015,Toa Payoh,Room5
+3112,1600.0,Q3 2015,Woodlands,Room3
+3113,2000.0,Q3 2015,Woodlands,Room4
+3114,2100.0,Q3 2015,Woodlands,Room5
+3115,2350.0,Q3 2015,Woodlands,Executive
+3116,1750.0,Q3 2015,Yishun,Room3
+3117,2100.0,Q3 2015,Yishun,Room4
+3118,2300.0,Q3 2015,Yishun,Room5
+3119,2500.0,Q3 2015,Yishun,Executive
+3120,1900.0,Q2 2015,Ang Mo Kio,Room3
+3121,2400.0,Q2 2015,Ang Mo Kio,Room4
+3122,2700.0,Q2 2015,Ang Mo Kio,Room5
+3124,1950.0,Q2 2015,Bedok,Room3
+3125,2300.0,Q2 2015,Bedok,Room4
+3126,2500.0,Q2 2015,Bedok,Room5
+3127,2700.0,Q2 2015,Bedok,Executive
+3128,2100.0,Q2 2015,Bishan,Room3
+3129,2500.0,Q2 2015,Bishan,Room4
+3130,2800.0,Q2 2015,Bishan,Room5
+3132,1900.0,Q2 2015,Bukit Batok,Room3
+3133,2300.0,Q2 2015,Bukit Batok,Room4
+3134,2400.0,Q2 2015,Bukit Batok,Room5
+3135,2550.0,Q2 2015,Bukit Batok,Executive
+3136,2200.0,Q2 2015,Bukit Merah,Room3
+3137,2850.0,Q2 2015,Bukit Merah,Room4
+3138,3180.0,Q2 2015,Bukit Merah,Room5
+3140,1700.0,Q2 2015,Bukit Panjang,Room3
+3141,1850.0,Q2 2015,Bukit Panjang,Room4
+3142,2000.0,Q2 2015,Bukit Panjang,Room5
+3143,2300.0,Q2 2015,Bukit Panjang,Executive
+3148,2300.0,Q2 2015,Central,Room3
+3149,3000.0,Q2 2015,Central,Room4
+3150,3500.0,Q2 2015,Central,Room5
+3153,2080.0,Q2 2015,Choa Chu Kang,Room4
+3154,2200.0,Q2 2015,Choa Chu Kang,Room5
+3155,2350.0,Q2 2015,Choa Chu Kang,Executive
+3156,2100.0,Q2 2015,Clementi,Room3
+3157,2600.0,Q2 2015,Clementi,Room4
+3158,2830.0,Q2 2015,Clementi,Room5
+3160,2000.0,Q2 2015,Geylang,Room3
+3161,2500.0,Q2 2015,Geylang,Room4
+3162,2750.0,Q2 2015,Geylang,Room5
+3164,1800.0,Q2 2015,Hougang,Room3
+3165,2200.0,Q2 2015,Hougang,Room4
+3166,2400.0,Q2 2015,Hougang,Room5
+3167,2700.0,Q2 2015,Hougang,Executive
+3168,2000.0,Q2 2015,Jurong East,Room3
+3169,2450.0,Q2 2015,Jurong East,Room4
+3170,2600.0,Q2 2015,Jurong East,Room5
+3171,2800.0,Q2 2015,Jurong East,Executive
+3172,1850.0,Q2 2015,Jurong West,Room3
+3173,2400.0,Q2 2015,Jurong West,Room4
+3174,2600.0,Q2 2015,Jurong West,Room5
+3175,2700.0,Q2 2015,Jurong West,Executive
+3176,2100.0,Q2 2015,Kallang/ Whampoa,Room3
+3177,2700.0,Q2 2015,Kallang/ Whampoa,Room4
+3178,2850.0,Q2 2015,Kallang/ Whampoa,Room5
+3180,2100.0,Q2 2015,Marine Parade,Room3
+3181,2400.0,Q2 2015,Marine Parade,Room4
+3185,2200.0,Q2 2015,Pasir Ris,Room4
+3186,2400.0,Q2 2015,Pasir Ris,Room5
+3187,2600.0,Q2 2015,Pasir Ris,Executive
+3189,2100.0,Q2 2015,Punggol,Room4
+3190,2200.0,Q2 2015,Punggol,Room5
+3192,2200.0,Q2 2015,Queenstown,Room3
+3193,2980.0,Q2 2015,Queenstown,Room4
+3194,3100.0,Q2 2015,Queenstown,Room5
+3197,2000.0,Q2 2015,Sembawang,Room4
+3198,2200.0,Q2 2015,Sembawang,Room5
+3199,2200.0,Q2 2015,Sembawang,Executive
+3201,2200.0,Q2 2015,Sengkang,Room4
+3202,2250.0,Q2 2015,Sengkang,Room5
+3203,2400.0,Q2 2015,Sengkang,Executive
+3204,2000.0,Q2 2015,Serangoon,Room3
+3205,2420.0,Q2 2015,Serangoon,Room4
+3206,2600.0,Q2 2015,Serangoon,Room5
+3207,2900.0,Q2 2015,Serangoon,Executive
+3208,2000.0,Q2 2015,Tampines,Room3
+3209,2350.0,Q2 2015,Tampines,Room4
+3210,2500.0,Q2 2015,Tampines,Room5
+3211,2700.0,Q2 2015,Tampines,Executive
+3212,2000.0,Q2 2015,Toa Payoh,Room3
+3213,2550.0,Q2 2015,Toa Payoh,Room4
+3214,2800.0,Q2 2015,Toa Payoh,Room5
+3216,1600.0,Q2 2015,Woodlands,Room3
+3217,2000.0,Q2 2015,Woodlands,Room4
+3218,2100.0,Q2 2015,Woodlands,Room5
+3219,2450.0,Q2 2015,Woodlands,Executive
+3220,1800.0,Q2 2015,Yishun,Room3
+3221,2100.0,Q2 2015,Yishun,Room4
+3222,2300.0,Q2 2015,Yishun,Room5
+3223,2500.0,Q2 2015,Yishun,Executive
+3224,2000.0,Q1 2015,Ang Mo Kio,Room3
+3225,2400.0,Q1 2015,Ang Mo Kio,Room4
+3226,2700.0,Q1 2015,Ang Mo Kio,Room5
+3228,2000.0,Q1 2015,Bedok,Room3
+3229,2400.0,Q1 2015,Bedok,Room4
+3230,2600.0,Q1 2015,Bedok,Room5
+3232,2000.0,Q1 2015,Bishan,Room3
+3233,2500.0,Q1 2015,Bishan,Room4
+3234,2800.0,Q1 2015,Bishan,Room5
+3236,1900.0,Q1 2015,Bukit Batok,Room3
+3237,2200.0,Q1 2015,Bukit Batok,Room4
+3238,2400.0,Q1 2015,Bukit Batok,Room5
+3239,2650.0,Q1 2015,Bukit Batok,Executive
+3240,2200.0,Q1 2015,Bukit Merah,Room3
+3241,2800.0,Q1 2015,Bukit Merah,Room4
+3242,3200.0,Q1 2015,Bukit Merah,Room5
+3244,1680.0,Q1 2015,Bukit Panjang,Room3
+3245,1900.0,Q1 2015,Bukit Panjang,Room4
+3246,2100.0,Q1 2015,Bukit Panjang,Room5
+3247,2250.0,Q1 2015,Bukit Panjang,Executive
+3252,2350.0,Q1 2015,Central,Room3
+3253,3000.0,Q1 2015,Central,Room4
+3257,2020.0,Q1 2015,Choa Chu Kang,Room4
+3258,2200.0,Q1 2015,Choa Chu Kang,Room5
+3259,2400.0,Q1 2015,Choa Chu Kang,Executive
+3260,2100.0,Q1 2015,Clementi,Room3
+3261,2650.0,Q1 2015,Clementi,Room4
+3262,2900.0,Q1 2015,Clementi,Room5
+3264,2000.0,Q1 2015,Geylang,Room3
+3265,2600.0,Q1 2015,Geylang,Room4
+3266,2800.0,Q1 2015,Geylang,Room5
+3268,1850.0,Q1 2015,Hougang,Room3
+3269,2250.0,Q1 2015,Hougang,Room4
+3270,2400.0,Q1 2015,Hougang,Room5
+3271,2600.0,Q1 2015,Hougang,Executive
+3272,2000.0,Q1 2015,Jurong East,Room3
+3273,2400.0,Q1 2015,Jurong East,Room4
+3274,2600.0,Q1 2015,Jurong East,Room5
+3276,1900.0,Q1 2015,Jurong West,Room3
+3277,2400.0,Q1 2015,Jurong West,Room4
+3278,2600.0,Q1 2015,Jurong West,Room5
+3279,2780.0,Q1 2015,Jurong West,Executive
+3280,2000.0,Q1 2015,Kallang/ Whampoa,Room3
+3281,2700.0,Q1 2015,Kallang/ Whampoa,Room4
+3282,3000.0,Q1 2015,Kallang/ Whampoa,Room5
+3284,2100.0,Q1 2015,Marine Parade,Room3
+3285,2400.0,Q1 2015,Marine Parade,Room4
+3289,2250.0,Q1 2015,Pasir Ris,Room4
+3290,2500.0,Q1 2015,Pasir Ris,Room5
+3291,2600.0,Q1 2015,Pasir Ris,Executive
+3293,2100.0,Q1 2015,Punggol,Room4
+3294,2200.0,Q1 2015,Punggol,Room5
+3296,2200.0,Q1 2015,Queenstown,Room3
+3297,2800.0,Q1 2015,Queenstown,Room4
+3298,3200.0,Q1 2015,Queenstown,Room5
+3301,2050.0,Q1 2015,Sembawang,Room4
+3302,2230.0,Q1 2015,Sembawang,Room5
+3303,2380.0,Q1 2015,Sembawang,Executive
+3305,2200.0,Q1 2015,Sengkang,Room4
+3306,2300.0,Q1 2015,Sengkang,Room5
+3307,2500.0,Q1 2015,Sengkang,Executive
+3308,2050.0,Q1 2015,Serangoon,Room3
+3309,2400.0,Q1 2015,Serangoon,Room4
+3310,2500.0,Q1 2015,Serangoon,Room5
+3311,2800.0,Q1 2015,Serangoon,Executive
+3312,2000.0,Q1 2015,Tampines,Room3
+3313,2300.0,Q1 2015,Tampines,Room4
+3314,2500.0,Q1 2015,Tampines,Room5
+3315,2700.0,Q1 2015,Tampines,Executive
+3316,2000.0,Q1 2015,Toa Payoh,Room3
+3317,2600.0,Q1 2015,Toa Payoh,Room4
+3318,2850.0,Q1 2015,Toa Payoh,Room5
+3320,1600.0,Q1 2015,Woodlands,Room3
+3321,2000.0,Q1 2015,Woodlands,Room4
+3322,2200.0,Q1 2015,Woodlands,Room5
+3323,2400.0,Q1 2015,Woodlands,Executive
+3324,1800.0,Q1 2015,Yishun,Room3
+3325,2100.0,Q1 2015,Yishun,Room4
+3326,2400.0,Q1 2015,Yishun,Room5
+3327,2500.0,Q1 2015,Yishun,Executive
+3328,2000.0,Q4 2014,Ang Mo Kio,Room3
+3329,2450.0,Q4 2014,Ang Mo Kio,Room4
+3330,2800.0,Q4 2014,Ang Mo Kio,Room5
+3332,2000.0,Q4 2014,Bedok,Room3
+3333,2400.0,Q4 2014,Bedok,Room4
+3334,2600.0,Q4 2014,Bedok,Room5
+3335,2700.0,Q4 2014,Bedok,Executive
+3336,2000.0,Q4 2014,Bishan,Room3
+3337,2600.0,Q4 2014,Bishan,Room4
+3338,2900.0,Q4 2014,Bishan,Room5
+3340,1900.0,Q4 2014,Bukit Batok,Room3
+3341,2300.0,Q4 2014,Bukit Batok,Room4
+3342,2480.0,Q4 2014,Bukit Batok,Room5
+3343,2700.0,Q4 2014,Bukit Batok,Executive
+3344,2200.0,Q4 2014,Bukit Merah,Room3
+3345,3000.0,Q4 2014,Bukit Merah,Room4
+3346,3200.0,Q4 2014,Bukit Merah,Room5
+3348,1700.0,Q4 2014,Bukit Panjang,Room3
+3349,2000.0,Q4 2014,Bukit Panjang,Room4
+3350,2150.0,Q4 2014,Bukit Panjang,Room5
+3351,2300.0,Q4 2014,Bukit Panjang,Executive
+3356,2400.0,Q4 2014,Central,Room3
+3357,3000.0,Q4 2014,Central,Room4
+3361,2150.0,Q4 2014,Choa Chu Kang,Room4
+3362,2200.0,Q4 2014,Choa Chu Kang,Room5
+3363,2450.0,Q4 2014,Choa Chu Kang,Executive
+3364,2150.0,Q4 2014,Clementi,Room3
+3365,2650.0,Q4 2014,Clementi,Room4
+3366,2900.0,Q4 2014,Clementi,Room5
+3368,2000.0,Q4 2014,Geylang,Room3
+3369,2500.0,Q4 2014,Geylang,Room4
+3370,2800.0,Q4 2014,Geylang,Room5
+3372,1900.0,Q4 2014,Hougang,Room3
+3373,2300.0,Q4 2014,Hougang,Room4
+3374,2400.0,Q4 2014,Hougang,Room5
+3375,2700.0,Q4 2014,Hougang,Executive
+3376,2000.0,Q4 2014,Jurong East,Room3
+3377,2500.0,Q4 2014,Jurong East,Room4
+3378,2700.0,Q4 2014,Jurong East,Room5
+3379,2850.0,Q4 2014,Jurong East,Executive
+3380,1900.0,Q4 2014,Jurong West,Room3
+3381,2500.0,Q4 2014,Jurong West,Room4
+3382,2650.0,Q4 2014,Jurong West,Room5
+3383,2800.0,Q4 2014,Jurong West,Executive
+3384,2100.0,Q4 2014,Kallang/ Whampoa,Room3
+3385,2700.0,Q4 2014,Kallang/ Whampoa,Room4
+3386,2800.0,Q4 2014,Kallang/ Whampoa,Room5
+3388,2100.0,Q4 2014,Marine Parade,Room3
+3389,2600.0,Q4 2014,Marine Parade,Room4
+3390,2800.0,Q4 2014,Marine Parade,Room5
+3393,2300.0,Q4 2014,Pasir Ris,Room4
+3394,2500.0,Q4 2014,Pasir Ris,Room5
+3395,2650.0,Q4 2014,Pasir Ris,Executive
+3397,2200.0,Q4 2014,Punggol,Room4
+3398,2300.0,Q4 2014,Punggol,Room5
+3400,2200.0,Q4 2014,Queenstown,Room3
+3401,2900.0,Q4 2014,Queenstown,Room4
+3402,3200.0,Q4 2014,Queenstown,Room5
+3405,2100.0,Q4 2014,Sembawang,Room4
+3406,2200.0,Q4 2014,Sembawang,Room5
+3407,2400.0,Q4 2014,Sembawang,Executive
+3409,2200.0,Q4 2014,Sengkang,Room4
+3410,2300.0,Q4 2014,Sengkang,Room5
+3411,2550.0,Q4 2014,Sengkang,Executive
+3412,2000.0,Q4 2014,Serangoon,Room3
+3413,2500.0,Q4 2014,Serangoon,Room4
+3414,2700.0,Q4 2014,Serangoon,Room5
+3415,2800.0,Q4 2014,Serangoon,Executive
+3416,2000.0,Q4 2014,Tampines,Room3
+3417,2400.0,Q4 2014,Tampines,Room4
+3418,2500.0,Q4 2014,Tampines,Room5
+3419,2700.0,Q4 2014,Tampines,Executive
+3420,2100.0,Q4 2014,Toa Payoh,Room3
+3421,2550.0,Q4 2014,Toa Payoh,Room4
+3422,2800.0,Q4 2014,Toa Payoh,Room5
+3424,1600.0,Q4 2014,Woodlands,Room3
+3425,2090.0,Q4 2014,Woodlands,Room4
+3426,2200.0,Q4 2014,Woodlands,Room5
+3427,2500.0,Q4 2014,Woodlands,Executive
+3428,1800.0,Q4 2014,Yishun,Room3
+3429,2150.0,Q4 2014,Yishun,Room4
+3430,2400.0,Q4 2014,Yishun,Room5
+3431,2500.0,Q4 2014,Yishun,Executive
+3432,2000.0,Q3 2014,Ang Mo Kio,Room3
+3433,2400.0,Q3 2014,Ang Mo Kio,Room4
+3434,2700.0,Q3 2014,Ang Mo Kio,Room5
+3436,2000.0,Q3 2014,Bedok,Room3
+3437,2400.0,Q3 2014,Bedok,Room4
+3438,2600.0,Q3 2014,Bedok,Room5
+3439,2900.0,Q3 2014,Bedok,Executive
+3440,2100.0,Q3 2014,Bishan,Room3
+3441,2600.0,Q3 2014,Bishan,Room4
+3442,2900.0,Q3 2014,Bishan,Room5
+3444,1900.0,Q3 2014,Bukit Batok,Room3
+3445,2350.0,Q3 2014,Bukit Batok,Room4
+3446,2500.0,Q3 2014,Bukit Batok,Room5
+3447,2700.0,Q3 2014,Bukit Batok,Executive
+3448,2200.0,Q3 2014,Bukit Merah,Room3
+3449,2970.0,Q3 2014,Bukit Merah,Room4
+3450,3300.0,Q3 2014,Bukit Merah,Room5
+3452,1800.0,Q3 2014,Bukit Panjang,Room3
+3453,2000.0,Q3 2014,Bukit Panjang,Room4
+3454,2100.0,Q3 2014,Bukit Panjang,Room5
+3455,2200.0,Q3 2014,Bukit Panjang,Executive
+3460,2400.0,Q3 2014,Central,Room3
+3461,3000.0,Q3 2014,Central,Room4
+3465,2150.0,Q3 2014,Choa Chu Kang,Room4
+3466,2300.0,Q3 2014,Choa Chu Kang,Room5
+3467,2500.0,Q3 2014,Choa Chu Kang,Executive
+3468,2200.0,Q3 2014,Clementi,Room3
+3469,2800.0,Q3 2014,Clementi,Room4
+3470,2880.0,Q3 2014,Clementi,Room5
+3472,2100.0,Q3 2014,Geylang,Room3
+3473,2500.0,Q3 2014,Geylang,Room4
+3474,2800.0,Q3 2014,Geylang,Room5
+3476,1900.0,Q3 2014,Hougang,Room3
+3477,2300.0,Q3 2014,Hougang,Room4
+3478,2500.0,Q3 2014,Hougang,Room5
+3479,2800.0,Q3 2014,Hougang,Executive
+3480,2000.0,Q3 2014,Jurong East,Room3
+3481,2500.0,Q3 2014,Jurong East,Room4
+3482,2700.0,Q3 2014,Jurong East,Room5
+3483,2800.0,Q3 2014,Jurong East,Executive
+3484,1900.0,Q3 2014,Jurong West,Room3
+3485,2500.0,Q3 2014,Jurong West,Room4
+3486,2600.0,Q3 2014,Jurong West,Room5
+3487,2800.0,Q3 2014,Jurong West,Executive
+3488,2100.0,Q3 2014,Kallang/ Whampoa,Room3
+3489,2600.0,Q3 2014,Kallang/ Whampoa,Room4
+3490,3000.0,Q3 2014,Kallang/ Whampoa,Room5
+3492,2200.0,Q3 2014,Marine Parade,Room3
+3493,2480.0,Q3 2014,Marine Parade,Room4
+3497,2300.0,Q3 2014,Pasir Ris,Room4
+3498,2500.0,Q3 2014,Pasir Ris,Room5
+3499,2700.0,Q3 2014,Pasir Ris,Executive
+3501,2200.0,Q3 2014,Punggol,Room4
+3502,2300.0,Q3 2014,Punggol,Room5
+3504,2200.0,Q3 2014,Queenstown,Room3
+3505,3000.0,Q3 2014,Queenstown,Room4
+3506,3230.0,Q3 2014,Queenstown,Room5
+3509,2100.0,Q3 2014,Sembawang,Room4
+3510,2300.0,Q3 2014,Sembawang,Room5
+3511,2300.0,Q3 2014,Sembawang,Executive
+3513,2200.0,Q3 2014,Sengkang,Room4
+3514,2400.0,Q3 2014,Sengkang,Room5
+3515,2500.0,Q3 2014,Sengkang,Executive
+3516,2000.0,Q3 2014,Serangoon,Room3
+3517,2500.0,Q3 2014,Serangoon,Room4
+3518,2600.0,Q3 2014,Serangoon,Room5
+3519,3000.0,Q3 2014,Serangoon,Executive
+3520,2100.0,Q3 2014,Tampines,Room3
+3521,2400.0,Q3 2014,Tampines,Room4
+3522,2600.0,Q3 2014,Tampines,Room5
+3523,2800.0,Q3 2014,Tampines,Executive
+3524,2100.0,Q3 2014,Toa Payoh,Room3
+3525,2630.0,Q3 2014,Toa Payoh,Room4
+3526,2900.0,Q3 2014,Toa Payoh,Room5
+3528,1650.0,Q3 2014,Woodlands,Room3
+3529,2050.0,Q3 2014,Woodlands,Room4
+3530,2250.0,Q3 2014,Woodlands,Room5
+3531,2500.0,Q3 2014,Woodlands,Executive
+3532,1800.0,Q3 2014,Yishun,Room3
+3533,2200.0,Q3 2014,Yishun,Room4
+3534,2350.0,Q3 2014,Yishun,Room5
+3535,2600.0,Q3 2014,Yishun,Executive
+3536,2000.0,Q2 2014,Ang Mo Kio,Room3
+3537,2500.0,Q2 2014,Ang Mo Kio,Room4
+3538,2800.0,Q2 2014,Ang Mo Kio,Room5
+3540,2000.0,Q2 2014,Bedok,Room3
+3541,2400.0,Q2 2014,Bedok,Room4
+3542,2600.0,Q2 2014,Bedok,Room5
+3544,2100.0,Q2 2014,Bishan,Room3
+3545,2650.0,Q2 2014,Bishan,Room4
+3546,3000.0,Q2 2014,Bishan,Room5
+3548,1910.0,Q2 2014,Bukit Batok,Room3
+3549,2400.0,Q2 2014,Bukit Batok,Room4
+3550,2550.0,Q2 2014,Bukit Batok,Room5
+3552,2250.0,Q2 2014,Bukit Merah,Room3
+3553,2900.0,Q2 2014,Bukit Merah,Room4
+3554,3300.0,Q2 2014,Bukit Merah,Room5
+3556,1800.0,Q2 2014,Bukit Panjang,Room3
+3557,2000.0,Q2 2014,Bukit Panjang,Room4
+3558,2200.0,Q2 2014,Bukit Panjang,Room5
+3559,2300.0,Q2 2014,Bukit Panjang,Executive
+3564,2400.0,Q2 2014,Central,Room3
+3565,2950.0,Q2 2014,Central,Room4
+3569,2200.0,Q2 2014,Choa Chu Kang,Room4
+3570,2300.0,Q2 2014,Choa Chu Kang,Room5
+3571,2400.0,Q2 2014,Choa Chu Kang,Executive
+3572,2200.0,Q2 2014,Clementi,Room3
+3573,2700.0,Q2 2014,Clementi,Room4
+3574,3000.0,Q2 2014,Clementi,Room5
+3576,2000.0,Q2 2014,Geylang,Room3
+3577,2600.0,Q2 2014,Geylang,Room4
+3578,2800.0,Q2 2014,Geylang,Room5
+3580,1900.0,Q2 2014,Hougang,Room3
+3581,2300.0,Q2 2014,Hougang,Room4
+3582,2500.0,Q2 2014,Hougang,Room5
+3583,2700.0,Q2 2014,Hougang,Executive
+3584,2000.0,Q2 2014,Jurong East,Room3
+3585,2500.0,Q2 2014,Jurong East,Room4
+3586,2700.0,Q2 2014,Jurong East,Room5
+3587,2800.0,Q2 2014,Jurong East,Executive
+3588,2000.0,Q2 2014,Jurong West,Room3
+3589,2500.0,Q2 2014,Jurong West,Room4
+3590,2650.0,Q2 2014,Jurong West,Room5
+3591,2800.0,Q2 2014,Jurong West,Executive
+3592,2100.0,Q2 2014,Kallang/ Whampoa,Room3
+3593,2700.0,Q2 2014,Kallang/ Whampoa,Room4
+3594,2930.0,Q2 2014,Kallang/ Whampoa,Room5
+3596,2200.0,Q2 2014,Marine Parade,Room3
+3597,2500.0,Q2 2014,Marine Parade,Room4
+3601,2300.0,Q2 2014,Pasir Ris,Room4
+3602,2500.0,Q2 2014,Pasir Ris,Room5
+3603,2600.0,Q2 2014,Pasir Ris,Executive
+3605,2200.0,Q2 2014,Punggol,Room4
+3606,2350.0,Q2 2014,Punggol,Room5
+3608,2250.0,Q2 2014,Queenstown,Room3
+3609,3000.0,Q2 2014,Queenstown,Room4
+3610,3200.0,Q2 2014,Queenstown,Room5
+3613,2200.0,Q2 2014,Sembawang,Room4
+3614,2250.0,Q2 2014,Sembawang,Room5
+3615,2500.0,Q2 2014,Sembawang,Executive
+3617,2250.0,Q2 2014,Sengkang,Room4
+3618,2350.0,Q2 2014,Sengkang,Room5
+3619,2600.0,Q2 2014,Sengkang,Executive
+3620,2000.0,Q2 2014,Serangoon,Room3
+3621,2550.0,Q2 2014,Serangoon,Room4
+3622,2700.0,Q2 2014,Serangoon,Room5
+3623,2850.0,Q2 2014,Serangoon,Executive
+3624,2100.0,Q2 2014,Tampines,Room3
+3625,2400.0,Q2 2014,Tampines,Room4
+3626,2600.0,Q2 2014,Tampines,Room5
+3627,2880.0,Q2 2014,Tampines,Executive
+3628,2100.0,Q2 2014,Toa Payoh,Room3
+3629,2700.0,Q2 2014,Toa Payoh,Room4
+3630,2900.0,Q2 2014,Toa Payoh,Room5
+3632,1700.0,Q2 2014,Woodlands,Room3
+3633,2000.0,Q2 2014,Woodlands,Room4
+3634,2200.0,Q2 2014,Woodlands,Room5
+3635,2500.0,Q2 2014,Woodlands,Executive
+3636,1800.0,Q2 2014,Yishun,Room3
+3637,2200.0,Q2 2014,Yishun,Room4
+3638,2400.0,Q2 2014,Yishun,Room5
+3639,2500.0,Q2 2014,Yishun,Executive
+3640,2000.0,Q1 2014,Ang Mo Kio,Room3
+3641,2480.0,Q1 2014,Ang Mo Kio,Room4
+3642,2700.0,Q1 2014,Ang Mo Kio,Room5
+3644,2050.0,Q1 2014,Bedok,Room3
+3645,2400.0,Q1 2014,Bedok,Room4
+3646,2650.0,Q1 2014,Bedok,Room5
+3647,2850.0,Q1 2014,Bedok,Executive
+3648,2200.0,Q1 2014,Bishan,Room3
+3649,2630.0,Q1 2014,Bishan,Room4
+3650,2850.0,Q1 2014,Bishan,Room5
+3652,1900.0,Q1 2014,Bukit Batok,Room3
+3653,2300.0,Q1 2014,Bukit Batok,Room4
+3654,2500.0,Q1 2014,Bukit Batok,Room5
+3656,2210.0,Q1 2014,Bukit Merah,Room3
+3657,2900.0,Q1 2014,Bukit Merah,Room4
+3658,3300.0,Q1 2014,Bukit Merah,Room5
+3661,2050.0,Q1 2014,Bukit Panjang,Room4
+3662,2150.0,Q1 2014,Bukit Panjang,Room5
+3663,2400.0,Q1 2014,Bukit Panjang,Executive
+3668,2500.0,Q1 2014,Central,Room3
+3669,2800.0,Q1 2014,Central,Room4
+3673,2180.0,Q1 2014,Choa Chu Kang,Room4
+3674,2300.0,Q1 2014,Choa Chu Kang,Room5
+3675,2500.0,Q1 2014,Choa Chu Kang,Executive
+3676,2200.0,Q1 2014,Clementi,Room3
+3677,2750.0,Q1 2014,Clementi,Room4
+3678,3000.0,Q1 2014,Clementi,Room5
+3680,2050.0,Q1 2014,Geylang,Room3
+3681,2600.0,Q1 2014,Geylang,Room4
+3682,2850.0,Q1 2014,Geylang,Room5
+3684,1980.0,Q1 2014,Hougang,Room3
+3685,2300.0,Q1 2014,Hougang,Room4
+3686,2450.0,Q1 2014,Hougang,Room5
+3687,2800.0,Q1 2014,Hougang,Executive
+3688,2000.0,Q1 2014,Jurong East,Room3
+3689,2500.0,Q1 2014,Jurong East,Room4
+3690,2630.0,Q1 2014,Jurong East,Room5
+3692,1900.0,Q1 2014,Jurong West,Room3
+3693,2400.0,Q1 2014,Jurong West,Room4
+3694,2680.0,Q1 2014,Jurong West,Room5
+3695,2800.0,Q1 2014,Jurong West,Executive
+3696,2100.0,Q1 2014,Kallang/ Whampoa,Room3
+3697,2800.0,Q1 2014,Kallang/ Whampoa,Room4
+3698,2950.0,Q1 2014,Kallang/ Whampoa,Room5
+3700,2250.0,Q1 2014,Marine Parade,Room3
+3705,2400.0,Q1 2014,Pasir Ris,Room4
+3706,2500.0,Q1 2014,Pasir Ris,Room5
+3707,2800.0,Q1 2014,Pasir Ris,Executive
+3709,2200.0,Q1 2014,Punggol,Room4
+3710,2350.0,Q1 2014,Punggol,Room5
+3712,2300.0,Q1 2014,Queenstown,Room3
+3713,3000.0,Q1 2014,Queenstown,Room4
+3714,3280.0,Q1 2014,Queenstown,Room5
+3717,2150.0,Q1 2014,Sembawang,Room4
+3718,2300.0,Q1 2014,Sembawang,Room5
+3719,2400.0,Q1 2014,Sembawang,Executive
+3721,2300.0,Q1 2014,Sengkang,Room4
+3722,2400.0,Q1 2014,Sengkang,Room5
+3723,2600.0,Q1 2014,Sengkang,Executive
+3724,2100.0,Q1 2014,Serangoon,Room3
+3725,2600.0,Q1 2014,Serangoon,Room4
+3726,2600.0,Q1 2014,Serangoon,Room5
+3727,2900.0,Q1 2014,Serangoon,Executive
+3728,2150.0,Q1 2014,Tampines,Room3
+3729,2450.0,Q1 2014,Tampines,Room4
+3730,2640.0,Q1 2014,Tampines,Room5
+3731,2800.0,Q1 2014,Tampines,Executive
+3732,2200.0,Q1 2014,Toa Payoh,Room3
+3733,2540.0,Q1 2014,Toa Payoh,Room4
+3734,3000.0,Q1 2014,Toa Payoh,Room5
+3736,1700.0,Q1 2014,Woodlands,Room3
+3737,2100.0,Q1 2014,Woodlands,Room4
+3738,2300.0,Q1 2014,Woodlands,Room5
+3739,2600.0,Q1 2014,Woodlands,Executive
+3740,1850.0,Q1 2014,Yishun,Room3
+3741,2200.0,Q1 2014,Yishun,Room4
+3742,2430.0,Q1 2014,Yishun,Room5
+3743,2600.0,Q1 2014,Yishun,Executive
+3744,2000.0,Q4 2013,Ang Mo Kio,Room3
+3745,2550.0,Q4 2013,Ang Mo Kio,Room4
+3746,2700.0,Q4 2013,Ang Mo Kio,Room5
+3748,2100.0,Q4 2013,Bedok,Room3
+3749,2450.0,Q4 2013,Bedok,Room4
+3750,2800.0,Q4 2013,Bedok,Room5
+3752,2200.0,Q4 2013,Bishan,Room3
+3753,2630.0,Q4 2013,Bishan,Room4
+3754,2800.0,Q4 2013,Bishan,Room5
+3756,1960.0,Q4 2013,Bukit Batok,Room3
+3757,2400.0,Q4 2013,Bukit Batok,Room4
+3758,2600.0,Q4 2013,Bukit Batok,Room5
+3760,2200.0,Q4 2013,Bukit Merah,Room3
+3761,2900.0,Q4 2013,Bukit Merah,Room4
+3762,3200.0,Q4 2013,Bukit Merah,Room5
+3764,1800.0,Q4 2013,Bukit Panjang,Room3
+3765,2000.0,Q4 2013,Bukit Panjang,Room4
+3766,2200.0,Q4 2013,Bukit Panjang,Room5
+3772,2450.0,Q4 2013,Central,Room3
+3773,3000.0,Q4 2013,Central,Room4
+3777,2200.0,Q4 2013,Choa Chu Kang,Room4
+3778,2350.0,Q4 2013,Choa Chu Kang,Room5
+3779,2500.0,Q4 2013,Choa Chu Kang,Executive
+3780,2200.0,Q4 2013,Clementi,Room3
+3781,2700.0,Q4 2013,Clementi,Room4
+3782,3000.0,Q4 2013,Clementi,Room5
+3784,2100.0,Q4 2013,Geylang,Room3
+3785,2700.0,Q4 2013,Geylang,Room4
+3786,2900.0,Q4 2013,Geylang,Room5
+3788,1950.0,Q4 2013,Hougang,Room3
+3789,2350.0,Q4 2013,Hougang,Room4
+3790,2600.0,Q4 2013,Hougang,Room5
+3791,2800.0,Q4 2013,Hougang,Executive
+3792,2000.0,Q4 2013,Jurong East,Room3
+3793,2500.0,Q4 2013,Jurong East,Room4
+3794,2800.0,Q4 2013,Jurong East,Room5
+3796,2000.0,Q4 2013,Jurong West,Room3
+3797,2500.0,Q4 2013,Jurong West,Room4
+3798,2630.0,Q4 2013,Jurong West,Room5
+3799,2800.0,Q4 2013,Jurong West,Executive
+3800,2150.0,Q4 2013,Kallang/ Whampoa,Room3
+3801,2800.0,Q4 2013,Kallang/ Whampoa,Room4
+3802,2900.0,Q4 2013,Kallang/ Whampoa,Room5
+3804,2200.0,Q4 2013,Marine Parade,Room3
+3805,2600.0,Q4 2013,Marine Parade,Room4
+3809,2400.0,Q4 2013,Pasir Ris,Room4
+3810,2600.0,Q4 2013,Pasir Ris,Room5
+3811,2800.0,Q4 2013,Pasir Ris,Executive
+3813,2250.0,Q4 2013,Punggol,Room4
+3814,2480.0,Q4 2013,Punggol,Room5
+3816,2300.0,Q4 2013,Queenstown,Room3
+3817,3000.0,Q4 2013,Queenstown,Room4
+3818,3200.0,Q4 2013,Queenstown,Room5
+3821,2200.0,Q4 2013,Sembawang,Room4
+3822,2400.0,Q4 2013,Sembawang,Room5
+3823,2550.0,Q4 2013,Sembawang,Executive
+3825,2300.0,Q4 2013,Sengkang,Room4
+3826,2400.0,Q4 2013,Sengkang,Room5
+3827,2700.0,Q4 2013,Sengkang,Executive
+3828,2100.0,Q4 2013,Serangoon,Room3
+3829,2500.0,Q4 2013,Serangoon,Room4
+3830,2600.0,Q4 2013,Serangoon,Room5
+3832,2100.0,Q4 2013,Tampines,Room3
+3833,2500.0,Q4 2013,Tampines,Room4
+3834,2600.0,Q4 2013,Tampines,Room5
+3835,2980.0,Q4 2013,Tampines,Executive
+3836,2150.0,Q4 2013,Toa Payoh,Room3
+3837,2700.0,Q4 2013,Toa Payoh,Room4
+3838,3050.0,Q4 2013,Toa Payoh,Room5
+3840,1780.0,Q4 2013,Woodlands,Room3
+3841,2200.0,Q4 2013,Woodlands,Room4
+3842,2300.0,Q4 2013,Woodlands,Room5
+3843,2500.0,Q4 2013,Woodlands,Executive
+3844,1900.0,Q4 2013,Yishun,Room3
+3845,2200.0,Q4 2013,Yishun,Room4
+3846,2500.0,Q4 2013,Yishun,Room5
+3847,2800.0,Q4 2013,Yishun,Executive
+3848,2000.0,Q3 2013,Ang Mo Kio,Room3
+3849,2500.0,Q3 2013,Ang Mo Kio,Room4
+3850,2800.0,Q3 2013,Ang Mo Kio,Room5
+3852,2050.0,Q3 2013,Bedok,Room3
+3853,2400.0,Q3 2013,Bedok,Room4
+3854,2700.0,Q3 2013,Bedok,Room5
+3855,2750.0,Q3 2013,Bedok,Executive
+3856,2100.0,Q3 2013,Bishan,Room3
+3857,2600.0,Q3 2013,Bishan,Room4
+3858,3000.0,Q3 2013,Bishan,Room5
+3860,1950.0,Q3 2013,Bukit Batok,Room3
+3861,2400.0,Q3 2013,Bukit Batok,Room4
+3862,2530.0,Q3 2013,Bukit Batok,Room5
+3863,2730.0,Q3 2013,Bukit Batok,Executive
+3864,2300.0,Q3 2013,Bukit Merah,Room3
+3865,3000.0,Q3 2013,Bukit Merah,Room4
+3866,3300.0,Q3 2013,Bukit Merah,Room5
+3868,1800.0,Q3 2013,Bukit Panjang,Room3
+3869,2100.0,Q3 2013,Bukit Panjang,Room4
+3870,2300.0,Q3 2013,Bukit Panjang,Room5
+3871,2390.0,Q3 2013,Bukit Panjang,Executive
+3876,2400.0,Q3 2013,Central,Room3
+3877,2950.0,Q3 2013,Central,Room4
+3881,2300.0,Q3 2013,Choa Chu Kang,Room4
+3882,2400.0,Q3 2013,Choa Chu Kang,Room5
+3883,2500.0,Q3 2013,Choa Chu Kang,Executive
+3884,2200.0,Q3 2013,Clementi,Room3
+3885,2630.0,Q3 2013,Clementi,Room4
+3886,2900.0,Q3 2013,Clementi,Room5
+3888,2100.0,Q3 2013,Geylang,Room3
+3889,2600.0,Q3 2013,Geylang,Room4
+3890,2900.0,Q3 2013,Geylang,Room5
+3892,2000.0,Q3 2013,Hougang,Room3
+3893,2400.0,Q3 2013,Hougang,Room4
+3894,2500.0,Q3 2013,Hougang,Room5
+3895,2800.0,Q3 2013,Hougang,Executive
+3896,2000.0,Q3 2013,Jurong East,Room3
+3897,2500.0,Q3 2013,Jurong East,Room4
+3898,2650.0,Q3 2013,Jurong East,Room5
+3899,3000.0,Q3 2013,Jurong East,Executive
+3900,1900.0,Q3 2013,Jurong West,Room3
+3901,2500.0,Q3 2013,Jurong West,Room4
+3902,2650.0,Q3 2013,Jurong West,Room5
+3903,2700.0,Q3 2013,Jurong West,Executive
+3904,2200.0,Q3 2013,Kallang/ Whampoa,Room3
+3905,2650.0,Q3 2013,Kallang/ Whampoa,Room4
+3906,3000.0,Q3 2013,Kallang/ Whampoa,Room5
+3908,2200.0,Q3 2013,Marine Parade,Room3
+3909,2600.0,Q3 2013,Marine Parade,Room4
+3913,2500.0,Q3 2013,Pasir Ris,Room4
+3914,2600.0,Q3 2013,Pasir Ris,Room5
+3915,2800.0,Q3 2013,Pasir Ris,Executive
+3917,2300.0,Q3 2013,Punggol,Room4
+3918,2500.0,Q3 2013,Punggol,Room5
+3920,2300.0,Q3 2013,Queenstown,Room3
+3921,2900.0,Q3 2013,Queenstown,Room4
+3922,3400.0,Q3 2013,Queenstown,Room5
+3925,2200.0,Q3 2013,Sembawang,Room4
+3926,2400.0,Q3 2013,Sembawang,Room5
+3927,2500.0,Q3 2013,Sembawang,Executive
+3929,2400.0,Q3 2013,Sengkang,Room4
+3930,2500.0,Q3 2013,Sengkang,Room5
+3931,2650.0,Q3 2013,Sengkang,Executive
+3932,2000.0,Q3 2013,Serangoon,Room3
+3933,2580.0,Q3 2013,Serangoon,Room4
+3934,2700.0,Q3 2013,Serangoon,Room5
+3936,2180.0,Q3 2013,Tampines,Room3
+3937,2500.0,Q3 2013,Tampines,Room4
+3938,2700.0,Q3 2013,Tampines,Room5
+3939,2900.0,Q3 2013,Tampines,Executive
+3940,2100.0,Q3 2013,Toa Payoh,Room3
+3941,2630.0,Q3 2013,Toa Payoh,Room4
+3942,3000.0,Q3 2013,Toa Payoh,Room5
+3944,1700.0,Q3 2013,Woodlands,Room3
+3945,2200.0,Q3 2013,Woodlands,Room4
+3946,2300.0,Q3 2013,Woodlands,Room5
+3947,2500.0,Q3 2013,Woodlands,Executive
+3948,1900.0,Q3 2013,Yishun,Room3
+3949,2230.0,Q3 2013,Yishun,Room4
+3950,2500.0,Q3 2013,Yishun,Room5
+3952,2000.0,Q2 2013,Ang Mo Kio,Room3
+3953,2500.0,Q2 2013,Ang Mo Kio,Room4
+3954,2800.0,Q2 2013,Ang Mo Kio,Room5
+3956,2100.0,Q2 2013,Bedok,Room3
+3957,2430.0,Q2 2013,Bedok,Room4
+3958,2680.0,Q2 2013,Bedok,Room5
+3960,2200.0,Q2 2013,Bishan,Room3
+3961,2600.0,Q2 2013,Bishan,Room4
+3962,2900.0,Q2 2013,Bishan,Room5
+3964,2000.0,Q2 2013,Bukit Batok,Room3
+3965,2350.0,Q2 2013,Bukit Batok,Room4
+3966,2500.0,Q2 2013,Bukit Batok,Room5
+3967,2800.0,Q2 2013,Bukit Batok,Executive
+3968,2200.0,Q2 2013,Bukit Merah,Room3
+3969,3000.0,Q2 2013,Bukit Merah,Room4
+3970,3300.0,Q2 2013,Bukit Merah,Room5
+3972,1850.0,Q2 2013,Bukit Panjang,Room3
+3973,2180.0,Q2 2013,Bukit Panjang,Room4
+3974,2250.0,Q2 2013,Bukit Panjang,Room5
+3975,2400.0,Q2 2013,Bukit Panjang,Executive
+3980,2400.0,Q2 2013,Central,Room3
+3981,3000.0,Q2 2013,Central,Room4
+3985,2200.0,Q2 2013,Choa Chu Kang,Room4
+3986,2350.0,Q2 2013,Choa Chu Kang,Room5
+3987,2500.0,Q2 2013,Choa Chu Kang,Executive
+3988,2200.0,Q2 2013,Clementi,Room3
+3989,2700.0,Q2 2013,Clementi,Room4
+3990,2980.0,Q2 2013,Clementi,Room5
+3992,2000.0,Q2 2013,Geylang,Room3
+3993,2600.0,Q2 2013,Geylang,Room4
+3994,2800.0,Q2 2013,Geylang,Room5
+3996,1950.0,Q2 2013,Hougang,Room3
+3997,2300.0,Q2 2013,Hougang,Room4
+3998,2500.0,Q2 2013,Hougang,Room5
+3999,2800.0,Q2 2013,Hougang,Executive
+4000,1930.0,Q2 2013,Jurong East,Room3
+4001,2500.0,Q2 2013,Jurong East,Room4
+4002,2720.0,Q2 2013,Jurong East,Room5
+4004,1900.0,Q2 2013,Jurong West,Room3
+4005,2400.0,Q2 2013,Jurong West,Room4
+4006,2640.0,Q2 2013,Jurong West,Room5
+4007,2800.0,Q2 2013,Jurong West,Executive
+4008,2100.0,Q2 2013,Kallang/ Whampoa,Room3
+4009,2700.0,Q2 2013,Kallang/ Whampoa,Room4
+4010,3000.0,Q2 2013,Kallang/ Whampoa,Room5
+4012,2300.0,Q2 2013,Marine Parade,Room3
+4017,2400.0,Q2 2013,Pasir Ris,Room4
+4018,2590.0,Q2 2013,Pasir Ris,Room5
+4019,2700.0,Q2 2013,Pasir Ris,Executive
+4021,2350.0,Q2 2013,Punggol,Room4
+4022,2500.0,Q2 2013,Punggol,Room5
+4024,2200.0,Q2 2013,Queenstown,Room3
+4025,3000.0,Q2 2013,Queenstown,Room4
+4026,3200.0,Q2 2013,Queenstown,Room5
+4029,2200.0,Q2 2013,Sembawang,Room4
+4030,2300.0,Q2 2013,Sembawang,Room5
+4031,2630.0,Q2 2013,Sembawang,Executive
+4033,2380.0,Q2 2013,Sengkang,Room4
+4034,2500.0,Q2 2013,Sengkang,Room5
+4035,2700.0,Q2 2013,Sengkang,Executive
+4036,2050.0,Q2 2013,Serangoon,Room3
+4037,2450.0,Q2 2013,Serangoon,Room4
+4038,2600.0,Q2 2013,Serangoon,Room5
+4040,2150.0,Q2 2013,Tampines,Room3
+4041,2500.0,Q2 2013,Tampines,Room4
+4042,2700.0,Q2 2013,Tampines,Room5
+4043,2940.0,Q2 2013,Tampines,Executive
+4044,2100.0,Q2 2013,Toa Payoh,Room3
+4045,2800.0,Q2 2013,Toa Payoh,Room4
+4046,3000.0,Q2 2013,Toa Payoh,Room5
+4048,1700.0,Q2 2013,Woodlands,Room3
+4049,2150.0,Q2 2013,Woodlands,Room4
+4050,2300.0,Q2 2013,Woodlands,Room5
+4051,2600.0,Q2 2013,Woodlands,Executive
+4052,1900.0,Q2 2013,Yishun,Room3
+4053,2200.0,Q2 2013,Yishun,Room4
+4054,2450.0,Q2 2013,Yishun,Room5
+4055,2600.0,Q2 2013,Yishun,Executive
+4056,2000.0,Q1 2013,Ang Mo Kio,Room3
+4057,2500.0,Q1 2013,Ang Mo Kio,Room4
+4058,2800.0,Q1 2013,Ang Mo Kio,Room5
+4060,2000.0,Q1 2013,Bedok,Room3
+4061,2500.0,Q1 2013,Bedok,Room4
+4062,2700.0,Q1 2013,Bedok,Room5
+4064,2080.0,Q1 2013,Bishan,Room3
+4065,2600.0,Q1 2013,Bishan,Room4
+4066,2800.0,Q1 2013,Bishan,Room5
+4068,2000.0,Q1 2013,Bukit Batok,Room3
+4069,2400.0,Q1 2013,Bukit Batok,Room4
+4070,2500.0,Q1 2013,Bukit Batok,Room5
+4072,2200.0,Q1 2013,Bukit Merah,Room3
+4073,2970.0,Q1 2013,Bukit Merah,Room4
+4074,3300.0,Q1 2013,Bukit Merah,Room5
+4076,1800.0,Q1 2013,Bukit Panjang,Room3
+4077,2100.0,Q1 2013,Bukit Panjang,Room4
+4078,2200.0,Q1 2013,Bukit Panjang,Room5
+4079,2400.0,Q1 2013,Bukit Panjang,Executive
+4084,2450.0,Q1 2013,Central,Room3
+4089,2200.0,Q1 2013,Choa Chu Kang,Room4
+4090,2400.0,Q1 2013,Choa Chu Kang,Room5
+4091,2700.0,Q1 2013,Choa Chu Kang,Executive
+4092,2150.0,Q1 2013,Clementi,Room3
+4093,2600.0,Q1 2013,Clementi,Room4
+4094,2900.0,Q1 2013,Clementi,Room5
+4096,2000.0,Q1 2013,Geylang,Room3
+4097,2500.0,Q1 2013,Geylang,Room4
+4100,1950.0,Q1 2013,Hougang,Room3
+4101,2400.0,Q1 2013,Hougang,Room4
+4102,2500.0,Q1 2013,Hougang,Room5
+4103,2850.0,Q1 2013,Hougang,Executive
+4104,1980.0,Q1 2013,Jurong East,Room3
+4105,2500.0,Q1 2013,Jurong East,Room4
+4106,2600.0,Q1 2013,Jurong East,Room5
+4108,1850.0,Q1 2013,Jurong West,Room3
+4109,2400.0,Q1 2013,Jurong West,Room4
+4110,2600.0,Q1 2013,Jurong West,Room5
+4111,2780.0,Q1 2013,Jurong West,Executive
+4112,2100.0,Q1 2013,Kallang/ Whampoa,Room3
+4113,2700.0,Q1 2013,Kallang/ Whampoa,Room4
+4114,2980.0,Q1 2013,Kallang/ Whampoa,Room5
+4116,2300.0,Q1 2013,Marine Parade,Room3
+4121,2430.0,Q1 2013,Pasir Ris,Room4
+4122,2600.0,Q1 2013,Pasir Ris,Room5
+4123,2900.0,Q1 2013,Pasir Ris,Executive
+4125,2300.0,Q1 2013,Punggol,Room4
+4126,2500.0,Q1 2013,Punggol,Room5
+4128,2200.0,Q1 2013,Queenstown,Room3
+4129,2900.0,Q1 2013,Queenstown,Room4
+4130,3200.0,Q1 2013,Queenstown,Room5
+4133,2180.0,Q1 2013,Sembawang,Room4
+4134,2400.0,Q1 2013,Sembawang,Room5
+4135,2600.0,Q1 2013,Sembawang,Executive
+4137,2400.0,Q1 2013,Sengkang,Room4
+4138,2500.0,Q1 2013,Sengkang,Room5
+4139,2730.0,Q1 2013,Sengkang,Executive
+4140,2000.0,Q1 2013,Serangoon,Room3
+4141,2400.0,Q1 2013,Serangoon,Room4
+4144,2150.0,Q1 2013,Tampines,Room3
+4145,2500.0,Q1 2013,Tampines,Room4
+4146,2750.0,Q1 2013,Tampines,Room5
+4147,2900.0,Q1 2013,Tampines,Executive
+4148,2100.0,Q1 2013,Toa Payoh,Room3
+4149,2600.0,Q1 2013,Toa Payoh,Room4
+4150,2900.0,Q1 2013,Toa Payoh,Room5
+4152,1700.0,Q1 2013,Woodlands,Room3
+4153,2100.0,Q1 2013,Woodlands,Room4
+4154,2300.0,Q1 2013,Woodlands,Room5
+4155,2600.0,Q1 2013,Woodlands,Executive
+4156,1900.0,Q1 2013,Yishun,Room3
+4157,2250.0,Q1 2013,Yishun,Room4
+4158,2500.0,Q1 2013,Yishun,Room5
+4160,2000.0,Q4 2012,Ang Mo Kio,Room3
+4161,2500.0,Q4 2012,Ang Mo Kio,Room4
+4162,2750.0,Q4 2012,Ang Mo Kio,Room5
+4164,2050.0,Q4 2012,Bedok,Room3
+4165,2400.0,Q4 2012,Bedok,Room4
+4166,2780.0,Q4 2012,Bedok,Room5
+4168,2050.0,Q4 2012,Bishan,Room3
+4169,2600.0,Q4 2012,Bishan,Room4
+4170,2830.0,Q4 2012,Bishan,Room5
+4172,1900.0,Q4 2012,Bukit Batok,Room3
+4173,2330.0,Q4 2012,Bukit Batok,Room4
+4174,2550.0,Q4 2012,Bukit Batok,Room5
+4176,2200.0,Q4 2012,Bukit Merah,Room3
+4177,2900.0,Q4 2012,Bukit Merah,Room4
+4178,3200.0,Q4 2012,Bukit Merah,Room5
+4181,2100.0,Q4 2012,Bukit Panjang,Room4
+4182,2300.0,Q4 2012,Bukit Panjang,Room5
+4183,2400.0,Q4 2012,Bukit Panjang,Executive
+4188,2400.0,Q4 2012,Central,Room3
+4193,2200.0,Q4 2012,Choa Chu Kang,Room4
+4194,2400.0,Q4 2012,Choa Chu Kang,Room5
+4195,2600.0,Q4 2012,Choa Chu Kang,Executive
+4196,2200.0,Q4 2012,Clementi,Room3
+4197,2700.0,Q4 2012,Clementi,Room4
+4200,2100.0,Q4 2012,Geylang,Room3
+4201,2500.0,Q4 2012,Geylang,Room4
+4204,1930.0,Q4 2012,Hougang,Room3
+4205,2300.0,Q4 2012,Hougang,Room4
+4206,2500.0,Q4 2012,Hougang,Room5
+4207,2800.0,Q4 2012,Hougang,Executive
+4208,2000.0,Q4 2012,Jurong East,Room3
+4209,2450.0,Q4 2012,Jurong East,Room4
+4210,2700.0,Q4 2012,Jurong East,Room5
+4212,1900.0,Q4 2012,Jurong West,Room3
+4213,2500.0,Q4 2012,Jurong West,Room4
+4214,2700.0,Q4 2012,Jurong West,Room5
+4215,2800.0,Q4 2012,Jurong West,Executive
+4216,2100.0,Q4 2012,Kallang/ Whampoa,Room3
+4217,2700.0,Q4 2012,Kallang/ Whampoa,Room4
+4218,2800.0,Q4 2012,Kallang/ Whampoa,Room5
+4220,2150.0,Q4 2012,Marine Parade,Room3
+4221,2600.0,Q4 2012,Marine Parade,Room4
+4225,2450.0,Q4 2012,Pasir Ris,Room4
+4226,2600.0,Q4 2012,Pasir Ris,Room5
+4227,2700.0,Q4 2012,Pasir Ris,Executive
+4229,2300.0,Q4 2012,Punggol,Room4
+4230,2500.0,Q4 2012,Punggol,Room5
+4232,2200.0,Q4 2012,Queenstown,Room3
+4233,2900.0,Q4 2012,Queenstown,Room4
+4237,2200.0,Q4 2012,Sembawang,Room4
+4238,2400.0,Q4 2012,Sembawang,Room5
+4241,2400.0,Q4 2012,Sengkang,Room4
+4242,2500.0,Q4 2012,Sengkang,Room5
+4243,2650.0,Q4 2012,Sengkang,Executive
+4244,2080.0,Q4 2012,Serangoon,Room3
+4245,2550.0,Q4 2012,Serangoon,Room4
+4246,2530.0,Q4 2012,Serangoon,Room5
+4248,2100.0,Q4 2012,Tampines,Room3
+4249,2500.0,Q4 2012,Tampines,Room4
+4250,2650.0,Q4 2012,Tampines,Room5
+4251,2800.0,Q4 2012,Tampines,Executive
+4252,2200.0,Q4 2012,Toa Payoh,Room3
+4253,2600.0,Q4 2012,Toa Payoh,Room4
+4254,3000.0,Q4 2012,Toa Payoh,Room5
+4256,1750.0,Q4 2012,Woodlands,Room3
+4257,2150.0,Q4 2012,Woodlands,Room4
+4258,2300.0,Q4 2012,Woodlands,Room5
+4259,2500.0,Q4 2012,Woodlands,Executive
+4260,1900.0,Q4 2012,Yishun,Room3
+4261,2200.0,Q4 2012,Yishun,Room4
+4262,2400.0,Q4 2012,Yishun,Room5
+4264,2000.0,Q3 2012,Ang Mo Kio,Room3
+4265,2400.0,Q3 2012,Ang Mo Kio,Room4
+4266,2800.0,Q3 2012,Ang Mo Kio,Room5
+4268,2000.0,Q3 2012,Bedok,Room3
+4269,2400.0,Q3 2012,Bedok,Room4
+4270,2600.0,Q3 2012,Bedok,Room5
+4272,2000.0,Q3 2012,Bishan,Room3
+4273,2500.0,Q3 2012,Bishan,Room4
+4274,2800.0,Q3 2012,Bishan,Room5
+4276,1900.0,Q3 2012,Bukit Batok,Room3
+4277,2300.0,Q3 2012,Bukit Batok,Room4
+4278,2550.0,Q3 2012,Bukit Batok,Room5
+4279,2600.0,Q3 2012,Bukit Batok,Executive
+4280,2200.0,Q3 2012,Bukit Merah,Room3
+4281,2950.0,Q3 2012,Bukit Merah,Room4
+4282,3200.0,Q3 2012,Bukit Merah,Room5
+4284,1800.0,Q3 2012,Bukit Panjang,Room3
+4285,2100.0,Q3 2012,Bukit Panjang,Room4
+4286,2250.0,Q3 2012,Bukit Panjang,Room5
+4287,2500.0,Q3 2012,Bukit Panjang,Executive
+4292,2400.0,Q3 2012,Central,Room3
+4293,2800.0,Q3 2012,Central,Room4
+4297,2250.0,Q3 2012,Choa Chu Kang,Room4
+4298,2300.0,Q3 2012,Choa Chu Kang,Room5
+4299,2600.0,Q3 2012,Choa Chu Kang,Executive
+4300,2100.0,Q3 2012,Clementi,Room3
+4301,2600.0,Q3 2012,Clementi,Room4
+4302,2700.0,Q3 2012,Clementi,Room5
+4304,1950.0,Q3 2012,Geylang,Room3
+4305,2500.0,Q3 2012,Geylang,Room4
+4306,2800.0,Q3 2012,Geylang,Room5
+4308,1900.0,Q3 2012,Hougang,Room3
+4309,2400.0,Q3 2012,Hougang,Room4
+4310,2500.0,Q3 2012,Hougang,Room5
+4311,2900.0,Q3 2012,Hougang,Executive
+4312,2000.0,Q3 2012,Jurong East,Room3
+4313,2300.0,Q3 2012,Jurong East,Room4
+4314,2500.0,Q3 2012,Jurong East,Room5
+4316,1800.0,Q3 2012,Jurong West,Room3
+4317,2380.0,Q3 2012,Jurong West,Room4
+4318,2600.0,Q3 2012,Jurong West,Room5
+4319,2800.0,Q3 2012,Jurong West,Executive
+4320,2030.0,Q3 2012,Kallang/ Whampoa,Room3
+4321,2500.0,Q3 2012,Kallang/ Whampoa,Room4
+4322,2900.0,Q3 2012,Kallang/ Whampoa,Room5
+4324,2300.0,Q3 2012,Marine Parade,Room3
+4325,2550.0,Q3 2012,Marine Parade,Room4
+4329,2300.0,Q3 2012,Pasir Ris,Room4
+4330,2500.0,Q3 2012,Pasir Ris,Room5
+4331,2800.0,Q3 2012,Pasir Ris,Executive
+4333,2300.0,Q3 2012,Punggol,Room4
+4334,2450.0,Q3 2012,Punggol,Room5
+4336,2200.0,Q3 2012,Queenstown,Room3
+4337,2900.0,Q3 2012,Queenstown,Room4
+4338,3300.0,Q3 2012,Queenstown,Room5
+4341,2150.0,Q3 2012,Sembawang,Room4
+4342,2350.0,Q3 2012,Sembawang,Room5
+4343,2500.0,Q3 2012,Sembawang,Executive
+4345,2350.0,Q3 2012,Sengkang,Room4
+4346,2500.0,Q3 2012,Sengkang,Room5
+4347,2600.0,Q3 2012,Sengkang,Executive
+4348,2000.0,Q3 2012,Serangoon,Room3
+4349,2400.0,Q3 2012,Serangoon,Room4
+4350,2650.0,Q3 2012,Serangoon,Room5
+4352,2100.0,Q3 2012,Tampines,Room3
+4353,2400.0,Q3 2012,Tampines,Room4
+4354,2650.0,Q3 2012,Tampines,Room5
+4355,2800.0,Q3 2012,Tampines,Executive
+4356,2000.0,Q3 2012,Toa Payoh,Room3
+4357,2600.0,Q3 2012,Toa Payoh,Room4
+4358,2900.0,Q3 2012,Toa Payoh,Room5
+4360,1700.0,Q3 2012,Woodlands,Room3
+4361,2100.0,Q3 2012,Woodlands,Room4
+4362,2300.0,Q3 2012,Woodlands,Room5
+4363,2550.0,Q3 2012,Woodlands,Executive
+4364,1800.0,Q3 2012,Yishun,Room3
+4365,2200.0,Q3 2012,Yishun,Room4
+4366,2450.0,Q3 2012,Yishun,Room5
+4368,2000.0,Q2 2012,Ang Mo Kio,Room3
+4369,2400.0,Q2 2012,Ang Mo Kio,Room4
+4370,2700.0,Q2 2012,Ang Mo Kio,Room5
+4372,1950.0,Q2 2012,Bedok,Room3
+4373,2300.0,Q2 2012,Bedok,Room4
+4374,2500.0,Q2 2012,Bedok,Room5
+4376,2050.0,Q2 2012,Bishan,Room3
+4377,2550.0,Q2 2012,Bishan,Room4
+4378,2800.0,Q2 2012,Bishan,Room5
+4380,1900.0,Q2 2012,Bukit Batok,Room3
+4381,2230.0,Q2 2012,Bukit Batok,Room4
+4382,2450.0,Q2 2012,Bukit Batok,Room5
+4384,2100.0,Q2 2012,Bukit Merah,Room3
+4385,2800.0,Q2 2012,Bukit Merah,Room4
+4386,3200.0,Q2 2012,Bukit Merah,Room5
+4388,1800.0,Q2 2012,Bukit Panjang,Room3
+4389,2000.0,Q2 2012,Bukit Panjang,Room4
+4390,2200.0,Q2 2012,Bukit Panjang,Room5
+4396,2300.0,Q2 2012,Central,Room3
+4397,2800.0,Q2 2012,Central,Room4
+4401,2200.0,Q2 2012,Choa Chu Kang,Room4
+4402,2300.0,Q2 2012,Choa Chu Kang,Room5
+4403,2400.0,Q2 2012,Choa Chu Kang,Executive
+4404,2000.0,Q2 2012,Clementi,Room3
+4405,2550.0,Q2 2012,Clementi,Room4
+4406,2800.0,Q2 2012,Clementi,Room5
+4408,1930.0,Q2 2012,Geylang,Room3
+4409,2200.0,Q2 2012,Geylang,Room4
+4412,1800.0,Q2 2012,Hougang,Room3
+4413,2300.0,Q2 2012,Hougang,Room4
+4414,2400.0,Q2 2012,Hougang,Room5
+4415,2800.0,Q2 2012,Hougang,Executive
+4416,1800.0,Q2 2012,Jurong East,Room3
+4417,2300.0,Q2 2012,Jurong East,Room4
+4418,2600.0,Q2 2012,Jurong East,Room5
+4420,1800.0,Q2 2012,Jurong West,Room3
+4421,2350.0,Q2 2012,Jurong West,Room4
+4422,2450.0,Q2 2012,Jurong West,Room5
+4423,2700.0,Q2 2012,Jurong West,Executive
+4424,2000.0,Q2 2012,Kallang/ Whampoa,Room3
+4425,2500.0,Q2 2012,Kallang/ Whampoa,Room4
+4426,2800.0,Q2 2012,Kallang/ Whampoa,Room5
+4428,2200.0,Q2 2012,Marine Parade,Room3
+4433,2300.0,Q2 2012,Pasir Ris,Room4
+4434,2500.0,Q2 2012,Pasir Ris,Room5
+4435,2600.0,Q2 2012,Pasir Ris,Executive
+4437,2300.0,Q2 2012,Punggol,Room4
+4438,2430.0,Q2 2012,Punggol,Room5
+4440,2200.0,Q2 2012,Queenstown,Room3
+4441,2950.0,Q2 2012,Queenstown,Room4
+4442,3000.0,Q2 2012,Queenstown,Room5
+4445,2050.0,Q2 2012,Sembawang,Room4
+4446,2400.0,Q2 2012,Sembawang,Room5
+4447,2500.0,Q2 2012,Sembawang,Executive
+4449,2300.0,Q2 2012,Sengkang,Room4
+4450,2440.0,Q2 2012,Sengkang,Room5
+4451,2650.0,Q2 2012,Sengkang,Executive
+4452,1950.0,Q2 2012,Serangoon,Room3
+4453,2500.0,Q2 2012,Serangoon,Room4
+4454,2470.0,Q2 2012,Serangoon,Room5
+4456,2000.0,Q2 2012,Tampines,Room3
+4457,2350.0,Q2 2012,Tampines,Room4
+4458,2540.0,Q2 2012,Tampines,Room5
+4459,2800.0,Q2 2012,Tampines,Executive
+4460,1980.0,Q2 2012,Toa Payoh,Room3
+4461,2500.0,Q2 2012,Toa Payoh,Room4
+4462,2700.0,Q2 2012,Toa Payoh,Room5
+4464,1700.0,Q2 2012,Woodlands,Room3
+4465,2050.0,Q2 2012,Woodlands,Room4
+4466,2200.0,Q2 2012,Woodlands,Room5
+4467,2500.0,Q2 2012,Woodlands,Executive
+4468,1850.0,Q2 2012,Yishun,Room3
+4469,2190.0,Q2 2012,Yishun,Room4
+4470,2400.0,Q2 2012,Yishun,Room5
+4471,2500.0,Q2 2012,Yishun,Executive
+4472,1800.0,Q1 2012,Ang Mo Kio,Room3
+4473,2250.0,Q1 2012,Ang Mo Kio,Room4
+4474,2500.0,Q1 2012,Ang Mo Kio,Room5
+4476,1780.0,Q1 2012,Bedok,Room3
+4477,2200.0,Q1 2012,Bedok,Room4
+4478,2500.0,Q1 2012,Bedok,Room5
+4480,1750.0,Q1 2012,Bishan,Room3
+4481,2300.0,Q1 2012,Bishan,Room4
+4482,2600.0,Q1 2012,Bishan,Room5
+4484,1750.0,Q1 2012,Bukit Batok,Room3
+4485,2170.0,Q1 2012,Bukit Batok,Room4
+4486,2400.0,Q1 2012,Bukit Batok,Room5
+4488,2000.0,Q1 2012,Bukit Merah,Room3
+4489,2700.0,Q1 2012,Bukit Merah,Room4
+4490,2950.0,Q1 2012,Bukit Merah,Room5
+4492,1600.0,Q1 2012,Bukit Panjang,Room3
+4493,2000.0,Q1 2012,Bukit Panjang,Room4
+4494,2150.0,Q1 2012,Bukit Panjang,Room5
+4495,2250.0,Q1 2012,Bukit Panjang,Executive
+4500,2200.0,Q1 2012,Central,Room3
+4505,2100.0,Q1 2012,Choa Chu Kang,Room4
+4506,2220.0,Q1 2012,Choa Chu Kang,Room5
+4507,2400.0,Q1 2012,Choa Chu Kang,Executive
+4508,2000.0,Q1 2012,Clementi,Room3
+4509,2350.0,Q1 2012,Clementi,Room4
+4510,2750.0,Q1 2012,Clementi,Room5
+4511,2800.0,Q1 2012,Clementi,Executive
+4512,1900.0,Q1 2012,Geylang,Room3
+4513,2300.0,Q1 2012,Geylang,Room4
+4516,1800.0,Q1 2012,Hougang,Room3
+4517,2150.0,Q1 2012,Hougang,Room4
+4518,2400.0,Q1 2012,Hougang,Room5
+4519,2700.0,Q1 2012,Hougang,Executive
+4520,1700.0,Q1 2012,Jurong East,Room3
+4521,2200.0,Q1 2012,Jurong East,Room4
+4522,2400.0,Q1 2012,Jurong East,Room5
+4523,2300.0,Q1 2012,Jurong East,Executive
+4524,1700.0,Q1 2012,Jurong West,Room3
+4525,2000.0,Q1 2012,Jurong West,Room4
+4526,2400.0,Q1 2012,Jurong West,Room5
+4527,2500.0,Q1 2012,Jurong West,Executive
+4528,1800.0,Q1 2012,Kallang/ Whampoa,Room3
+4529,2400.0,Q1 2012,Kallang/ Whampoa,Room4
+4530,2700.0,Q1 2012,Kallang/ Whampoa,Room5
+4532,2100.0,Q1 2012,Marine Parade,Room3
+4533,2400.0,Q1 2012,Marine Parade,Room4
+4537,2250.0,Q1 2012,Pasir Ris,Room4
+4538,2500.0,Q1 2012,Pasir Ris,Room5
+4539,2560.0,Q1 2012,Pasir Ris,Executive
+4541,2200.0,Q1 2012,Punggol,Room4
+4542,2400.0,Q1 2012,Punggol,Room5
+4544,1930.0,Q1 2012,Queenstown,Room3
+4545,2600.0,Q1 2012,Queenstown,Room4
+4546,2700.0,Q1 2012,Queenstown,Room5
+4549,2080.0,Q1 2012,Sembawang,Room4
+4550,2250.0,Q1 2012,Sembawang,Room5
+4553,2200.0,Q1 2012,Sengkang,Room4
+4554,2400.0,Q1 2012,Sengkang,Room5
+4555,2400.0,Q1 2012,Sengkang,Executive
+4556,1850.0,Q1 2012,Serangoon,Room3
+4557,2200.0,Q1 2012,Serangoon,Room4
+4558,2500.0,Q1 2012,Serangoon,Room5
+4560,1900.0,Q1 2012,Tampines,Room3
+4561,2300.0,Q1 2012,Tampines,Room4
+4562,2450.0,Q1 2012,Tampines,Room5
+4563,2500.0,Q1 2012,Tampines,Executive
+4564,1900.0,Q1 2012,Toa Payoh,Room3
+4565,2350.0,Q1 2012,Toa Payoh,Room4
+4566,2800.0,Q1 2012,Toa Payoh,Room5
+4568,1650.0,Q1 2012,Woodlands,Room3
+4569,2000.0,Q1 2012,Woodlands,Room4
+4570,2200.0,Q1 2012,Woodlands,Room5
+4571,2480.0,Q1 2012,Woodlands,Executive
+4572,1700.0,Q1 2012,Yishun,Room3
+4573,2000.0,Q1 2012,Yishun,Room4
+4574,2300.0,Q1 2012,Yishun,Room5
+4576,1900.0,Q4 2011,Ang Mo Kio,Room3
+4577,2450.0,Q4 2011,Ang Mo Kio,Room4
+4578,2600.0,Q4 2011,Ang Mo Kio,Room5
+4580,1800.0,Q4 2011,Bedok,Room3
+4581,2200.0,Q4 2011,Bedok,Room4
+4582,2500.0,Q4 2011,Bedok,Room5
+4584,1930.0,Q4 2011,Bishan,Room3
+4585,2500.0,Q4 2011,Bishan,Room4
+4586,2800.0,Q4 2011,Bishan,Room5
+4588,1750.0,Q4 2011,Bukit Batok,Room3
+4589,2200.0,Q4 2011,Bukit Batok,Room4
+4590,2300.0,Q4 2011,Bukit Batok,Room5
+4592,2100.0,Q4 2011,Bukit Merah,Room3
+4593,2600.0,Q4 2011,Bukit Merah,Room4
+4594,3200.0,Q4 2011,Bukit Merah,Room5
+4596,1700.0,Q4 2011,Bukit Panjang,Room3
+4597,2100.0,Q4 2011,Bukit Panjang,Room4
+4598,2100.0,Q4 2011,Bukit Panjang,Room5
+4599,2300.0,Q4 2011,Bukit Panjang,Executive
+4604,2300.0,Q4 2011,Central,Room3
+4605,2600.0,Q4 2011,Central,Room4
+4609,2150.0,Q4 2011,Choa Chu Kang,Room4
+4610,2250.0,Q4 2011,Choa Chu Kang,Room5
+4611,2400.0,Q4 2011,Choa Chu Kang,Executive
+4612,2000.0,Q4 2011,Clementi,Room3
+4613,2400.0,Q4 2011,Clementi,Room4
+4616,1900.0,Q4 2011,Geylang,Room3
+4617,2400.0,Q4 2011,Geylang,Room4
+4620,1800.0,Q4 2011,Hougang,Room3
+4621,2200.0,Q4 2011,Hougang,Room4
+4622,2400.0,Q4 2011,Hougang,Room5
+4623,2700.0,Q4 2011,Hougang,Executive
+4624,1800.0,Q4 2011,Jurong East,Room3
+4625,2200.0,Q4 2011,Jurong East,Room4
+4626,2330.0,Q4 2011,Jurong East,Room5
+4628,1700.0,Q4 2011,Jurong West,Room3
+4629,2200.0,Q4 2011,Jurong West,Room4
+4630,2400.0,Q4 2011,Jurong West,Room5
+4631,2600.0,Q4 2011,Jurong West,Executive
+4632,2000.0,Q4 2011,Kallang/ Whampoa,Room3
+4633,2500.0,Q4 2011,Kallang/ Whampoa,Room4
+4634,2700.0,Q4 2011,Kallang/ Whampoa,Room5
+4636,2000.0,Q4 2011,Marine Parade,Room3
+4637,2500.0,Q4 2011,Marine Parade,Room4
+4641,2200.0,Q4 2011,Pasir Ris,Room4
+4642,2450.0,Q4 2011,Pasir Ris,Room5
+4643,2600.0,Q4 2011,Pasir Ris,Executive
+4645,2250.0,Q4 2011,Punggol,Room4
+4646,2350.0,Q4 2011,Punggol,Room5
+4648,2000.0,Q4 2011,Queenstown,Room3
+4649,2500.0,Q4 2011,Queenstown,Room4
+4653,2.0,Q4 2011,Sembawang,Room4
+4654,2280.0,Q4 2011,Sembawang,Room5
+4657,2300.0,Q4 2011,Sengkang,Room4
+4658,2400.0,Q4 2011,Sengkang,Room5
+4659,2500.0,Q4 2011,Sengkang,Executive
+4660,1800.0,Q4 2011,Serangoon,Room3
+4661,2280.0,Q4 2011,Serangoon,Room4
+4662,2680.0,Q4 2011,Serangoon,Room5
+4664,1900.0,Q4 2011,Tampines,Room3
+4665,2300.0,Q4 2011,Tampines,Room4
+4666,2500.0,Q4 2011,Tampines,Room5
+4667,2800.0,Q4 2011,Tampines,Executive
+4668,2000.0,Q4 2011,Toa Payoh,Room3
+4669,2500.0,Q4 2011,Toa Payoh,Room4
+4670,2650.0,Q4 2011,Toa Payoh,Room5
+4672,1630.0,Q4 2011,Woodlands,Room3
+4673,2100.0,Q4 2011,Woodlands,Room4
+4674,2200.0,Q4 2011,Woodlands,Room5
+4675,2400.0,Q4 2011,Woodlands,Executive
+4676,1750.0,Q4 2011,Yishun,Room3
+4677,2100.0,Q4 2011,Yishun,Room4
+4678,2300.0,Q4 2011,Yishun,Room5
+4680,1850.0,Q3 2011,Ang Mo Kio,Room3
+4681,2300.0,Q3 2011,Ang Mo Kio,Room4
+4682,2530.0,Q3 2011,Ang Mo Kio,Room5
+4684,1800.0,Q3 2011,Bedok,Room3
+4685,2150.0,Q3 2011,Bedok,Room4
+4686,2350.0,Q3 2011,Bedok,Room5
+4687,2450.0,Q3 2011,Bedok,Executive
+4688,1900.0,Q3 2011,Bishan,Room3
+4689,2500.0,Q3 2011,Bishan,Room4
+4690,2600.0,Q3 2011,Bishan,Room5
+4692,1800.0,Q3 2011,Bukit Batok,Room3
+4693,2120.0,Q3 2011,Bukit Batok,Room4
+4694,2350.0,Q3 2011,Bukit Batok,Room5
+4696,2000.0,Q3 2011,Bukit Merah,Room3
+4697,2600.0,Q3 2011,Bukit Merah,Room4
+4698,2860.0,Q3 2011,Bukit Merah,Room5
+4700,1700.0,Q3 2011,Bukit Panjang,Room3
+4701,2000.0,Q3 2011,Bukit Panjang,Room4
+4702,2130.0,Q3 2011,Bukit Panjang,Room5
+4708,2200.0,Q3 2011,Central,Room3
+4709,2500.0,Q3 2011,Central,Room4
+4713,2100.0,Q3 2011,Choa Chu Kang,Room4
+4714,2200.0,Q3 2011,Choa Chu Kang,Room5
+4715,2400.0,Q3 2011,Choa Chu Kang,Executive
+4716,1900.0,Q3 2011,Clementi,Room3
+4717,2300.0,Q3 2011,Clementi,Room4
+4718,2500.0,Q3 2011,Clementi,Room5
+4720,1880.0,Q3 2011,Geylang,Room3
+4721,2400.0,Q3 2011,Geylang,Room4
+4724,1800.0,Q3 2011,Hougang,Room3
+4725,2100.0,Q3 2011,Hougang,Room4
+4726,2400.0,Q3 2011,Hougang,Room5
+4727,2500.0,Q3 2011,Hougang,Executive
+4728,1700.0,Q3 2011,Jurong East,Room3
+4729,2200.0,Q3 2011,Jurong East,Room4
+4730,2230.0,Q3 2011,Jurong East,Room5
+4732,1600.0,Q3 2011,Jurong West,Room3
+4733,2180.0,Q3 2011,Jurong West,Room4
+4734,2400.0,Q3 2011,Jurong West,Room5
+4735,2500.0,Q3 2011,Jurong West,Executive
+4736,1800.0,Q3 2011,Kallang/ Whampoa,Room3
+4737,2400.0,Q3 2011,Kallang/ Whampoa,Room4
+4738,2700.0,Q3 2011,Kallang/ Whampoa,Room5
+4740,1950.0,Q3 2011,Marine Parade,Room3
+4745,2150.0,Q3 2011,Pasir Ris,Room4
+4746,2300.0,Q3 2011,Pasir Ris,Room5
+4747,2500.0,Q3 2011,Pasir Ris,Executive
+4749,2000.0,Q3 2011,Punggol,Room4
+4750,2300.0,Q3 2011,Punggol,Room5
+4752,2000.0,Q3 2011,Queenstown,Room3
+4753,2700.0,Q3 2011,Queenstown,Room4
+4754,3000.0,Q3 2011,Queenstown,Room5
+4757,2030.0,Q3 2011,Sembawang,Room4
+4758,2200.0,Q3 2011,Sembawang,Room5
+4759,2200.0,Q3 2011,Sembawang,Executive
+4761,2200.0,Q3 2011,Sengkang,Room4
+4762,2300.0,Q3 2011,Sengkang,Room5
+4763,2550.0,Q3 2011,Sengkang,Executive
+4764,1800.0,Q3 2011,Serangoon,Room3
+4765,2300.0,Q3 2011,Serangoon,Room4
+4766,2400.0,Q3 2011,Serangoon,Room5
+4768,2000.0,Q3 2011,Tampines,Room3
+4769,2200.0,Q3 2011,Tampines,Room4
+4770,2450.0,Q3 2011,Tampines,Room5
+4771,2600.0,Q3 2011,Tampines,Executive
+4772,1800.0,Q3 2011,Toa Payoh,Room3
+4773,2300.0,Q3 2011,Toa Payoh,Room4
+4774,2700.0,Q3 2011,Toa Payoh,Room5
+4776,1700.0,Q3 2011,Woodlands,Room3
+4777,2000.0,Q3 2011,Woodlands,Room4
+4778,2200.0,Q3 2011,Woodlands,Room5
+4779,2300.0,Q3 2011,Woodlands,Executive
+4780,1750.0,Q3 2011,Yishun,Room3
+4781,2000.0,Q3 2011,Yishun,Room4
+4782,2300.0,Q3 2011,Yishun,Room5
+4784,1730.0,Q2 2011,Ang Mo Kio,Room3
+4785,2200.0,Q2 2011,Ang Mo Kio,Room4
+4786,2500.0,Q2 2011,Ang Mo Kio,Room5
+4788,1700.0,Q2 2011,Bedok,Room3
+4789,2000.0,Q2 2011,Bedok,Room4
+4790,2200.0,Q2 2011,Bedok,Room5
+4791,2600.0,Q2 2011,Bedok,Executive
+4792,1700.0,Q2 2011,Bishan,Room3
+4793,2200.0,Q2 2011,Bishan,Room4
+4794,2600.0,Q2 2011,Bishan,Room5
+4796,1600.0,Q2 2011,Bukit Batok,Room3
+4797,2000.0,Q2 2011,Bukit Batok,Room4
+4798,2200.0,Q2 2011,Bukit Batok,Room5
+4799,2500.0,Q2 2011,Bukit Batok,Executive
+4800,1900.0,Q2 2011,Bukit Merah,Room3
+4801,2500.0,Q2 2011,Bukit Merah,Room4
+4802,2800.0,Q2 2011,Bukit Merah,Room5
+4804,1480.0,Q2 2011,Bukit Panjang,Room3
+4805,1950.0,Q2 2011,Bukit Panjang,Room4
+4806,2000.0,Q2 2011,Bukit Panjang,Room5
+4807,2300.0,Q2 2011,Bukit Panjang,Executive
+4809,1950.0,Q2 2011,Bukit Timah,Room4
+4810,2350.0,Q2 2011,Bukit Timah,Room5
+4812,2100.0,Q2 2011,Central,Room3
+4813,2500.0,Q2 2011,Central,Room4
+4814,3000.0,Q2 2011,Central,Room5
+4816,1600.0,Q2 2011,Choa Chu Kang,Room3
+4817,1950.0,Q2 2011,Choa Chu Kang,Room4
+4818,2100.0,Q2 2011,Choa Chu Kang,Room5
+4819,2300.0,Q2 2011,Choa Chu Kang,Executive
+4820,1800.0,Q2 2011,Clementi,Room3
+4821,2300.0,Q2 2011,Clementi,Room4
+4822,2600.0,Q2 2011,Clementi,Room5
+4824,1650.0,Q2 2011,Geylang,Room3
+4825,2000.0,Q2 2011,Geylang,Room4
+4826,2200.0,Q2 2011,Geylang,Room5
+4828,1700.0,Q2 2011,Hougang,Room3
+4829,2000.0,Q2 2011,Hougang,Room4
+4830,2300.0,Q2 2011,Hougang,Room5
+4831,2440.0,Q2 2011,Hougang,Executive
+4832,1600.0,Q2 2011,Jurong East,Room3
+4833,2000.0,Q2 2011,Jurong East,Room4
+4834,2300.0,Q2 2011,Jurong East,Room5
+4835,2500.0,Q2 2011,Jurong East,Executive
+4836,1600.0,Q2 2011,Jurong West,Room3
+4837,2000.0,Q2 2011,Jurong West,Room4
+4838,2300.0,Q2 2011,Jurong West,Room5
+4839,2480.0,Q2 2011,Jurong West,Executive
+4840,1800.0,Q2 2011,Kallang/ Whampoa,Room3
+4841,2280.0,Q2 2011,Kallang/ Whampoa,Room4
+4842,2750.0,Q2 2011,Kallang/ Whampoa,Room5
+4844,2000.0,Q2 2011,Marine Parade,Room3
+4845,2280.0,Q2 2011,Marine Parade,Room4
+4848,1500.0,Q2 2011,Pasir Ris,Room3
+4849,2000.0,Q2 2011,Pasir Ris,Room4
+4850,2400.0,Q2 2011,Pasir Ris,Room5
+4851,2400.0,Q2 2011,Pasir Ris,Executive
+4853,2100.0,Q2 2011,Punggol,Room4
+4854,2230.0,Q2 2011,Punggol,Room5
+4856,1900.0,Q2 2011,Queenstown,Room3
+4857,2400.0,Q2 2011,Queenstown,Room4
+4858,2750.0,Q2 2011,Queenstown,Room5
+4861,2000.0,Q2 2011,Sembawang,Room4
+4862,2200.0,Q2 2011,Sembawang,Room5
+4863,2200.0,Q2 2011,Sembawang,Executive
+4865,2100.0,Q2 2011,Sengkang,Room4
+4866,2250.0,Q2 2011,Sengkang,Room5
+4867,2400.0,Q2 2011,Sengkang,Executive
+4868,1800.0,Q2 2011,Serangoon,Room3
+4869,2100.0,Q2 2011,Serangoon,Room4
+4870,2300.0,Q2 2011,Serangoon,Room5
+4871,2400.0,Q2 2011,Serangoon,Executive
+4872,1800.0,Q2 2011,Tampines,Room3
+4873,2100.0,Q2 2011,Tampines,Room4
+4874,2390.0,Q2 2011,Tampines,Room5
+4875,2500.0,Q2 2011,Tampines,Executive
+4876,1800.0,Q2 2011,Toa Payoh,Room3
+4877,2300.0,Q2 2011,Toa Payoh,Room4
+4878,2500.0,Q2 2011,Toa Payoh,Room5
+4880,1600.0,Q2 2011,Woodlands,Room3
+4881,1800.0,Q2 2011,Woodlands,Room4
+4882,2000.0,Q2 2011,Woodlands,Room5
+4883,2300.0,Q2 2011,Woodlands,Executive
+4884,1700.0,Q2 2011,Yishun,Room3
+4885,2000.0,Q2 2011,Yishun,Room4
+4886,2200.0,Q2 2011,Yishun,Room5
+4887,2400.0,Q2 2011,Yishun,Executive
+4888,1700.0,Q1 2011,Ang Mo Kio,Room3
+4889,2100.0,Q1 2011,Ang Mo Kio,Room4
+4890,2530.0,Q1 2011,Ang Mo Kio,Room5
+4892,1700.0,Q1 2011,Bedok,Room3
+4893,2000.0,Q1 2011,Bedok,Room4
+4894,2300.0,Q1 2011,Bedok,Room5
+4896,1530.0,Q1 2011,Bishan,Room3
+4897,2230.0,Q1 2011,Bishan,Room4
+4898,2500.0,Q1 2011,Bishan,Room5
+4900,1600.0,Q1 2011,Bukit Batok,Room3
+4901,1900.0,Q1 2011,Bukit Batok,Room4
+4902,2200.0,Q1 2011,Bukit Batok,Room5
+4904,1800.0,Q1 2011,Bukit Merah,Room3
+4905,2500.0,Q1 2011,Bukit Merah,Room4
+4906,2600.0,Q1 2011,Bukit Merah,Room5
+4908,1500.0,Q1 2011,Bukit Panjang,Room3
+4909,1800.0,Q1 2011,Bukit Panjang,Room4
+4910,1900.0,Q1 2011,Bukit Panjang,Room5
+4916,2000.0,Q1 2011,Central,Room3
+4921,1950.0,Q1 2011,Choa Chu Kang,Room4
+4922,2050.0,Q1 2011,Choa Chu Kang,Room5
+4923,2300.0,Q1 2011,Choa Chu Kang,Executive
+4924,1800.0,Q1 2011,Clementi,Room3
+4925,2250.0,Q1 2011,Clementi,Room4
+4926,2680.0,Q1 2011,Clementi,Room5
+4928,1600.0,Q1 2011,Geylang,Room3
+4929,2100.0,Q1 2011,Geylang,Room4
+4930,2400.0,Q1 2011,Geylang,Room5
+4932,1600.0,Q1 2011,Hougang,Room3
+4933,1900.0,Q1 2011,Hougang,Room4
+4934,2280.0,Q1 2011,Hougang,Room5
+4935,2380.0,Q1 2011,Hougang,Executive
+4936,1600.0,Q1 2011,Jurong East,Room3
+4937,2000.0,Q1 2011,Jurong East,Room4
+4938,2380.0,Q1 2011,Jurong East,Room5
+4940,1600.0,Q1 2011,Jurong West,Room3
+4941,1950.0,Q1 2011,Jurong West,Room4
+4942,2200.0,Q1 2011,Jurong West,Room5
+4943,2300.0,Q1 2011,Jurong West,Executive
+4944,1780.0,Q1 2011,Kallang/ Whampoa,Room3
+4945,2300.0,Q1 2011,Kallang/ Whampoa,Room4
+4946,2600.0,Q1 2011,Kallang/ Whampoa,Room5
+4948,2000.0,Q1 2011,Marine Parade,Room3
+4949,2300.0,Q1 2011,Marine Parade,Room4
+4953,2100.0,Q1 2011,Pasir Ris,Room4
+4954,2210.0,Q1 2011,Pasir Ris,Room5
+4955,2400.0,Q1 2011,Pasir Ris,Executive
+4957,1950.0,Q1 2011,Punggol,Room4
+4958,2200.0,Q1 2011,Punggol,Room5
+4960,1800.0,Q1 2011,Queenstown,Room3
+4961,2300.0,Q1 2011,Queenstown,Room4
+4962,2800.0,Q1 2011,Queenstown,Room5
+4965,1900.0,Q1 2011,Sembawang,Room4
+4966,2000.0,Q1 2011,Sembawang,Room5
+4969,2080.0,Q1 2011,Sengkang,Room4
+4970,2180.0,Q1 2011,Sengkang,Room5
+4971,2300.0,Q1 2011,Sengkang,Executive
+4972,1650.0,Q1 2011,Serangoon,Room3
+4973,2050.0,Q1 2011,Serangoon,Room4
+4974,2200.0,Q1 2011,Serangoon,Room5
+4976,1750.0,Q1 2011,Tampines,Room3
+4977,2050.0,Q1 2011,Tampines,Room4
+4978,2300.0,Q1 2011,Tampines,Room5
+4979,2400.0,Q1 2011,Tampines,Executive
+4980,1800.0,Q1 2011,Toa Payoh,Room3
+4981,2200.0,Q1 2011,Toa Payoh,Room4
+4982,2500.0,Q1 2011,Toa Payoh,Room5
+4984,1500.0,Q1 2011,Woodlands,Room3
+4985,1800.0,Q1 2011,Woodlands,Room4
+4986,2000.0,Q1 2011,Woodlands,Room5
+4987,2150.0,Q1 2011,Woodlands,Executive
+4988,1600.0,Q1 2011,Yishun,Room3
+4989,1900.0,Q1 2011,Yishun,Room4
+4990,2200.0,Q1 2011,Yishun,Room5
+4992,1610.0,Q4 2010,Ang Mo Kio,Room3
+4993,2100.0,Q4 2010,Ang Mo Kio,Room4
+4994,2200.0,Q4 2010,Ang Mo Kio,Room5
+4996,1580.0,Q4 2010,Bedok,Room3
+4997,2000.0,Q4 2010,Bedok,Room4
+4998,2250.0,Q4 2010,Bedok,Room5
+5000,1610.0,Q4 2010,Bishan,Room3
+5001,2200.0,Q4 2010,Bishan,Room4
+5002,2400.0,Q4 2010,Bishan,Room5
+5004,1550.0,Q4 2010,Bukit Batok,Room3
+5005,1900.0,Q4 2010,Bukit Batok,Room4
+5008,1800.0,Q4 2010,Bukit Merah,Room3
+5009,2400.0,Q4 2010,Bukit Merah,Room4
+5010,2800.0,Q4 2010,Bukit Merah,Room5
+5013,1700.0,Q4 2010,Bukit Panjang,Room4
+5014,1950.0,Q4 2010,Bukit Panjang,Room5
+5020,2050.0,Q4 2010,Central,Room3
+5021,2400.0,Q4 2010,Central,Room4
+5025,1900.0,Q4 2010,Choa Chu Kang,Room4
+5026,2000.0,Q4 2010,Choa Chu Kang,Room5
+5027,2300.0,Q4 2010,Choa Chu Kang,Executive
+5028,1700.0,Q4 2010,Clementi,Room3
+5029,2200.0,Q4 2010,Clementi,Room4
+5030,2400.0,Q4 2010,Clementi,Room5
+5032,1630.0,Q4 2010,Geylang,Room3
+5033,2050.0,Q4 2010,Geylang,Room4
+5036,1600.0,Q4 2010,Hougang,Room3
+5037,1930.0,Q4 2010,Hougang,Room4
+5038,2150.0,Q4 2010,Hougang,Room5
+5039,2450.0,Q4 2010,Hougang,Executive
+5040,1600.0,Q4 2010,Jurong East,Room3
+5041,2000.0,Q4 2010,Jurong East,Room4
+5042,2100.0,Q4 2010,Jurong East,Room5
+5044,1500.0,Q4 2010,Jurong West,Room3
+5045,2000.0,Q4 2010,Jurong West,Room4
+5046,2200.0,Q4 2010,Jurong West,Room5
+5047,2300.0,Q4 2010,Jurong West,Executive
+5048,1700.0,Q4 2010,Kallang/ Whampoa,Room3
+5049,2250.0,Q4 2010,Kallang/ Whampoa,Room4
+5050,2440.0,Q4 2010,Kallang/ Whampoa,Room5
+5052,1900.0,Q4 2010,Marine Parade,Room3
+5057,2000.0,Q4 2010,Pasir Ris,Room4
+5058,2100.0,Q4 2010,Pasir Ris,Room5
+5059,2300.0,Q4 2010,Pasir Ris,Executive
+5061,1900.0,Q4 2010,Punggol,Room4
+5062,2100.0,Q4 2010,Punggol,Room5
+5064,1780.0,Q4 2010,Queenstown,Room3
+5065,2380.0,Q4 2010,Queenstown,Room4
+5066,2550.0,Q4 2010,Queenstown,Room5
+5069,1850.0,Q4 2010,Sembawang,Room4
+5070,2000.0,Q4 2010,Sembawang,Room5
+5071,2200.0,Q4 2010,Sembawang,Executive
+5073,2000.0,Q4 2010,Sengkang,Room4
+5074,2100.0,Q4 2010,Sengkang,Room5
+5075,2300.0,Q4 2010,Sengkang,Executive
+5076,1700.0,Q4 2010,Serangoon,Room3
+5077,2030.0,Q4 2010,Serangoon,Room4
+5080,1700.0,Q4 2010,Tampines,Room3
+5081,1950.0,Q4 2010,Tampines,Room4
+5082,2200.0,Q4 2010,Tampines,Room5
+5083,2350.0,Q4 2010,Tampines,Executive
+5084,1700.0,Q4 2010,Toa Payoh,Room3
+5085,2000.0,Q4 2010,Toa Payoh,Room4
+5088,1430.0,Q4 2010,Woodlands,Room3
+5089,1800.0,Q4 2010,Woodlands,Room4
+5090,2000.0,Q4 2010,Woodlands,Room5
+5091,2050.0,Q4 2010,Woodlands,Executive
+5092,1500.0,Q4 2010,Yishun,Room3
+5093,1800.0,Q4 2010,Yishun,Room4
+5094,2000.0,Q4 2010,Yishun,Room5
+5095,2250.0,Q4 2010,Yishun,Executive
+5096,1530.0,Q3 2010,Ang Mo Kio,Room3
+5097,2000.0,Q3 2010,Ang Mo Kio,Room4
+5098,2300.0,Q3 2010,Ang Mo Kio,Room5
+5100,1500.0,Q3 2010,Bedok,Room3
+5101,1880.0,Q3 2010,Bedok,Room4
+5102,2100.0,Q3 2010,Bedok,Room5
+5104,1520.0,Q3 2010,Bishan,Room3
+5105,2100.0,Q3 2010,Bishan,Room4
+5106,2300.0,Q3 2010,Bishan,Room5
+5108,1500.0,Q3 2010,Bukit Batok,Room3
+5109,1800.0,Q3 2010,Bukit Batok,Room4
+5110,2100.0,Q3 2010,Bukit Batok,Room5
+5112,1800.0,Q3 2010,Bukit Merah,Room3
+5113,2300.0,Q3 2010,Bukit Merah,Room4
+5114,2630.0,Q3 2010,Bukit Merah,Room5
+5116,1400.0,Q3 2010,Bukit Panjang,Room3
+5117,1700.0,Q3 2010,Bukit Panjang,Room4
+5118,1850.0,Q3 2010,Bukit Panjang,Room5
+5124,2000.0,Q3 2010,Central,Room3
+5125,2400.0,Q3 2010,Central,Room4
+5129,1800.0,Q3 2010,Choa Chu Kang,Room4
+5130,2000.0,Q3 2010,Choa Chu Kang,Room5
+5131,2100.0,Q3 2010,Choa Chu Kang,Executive
+5132,1700.0,Q3 2010,Clementi,Room3
+5133,2100.0,Q3 2010,Clementi,Room4
+5134,2400.0,Q3 2010,Clementi,Room5
+5136,1500.0,Q3 2010,Geylang,Room3
+5137,1900.0,Q3 2010,Geylang,Room4
+5138,2200.0,Q3 2010,Geylang,Room5
+5140,1500.0,Q3 2010,Hougang,Room3
+5141,1810.0,Q3 2010,Hougang,Room4
+5142,2000.0,Q3 2010,Hougang,Room5
+5143,2300.0,Q3 2010,Hougang,Executive
+5144,1500.0,Q3 2010,Jurong East,Room3
+5145,1900.0,Q3 2010,Jurong East,Room4
+5146,2000.0,Q3 2010,Jurong East,Room5
+5148,1400.0,Q3 2010,Jurong West,Room3
+5149,1850.0,Q3 2010,Jurong West,Room4
+5150,2150.0,Q3 2010,Jurong West,Room5
+5151,2300.0,Q3 2010,Jurong West,Executive
+5152,1600.0,Q3 2010,Kallang/ Whampoa,Room3
+5153,2100.0,Q3 2010,Kallang/ Whampoa,Room4
+5154,2500.0,Q3 2010,Kallang/ Whampoa,Room5
+5156,1800.0,Q3 2010,Marine Parade,Room3
+5157,2000.0,Q3 2010,Marine Parade,Room4
+5161,1900.0,Q3 2010,Pasir Ris,Room4
+5162,2000.0,Q3 2010,Pasir Ris,Room5
+5163,2250.0,Q3 2010,Pasir Ris,Executive
+5165,1800.0,Q3 2010,Punggol,Room4
+5166,2000.0,Q3 2010,Punggol,Room5
+5168,1700.0,Q3 2010,Queenstown,Room3
+5169,2300.0,Q3 2010,Queenstown,Room4
+5170,2400.0,Q3 2010,Queenstown,Room5
+5173,1700.0,Q3 2010,Sembawang,Room4
+5174,1790.0,Q3 2010,Sembawang,Room5
+5177,1900.0,Q3 2010,Sengkang,Room4
+5178,2000.0,Q3 2010,Sengkang,Room5
+5179,2100.0,Q3 2010,Sengkang,Executive
+5180,1580.0,Q3 2010,Serangoon,Room3
+5181,1950.0,Q3 2010,Serangoon,Room4
+5182,2100.0,Q3 2010,Serangoon,Room5
+5184,1600.0,Q3 2010,Tampines,Room3
+5185,1850.0,Q3 2010,Tampines,Room4
+5186,2200.0,Q3 2010,Tampines,Room5
+5187,2300.0,Q3 2010,Tampines,Executive
+5188,1600.0,Q3 2010,Toa Payoh,Room3
+5189,2100.0,Q3 2010,Toa Payoh,Room4
+5190,2200.0,Q3 2010,Toa Payoh,Room5
+5192,1350.0,Q3 2010,Woodlands,Room3
+5193,1700.0,Q3 2010,Woodlands,Room4
+5194,1900.0,Q3 2010,Woodlands,Room5
+5195,2100.0,Q3 2010,Woodlands,Executive
+5196,1480.0,Q3 2010,Yishun,Room3
+5197,1700.0,Q3 2010,Yishun,Room4
+5198,2000.0,Q3 2010,Yishun,Room5
+5200,1500.0,Q2 2010,Ang Mo Kio,Room3
+5201,1850.0,Q2 2010,Ang Mo Kio,Room4
+5202,2140.0,Q2 2010,Ang Mo Kio,Room5
+5204,1500.0,Q2 2010,Bedok,Room3
+5205,1800.0,Q2 2010,Bedok,Room4
+5206,2000.0,Q2 2010,Bedok,Room5
+5208,1500.0,Q2 2010,Bishan,Room3
+5209,1980.0,Q2 2010,Bishan,Room4
+5210,2300.0,Q2 2010,Bishan,Room5
+5212,1500.0,Q2 2010,Bukit Batok,Room3
+5213,1800.0,Q2 2010,Bukit Batok,Room4
+5214,2000.0,Q2 2010,Bukit Batok,Room5
+5215,2150.0,Q2 2010,Bukit Batok,Executive
+5216,1650.0,Q2 2010,Bukit Merah,Room3
+5217,2200.0,Q2 2010,Bukit Merah,Room4
+5218,2500.0,Q2 2010,Bukit Merah,Room5
+5220,1300.0,Q2 2010,Bukit Panjang,Room3
+5221,1600.0,Q2 2010,Bukit Panjang,Room4
+5222,1800.0,Q2 2010,Bukit Panjang,Room5
+5223,1900.0,Q2 2010,Bukit Panjang,Executive
+5228,1800.0,Q2 2010,Central,Room3
+5229,2400.0,Q2 2010,Central,Room4
+5233,1700.0,Q2 2010,Choa Chu Kang,Room4
+5234,1900.0,Q2 2010,Choa Chu Kang,Room5
+5235,2000.0,Q2 2010,Choa Chu Kang,Executive
+5236,1600.0,Q2 2010,Clementi,Room3
+5237,2000.0,Q2 2010,Clementi,Room4
+5240,1500.0,Q2 2010,Geylang,Room3
+5241,1900.0,Q2 2010,Geylang,Room4
+5242,2000.0,Q2 2010,Geylang,Room5
+5244,1450.0,Q2 2010,Hougang,Room3
+5245,1700.0,Q2 2010,Hougang,Room4
+5246,1900.0,Q2 2010,Hougang,Room5
+5247,2200.0,Q2 2010,Hougang,Executive
+5248,1500.0,Q2 2010,Jurong East,Room3
+5249,1830.0,Q2 2010,Jurong East,Room4
+5250,2000.0,Q2 2010,Jurong East,Room5
+5252,1400.0,Q2 2010,Jurong West,Room3
+5253,1800.0,Q2 2010,Jurong West,Room4
+5254,2000.0,Q2 2010,Jurong West,Room5
+5255,2100.0,Q2 2010,Jurong West,Executive
+5256,1550.0,Q2 2010,Kallang/ Whampoa,Room3
+5257,2000.0,Q2 2010,Kallang/ Whampoa,Room4
+5258,2200.0,Q2 2010,Kallang/ Whampoa,Room5
+5260,1710.0,Q2 2010,Marine Parade,Room3
+5261,2100.0,Q2 2010,Marine Parade,Room4
+5265,1800.0,Q2 2010,Pasir Ris,Room4
+5266,1900.0,Q2 2010,Pasir Ris,Room5
+5267,2100.0,Q2 2010,Pasir Ris,Executive
+5269,1740.0,Q2 2010,Punggol,Room4
+5270,1910.0,Q2 2010,Punggol,Room5
+5272,1650.0,Q2 2010,Queenstown,Room3
+5273,2300.0,Q2 2010,Queenstown,Room4
+5274,2400.0,Q2 2010,Queenstown,Room5
+5277,1700.0,Q2 2010,Sembawang,Room4
+5278,1800.0,Q2 2010,Sembawang,Room5
+5279,1900.0,Q2 2010,Sembawang,Executive
+5281,1750.0,Q2 2010,Sengkang,Room4
+5282,1950.0,Q2 2010,Sengkang,Room5
+5283,2200.0,Q2 2010,Sengkang,Executive
+5284,1500.0,Q2 2010,Serangoon,Room3
+5285,1800.0,Q2 2010,Serangoon,Room4
+5286,2000.0,Q2 2010,Serangoon,Room5
+5288,1580.0,Q2 2010,Tampines,Room3
+5289,1850.0,Q2 2010,Tampines,Room4
+5290,2000.0,Q2 2010,Tampines,Room5
+5291,2100.0,Q2 2010,Tampines,Executive
+5292,1550.0,Q2 2010,Toa Payoh,Room3
+5293,2000.0,Q2 2010,Toa Payoh,Room4
+5294,2300.0,Q2 2010,Toa Payoh,Room5
+5296,1300.0,Q2 2010,Woodlands,Room3
+5297,1650.0,Q2 2010,Woodlands,Room4
+5298,1700.0,Q2 2010,Woodlands,Room5
+5299,1900.0,Q2 2010,Woodlands,Executive
+5300,1400.0,Q2 2010,Yishun,Room3
+5301,1700.0,Q2 2010,Yishun,Room4
+5302,1850.0,Q2 2010,Yishun,Room5
+5303,2000.0,Q2 2010,Yishun,Executive
+5304,1450.0,Q1 2010,Ang Mo Kio,Room3
+5305,1830.0,Q1 2010,Ang Mo Kio,Room4
+5306,2000.0,Q1 2010,Ang Mo Kio,Room5
+5308,1500.0,Q1 2010,Bedok,Room3
+5309,1700.0,Q1 2010,Bedok,Room4
+5310,2000.0,Q1 2010,Bedok,Room5
+5312,1470.0,Q1 2010,Bishan,Room3
+5313,2000.0,Q1 2010,Bishan,Room4
+5314,2100.0,Q1 2010,Bishan,Room5
+5316,1400.0,Q1 2010,Bukit Batok,Room3
+5317,1780.0,Q1 2010,Bukit Batok,Room4
+5318,1900.0,Q1 2010,Bukit Batok,Room5
+5319,2050.0,Q1 2010,Bukit Batok,Executive
+5320,1600.0,Q1 2010,Bukit Merah,Room3
+5321,2200.0,Q1 2010,Bukit Merah,Room4
+5322,2400.0,Q1 2010,Bukit Merah,Room5
+5324,1280.0,Q1 2010,Bukit Panjang,Room3
+5325,1550.0,Q1 2010,Bukit Panjang,Room4
+5326,1700.0,Q1 2010,Bukit Panjang,Room5
+5327,1800.0,Q1 2010,Bukit Panjang,Executive
+5332,1900.0,Q1 2010,Central,Room3
+5333,2300.0,Q1 2010,Central,Room4
+5337,1700.0,Q1 2010,Choa Chu Kang,Room4
+5338,1800.0,Q1 2010,Choa Chu Kang,Room5
+5339,1900.0,Q1 2010,Choa Chu Kang,Executive
+5340,1550.0,Q1 2010,Clementi,Room3
+5341,1950.0,Q1 2010,Clementi,Room4
+5342,2250.0,Q1 2010,Clementi,Room5
+5344,1400.0,Q1 2010,Geylang,Room3
+5345,1800.0,Q1 2010,Geylang,Room4
+5348,1380.0,Q1 2010,Hougang,Room3
+5349,1700.0,Q1 2010,Hougang,Room4
+5350,1900.0,Q1 2010,Hougang,Room5
+5351,2100.0,Q1 2010,Hougang,Executive
+5352,1400.0,Q1 2010,Jurong East,Room3
+5353,1800.0,Q1 2010,Jurong East,Room4
+5354,2000.0,Q1 2010,Jurong East,Room5
+5356,1330.0,Q1 2010,Jurong West,Room3
+5357,1800.0,Q1 2010,Jurong West,Room4
+5358,2000.0,Q1 2010,Jurong West,Room5
+5360,1500.0,Q1 2010,Kallang/ Whampoa,Room3
+5361,1940.0,Q1 2010,Kallang/ Whampoa,Room4
+5362,2250.0,Q1 2010,Kallang/ Whampoa,Room5
+5364,1640.0,Q1 2010,Marine Parade,Room3
+5369,1700.0,Q1 2010,Pasir Ris,Room4
+5370,1900.0,Q1 2010,Pasir Ris,Room5
+5371,2000.0,Q1 2010,Pasir Ris,Executive
+5373,1700.0,Q1 2010,Punggol,Room4
+5374,1900.0,Q1 2010,Punggol,Room5
+5376,1600.0,Q1 2010,Queenstown,Room3
+5377,2130.0,Q1 2010,Queenstown,Room4
+5378,2400.0,Q1 2010,Queenstown,Room5
+5381,1700.0,Q1 2010,Sembawang,Room4
+5382,1800.0,Q1 2010,Sembawang,Room5
+5383,1800.0,Q1 2010,Sembawang,Executive
+5385,1700.0,Q1 2010,Sengkang,Room4
+5386,1800.0,Q1 2010,Sengkang,Room5
+5387,2050.0,Q1 2010,Sengkang,Executive
+5388,1480.0,Q1 2010,Serangoon,Room3
+5389,1830.0,Q1 2010,Serangoon,Room4
+5390,1980.0,Q1 2010,Serangoon,Room5
+5392,1550.0,Q1 2010,Tampines,Room3
+5393,1800.0,Q1 2010,Tampines,Room4
+5394,2000.0,Q1 2010,Tampines,Room5
+5395,2000.0,Q1 2010,Tampines,Executive
+5396,1500.0,Q1 2010,Toa Payoh,Room3
+5397,1950.0,Q1 2010,Toa Payoh,Room4
+5398,2330.0,Q1 2010,Toa Payoh,Room5
+5400,1300.0,Q1 2010,Woodlands,Room3
+5401,1600.0,Q1 2010,Woodlands,Room4
+5402,1700.0,Q1 2010,Woodlands,Room5
+5403,1880.0,Q1 2010,Woodlands,Executive
+5404,1350.0,Q1 2010,Yishun,Room3
+5405,1600.0,Q1 2010,Yishun,Room4
+5406,1800.0,Q1 2010,Yishun,Room5
+5408,1450.0,Q4 2009,Ang Mo Kio,Room3
+5409,1850.0,Q4 2009,Ang Mo Kio,Room4
+5410,2000.0,Q4 2009,Ang Mo Kio,Room5
+5412,1500.0,Q4 2009,Bedok,Room3
+5413,1700.0,Q4 2009,Bedok,Room4
+5414,1900.0,Q4 2009,Bedok,Room5
+5417,1900.0,Q4 2009,Bishan,Room4
+5418,2050.0,Q4 2009,Bishan,Room5
+5420,1450.0,Q4 2009,Bukit Batok,Room3
+5421,1700.0,Q4 2009,Bukit Batok,Room4
+5424,1600.0,Q4 2009,Bukit Merah,Room3
+5425,2160.0,Q4 2009,Bukit Merah,Room4
+5426,2430.0,Q4 2009,Bukit Merah,Room5
+5429,1500.0,Q4 2009,Bukit Panjang,Room4
+5430,1640.0,Q4 2009,Bukit Panjang,Room5
+5436,1730.0,Q4 2009,Central,Room3
+5441,1700.0,Q4 2009,Choa Chu Kang,Room4
+5442,1800.0,Q4 2009,Choa Chu Kang,Room5
+5443,1980.0,Q4 2009,Choa Chu Kang,Executive
+5444,1550.0,Q4 2009,Clementi,Room3
+5445,2000.0,Q4 2009,Clementi,Room4
+5449,1800.0,Q4 2009,Geylang,Room4
+5452,1350.0,Q4 2009,Hougang,Room3
+5453,1700.0,Q4 2009,Hougang,Room4
+5454,1900.0,Q4 2009,Hougang,Room5
+5455,2000.0,Q4 2009,Hougang,Executive
+5456,1400.0,Q4 2009,Jurong East,Room3
+5457,1800.0,Q4 2009,Jurong East,Room4
+5458,1930.0,Q4 2009,Jurong East,Room5
+5460,1350.0,Q4 2009,Jurong West,Room3
+5461,1800.0,Q4 2009,Jurong West,Room4
+5462,2000.0,Q4 2009,Jurong West,Room5
+5463,2050.0,Q4 2009,Jurong West,Executive
+5464,1530.0,Q4 2009,Kallang/ Whampoa,Room3
+5465,1980.0,Q4 2009,Kallang/ Whampoa,Room4
+5468,1580.0,Q4 2009,Marine Parade,Room3
+5473,1700.0,Q4 2009,Pasir Ris,Room4
+5474,1900.0,Q4 2009,Pasir Ris,Room5
+5475,1920.0,Q4 2009,Pasir Ris,Executive
+5477,1630.0,Q4 2009,Punggol,Room4
+5478,1800.0,Q4 2009,Punggol,Room5
+5480,1650.0,Q4 2009,Queenstown,Room3
+5481,2140.0,Q4 2009,Queenstown,Room4
+5485,1600.0,Q4 2009,Sembawang,Room4
+5486,1800.0,Q4 2009,Sembawang,Room5
+5489,1700.0,Q4 2009,Sengkang,Room4
+5490,1850.0,Q4 2009,Sengkang,Room5
+5492,1500.0,Q4 2009,Serangoon,Room3
+5493,1850.0,Q4 2009,Serangoon,Room4
+5494,2000.0,Q4 2009,Serangoon,Room5
+5496,1500.0,Q4 2009,Tampines,Room3
+5497,1800.0,Q4 2009,Tampines,Room4
+5498,1900.0,Q4 2009,Tampines,Room5
+5500,1550.0,Q4 2009,Toa Payoh,Room3
+5501,1900.0,Q4 2009,Toa Payoh,Room4
+5504,1300.0,Q4 2009,Woodlands,Room3
+5505,1600.0,Q4 2009,Woodlands,Room4
+5506,1700.0,Q4 2009,Woodlands,Room5
+5507,1830.0,Q4 2009,Woodlands,Executive
+5508,1400.0,Q4 2009,Yishun,Room3
+5509,1600.0,Q4 2009,Yishun,Room4
+5510,1730.0,Q4 2009,Yishun,Room5
+5512,1400.0,Q3 2009,Ang Mo Kio,Room3
+5513,1800.0,Q3 2009,Ang Mo Kio,Room4
+5514,2000.0,Q3 2009,Ang Mo Kio,Room5
+5516,1400.0,Q3 2009,Bedok,Room3
+5517,1700.0,Q3 2009,Bedok,Room4
+5518,1800.0,Q3 2009,Bedok,Room5
+5520,1440.0,Q3 2009,Bishan,Room3
+5521,1800.0,Q3 2009,Bishan,Room4
+5522,2000.0,Q3 2009,Bishan,Room5
+5524,1350.0,Q3 2009,Bukit Batok,Room3
+5525,1600.0,Q3 2009,Bukit Batok,Room4
+5528,1580.0,Q3 2009,Bukit Merah,Room3
+5529,2000.0,Q3 2009,Bukit Merah,Room4
+5530,2350.0,Q3 2009,Bukit Merah,Room5
+5533,1550.0,Q3 2009,Bukit Panjang,Room4
+5534,1580.0,Q3 2009,Bukit Panjang,Room5
+5540,1670.0,Q3 2009,Central,Room3
+5545,1600.0,Q3 2009,Choa Chu Kang,Room4
+5546,1800.0,Q3 2009,Choa Chu Kang,Room5
+5548,1530.0,Q3 2009,Clementi,Room3
+5549,1900.0,Q3 2009,Clementi,Room4
+5552,1400.0,Q3 2009,Geylang,Room3
+5553,1730.0,Q3 2009,Geylang,Room4
+5556,1400.0,Q3 2009,Hougang,Room3
+5557,1700.0,Q3 2009,Hougang,Room4
+5558,1800.0,Q3 2009,Hougang,Room5
+5560,1450.0,Q3 2009,Jurong East,Room3
+5561,1800.0,Q3 2009,Jurong East,Room4
+5562,1850.0,Q3 2009,Jurong East,Room5
+5564,1300.0,Q3 2009,Jurong West,Room3
+5565,1800.0,Q3 2009,Jurong West,Room4
+5566,2000.0,Q3 2009,Jurong West,Room5
+5567,2000.0,Q3 2009,Jurong West,Executive
+5568,1500.0,Q3 2009,Kallang/ Whampoa,Room3
+5569,1930.0,Q3 2009,Kallang/ Whampoa,Room4
+5570,2170.0,Q3 2009,Kallang/ Whampoa,Room5
+5572,1640.0,Q3 2009,Marine Parade,Room3
+5573,2000.0,Q3 2009,Marine Parade,Room4
+5577,1700.0,Q3 2009,Pasir Ris,Room4
+5578,1800.0,Q3 2009,Pasir Ris,Room5
+5579,1860.0,Q3 2009,Pasir Ris,Executive
+5581,1550.0,Q3 2009,Punggol,Room4
+5582,1700.0,Q3 2009,Punggol,Room5
+5584,1600.0,Q3 2009,Queenstown,Room3
+5585,2050.0,Q3 2009,Queenstown,Room4
+5586,2230.0,Q3 2009,Queenstown,Room5
+5589,1600.0,Q3 2009,Sembawang,Room4
+5590,1700.0,Q3 2009,Sembawang,Room5
+5593,1600.0,Q3 2009,Sengkang,Room4
+5594,1800.0,Q3 2009,Sengkang,Room5
+5595,1900.0,Q3 2009,Sengkang,Executive
+5596,1500.0,Q3 2009,Serangoon,Room3
+5597,1780.0,Q3 2009,Serangoon,Room4
+5598,1800.0,Q3 2009,Serangoon,Room5
+5600,1500.0,Q3 2009,Tampines,Room3
+5601,1700.0,Q3 2009,Tampines,Room4
+5602,1900.0,Q3 2009,Tampines,Room5
+5604,1500.0,Q3 2009,Toa Payoh,Room3
+5605,1900.0,Q3 2009,Toa Payoh,Room4
+5608,1200.0,Q3 2009,Woodlands,Room3
+5609,1500.0,Q3 2009,Woodlands,Room4
+5610,1600.0,Q3 2009,Woodlands,Room5
+5611,1800.0,Q3 2009,Woodlands,Executive
+5612,1300.0,Q3 2009,Yishun,Room3
+5613,1550.0,Q3 2009,Yishun,Room4
+5614,1650.0,Q3 2009,Yishun,Room5
+5616,1400.0,Q2 2009,Ang Mo Kio,Room3
+5617,1700.0,Q2 2009,Ang Mo Kio,Room4
+5618,1850.0,Q2 2009,Ang Mo Kio,Room5
+5620,1400.0,Q2 2009,Bedok,Room3
+5621,1630.0,Q2 2009,Bedok,Room4
+5622,1800.0,Q2 2009,Bedok,Room5
+5625,1780.0,Q2 2009,Bishan,Room4
+5626,1900.0,Q2 2009,Bishan,Room5
+5628,1400.0,Q2 2009,Bukit Batok,Room3
+5629,1500.0,Q2 2009,Bukit Batok,Room4
+5630,1850.0,Q2 2009,Bukit Batok,Room5
+5632,1530.0,Q2 2009,Bukit Merah,Room3
+5633,2000.0,Q2 2009,Bukit Merah,Room4
+5634,2250.0,Q2 2009,Bukit Merah,Room5
+5637,1500.0,Q2 2009,Bukit Panjang,Room4
+5638,1600.0,Q2 2009,Bukit Panjang,Room5
+5644,1600.0,Q2 2009,Central,Room3
+5649,1600.0,Q2 2009,Choa Chu Kang,Room4
+5650,1700.0,Q2 2009,Choa Chu Kang,Room5
+5651,1900.0,Q2 2009,Choa Chu Kang,Executive
+5652,1450.0,Q2 2009,Clementi,Room3
+5653,1800.0,Q2 2009,Clementi,Room4
+5656,1400.0,Q2 2009,Geylang,Room3
+5657,1650.0,Q2 2009,Geylang,Room4
+5660,1400.0,Q2 2009,Hougang,Room3
+5661,1600.0,Q2 2009,Hougang,Room4
+5662,1800.0,Q2 2009,Hougang,Room5
+5663,1850.0,Q2 2009,Hougang,Executive
+5664,1400.0,Q2 2009,Jurong East,Room3
+5665,1750.0,Q2 2009,Jurong East,Room4
+5666,1800.0,Q2 2009,Jurong East,Room5
+5668,1400.0,Q2 2009,Jurong West,Room3
+5669,1700.0,Q2 2009,Jurong West,Room4
+5670,1900.0,Q2 2009,Jurong West,Room5
+5671,2000.0,Q2 2009,Jurong West,Executive
+5672,1500.0,Q2 2009,Kallang/ Whampoa,Room3
+5673,1900.0,Q2 2009,Kallang/ Whampoa,Room4
+5676,1600.0,Q2 2009,Marine Parade,Room3
+5681,1600.0,Q2 2009,Pasir Ris,Room4
+5682,1700.0,Q2 2009,Pasir Ris,Room5
+5683,1800.0,Q2 2009,Pasir Ris,Executive
+5685,1550.0,Q2 2009,Punggol,Room4
+5686,1650.0,Q2 2009,Punggol,Room5
+5688,1500.0,Q2 2009,Queenstown,Room3
+5689,2150.0,Q2 2009,Queenstown,Room4
+5690,2150.0,Q2 2009,Queenstown,Room5
+5693,1600.0,Q2 2009,Sembawang,Room4
+5694,1550.0,Q2 2009,Sembawang,Room5
+5695,1700.0,Q2 2009,Sembawang,Executive
+5697,1600.0,Q2 2009,Sengkang,Room4
+5698,1700.0,Q2 2009,Sengkang,Room5
+5700,1400.0,Q2 2009,Serangoon,Room3
+5701,1600.0,Q2 2009,Serangoon,Room4
+5704,1450.0,Q2 2009,Tampines,Room3
+5705,1700.0,Q2 2009,Tampines,Room4
+5706,1800.0,Q2 2009,Tampines,Room5
+5707,1900.0,Q2 2009,Tampines,Executive
+5708,1500.0,Q2 2009,Toa Payoh,Room3
+5709,1900.0,Q2 2009,Toa Payoh,Room4
+5712,1200.0,Q2 2009,Woodlands,Room3
+5713,1500.0,Q2 2009,Woodlands,Room4
+5714,1600.0,Q2 2009,Woodlands,Room5
+5715,1800.0,Q2 2009,Woodlands,Executive
+5716,1300.0,Q2 2009,Yishun,Room3
+5717,1500.0,Q2 2009,Yishun,Room4
+5718,1600.0,Q2 2009,Yishun,Room5
+5720,1500.0,Q1 2009,Ang Mo Kio,Room3
+5721,1750.0,Q1 2009,Ang Mo Kio,Room4
+5724,1460.0,Q1 2009,Bedok,Room3
+5725,1700.0,Q1 2009,Bedok,Room4
+5726,2000.0,Q1 2009,Bedok,Room5
+5729,1800.0,Q1 2009,Bishan,Room4
+5730,2080.0,Q1 2009,Bishan,Room5
+5732,1400.0,Q1 2009,Bukit Batok,Room3
+5733,1750.0,Q1 2009,Bukit Batok,Room4
+5736,1600.0,Q1 2009,Bukit Merah,Room3
+5737,2100.0,Q1 2009,Bukit Merah,Room4
+5738,2500.0,Q1 2009,Bukit Merah,Room5
+5741,1550.0,Q1 2009,Bukit Panjang,Room4
+5742,1680.0,Q1 2009,Bukit Panjang,Room5
+5748,1800.0,Q1 2009,Central,Room3
+5753,1650.0,Q1 2009,Choa Chu Kang,Room4
+5754,1800.0,Q1 2009,Choa Chu Kang,Room5
+5756,1500.0,Q1 2009,Clementi,Room3
+5757,1950.0,Q1 2009,Clementi,Room4
+5760,1400.0,Q1 2009,Geylang,Room3
+5761,1700.0,Q1 2009,Geylang,Room4
+5764,1400.0,Q1 2009,Hougang,Room3
+5765,1650.0,Q1 2009,Hougang,Room4
+5766,1800.0,Q1 2009,Hougang,Room5
+5768,1500.0,Q1 2009,Jurong East,Room3
+5770,1900.0,Q1 2009,Jurong East,Room5
+5772,1400.0,Q1 2009,Jurong West,Room3
+5773,1700.0,Q1 2009,Jurong West,Room4
+5774,1900.0,Q1 2009,Jurong West,Room5
+5775,2000.0,Q1 2009,Jurong West,Executive
+5776,1500.0,Q1 2009,Kallang/ Whampoa,Room3
+5777,2000.0,Q1 2009,Kallang/ Whampoa,Room4
+5780,1500.0,Q1 2009,Marine Parade,Room3
+5785,1600.0,Q1 2009,Pasir Ris,Room4
+5786,1800.0,Q1 2009,Pasir Ris,Room5
+5787,1940.0,Q1 2009,Pasir Ris,Executive
+5789,1600.0,Q1 2009,Punggol,Room4
+5790,1700.0,Q1 2009,Punggol,Room5
+5792,1600.0,Q1 2009,Queenstown,Room3
+5793,2000.0,Q1 2009,Queenstown,Room4
+5797,1700.0,Q1 2009,Sembawang,Room4
+5798,1650.0,Q1 2009,Sembawang,Room5
+5801,1700.0,Q1 2009,Sengkang,Room4
+5802,1750.0,Q1 2009,Sengkang,Room5
+5803,1800.0,Q1 2009,Sengkang,Executive
+5804,1500.0,Q1 2009,Serangoon,Room3
+5805,1800.0,Q1 2009,Serangoon,Room4
+5808,1500.0,Q1 2009,Tampines,Room3
+5809,1700.0,Q1 2009,Tampines,Room4
+5810,1880.0,Q1 2009,Tampines,Room5
+5811,2150.0,Q1 2009,Tampines,Executive
+5812,1500.0,Q1 2009,Toa Payoh,Room3
+5813,1900.0,Q1 2009,Toa Payoh,Room4
+5816,1230.0,Q1 2009,Woodlands,Room3
+5817,1550.0,Q1 2009,Woodlands,Room4
+5818,1700.0,Q1 2009,Woodlands,Room5
+5819,2040.0,Q1 2009,Woodlands,Executive
+5820,1300.0,Q1 2009,Yishun,Room3
+5821,1600.0,Q1 2009,Yishun,Room4
+5822,1800.0,Q1 2009,Yishun,Room5
+5824,1500.0,Q4 2008,Ang Mo Kio,Room3
+5825,1900.0,Q4 2008,Ang Mo Kio,Room4
+5826,2100.0,Q4 2008,Ang Mo Kio,Room5
+5828,1500.0,Q4 2008,Bedok,Room3
+5829,1800.0,Q4 2008,Bedok,Room4
+5830,2000.0,Q4 2008,Bedok,Room5
+5833,2000.0,Q4 2008,Bishan,Room4
+5834,2300.0,Q4 2008,Bishan,Room5
+5836,1500.0,Q4 2008,Bukit Batok,Room3
+5837,1800.0,Q4 2008,Bukit Batok,Room4
+5840,1600.0,Q4 2008,Bukit Merah,Room3
+5841,2300.0,Q4 2008,Bukit Merah,Room4
+5842,2400.0,Q4 2008,Bukit Merah,Room5
+5845,1600.0,Q4 2008,Bukit Panjang,Room4
+5846,1800.0,Q4 2008,Bukit Panjang,Room5
+5852,1900.0,Q4 2008,Central,Room3
+5857,1750.0,Q4 2008,Choa Chu Kang,Room4
+5858,1900.0,Q4 2008,Choa Chu Kang,Room5
+5859,2100.0,Q4 2008,Choa Chu Kang,Executive
+5860,1550.0,Q4 2008,Clementi,Room3
+5861,2000.0,Q4 2008,Clementi,Room4
+5864,1400.0,Q4 2008,Geylang,Room3
+5865,1750.0,Q4 2008,Geylang,Room4
+5868,1400.0,Q4 2008,Hougang,Room3
+5869,1800.0,Q4 2008,Hougang,Room4
+5870,1880.0,Q4 2008,Hougang,Room5
+5872,1550.0,Q4 2008,Jurong East,Room3
+5873,1800.0,Q4 2008,Jurong East,Room4
+5874,1900.0,Q4 2008,Jurong East,Room5
+5876,1480.0,Q4 2008,Jurong West,Room3
+5877,2000.0,Q4 2008,Jurong West,Room4
+5878,2000.0,Q4 2008,Jurong West,Room5
+5879,2100.0,Q4 2008,Jurong West,Executive
+5880,1500.0,Q4 2008,Kallang/ Whampoa,Room3
+5881,2200.0,Q4 2008,Kallang/ Whampoa,Room4
+5884,1500.0,Q4 2008,Marine Parade,Room3
+5889,1700.0,Q4 2008,Pasir Ris,Room4
+5890,2000.0,Q4 2008,Pasir Ris,Room5
+5891,2200.0,Q4 2008,Pasir Ris,Executive
+5894,1920.0,Q4 2008,Punggol,Room5
+5896,1700.0,Q4 2008,Queenstown,Room3
+5897,2000.0,Q4 2008,Queenstown,Room4
+5901,1630.0,Q4 2008,Sembawang,Room4
+5902,1900.0,Q4 2008,Sembawang,Room5
+5903,2000.0,Q4 2008,Sembawang,Executive
+5905,1800.0,Q4 2008,Sengkang,Room4
+5906,1950.0,Q4 2008,Sengkang,Room5
+5908,1500.0,Q4 2008,Serangoon,Room3
+5909,1800.0,Q4 2008,Serangoon,Room4
+5912,1500.0,Q4 2008,Tampines,Room3
+5913,1800.0,Q4 2008,Tampines,Room4
+5914,2000.0,Q4 2008,Tampines,Room5
+5915,2300.0,Q4 2008,Tampines,Executive
+5916,1600.0,Q4 2008,Toa Payoh,Room3
+5917,2000.0,Q4 2008,Toa Payoh,Room4
+5918,2200.0,Q4 2008,Toa Payoh,Room5
+5920,1200.0,Q4 2008,Woodlands,Room3
+5921,1600.0,Q4 2008,Woodlands,Room4
+5922,1800.0,Q4 2008,Woodlands,Room5
+5923,1980.0,Q4 2008,Woodlands,Executive
+5924,1400.0,Q4 2008,Yishun,Room3
+5925,1630.0,Q4 2008,Yishun,Room4
+5926,1700.0,Q4 2008,Yishun,Room5
+5928,1500.0,Q3 2008,Ang Mo Kio,Room3
+5929,1800.0,Q3 2008,Ang Mo Kio,Room4
+5930,2170.0,Q3 2008,Ang Mo Kio,Room5
+5932,1400.0,Q3 2008,Bedok,Room3
+5933,1800.0,Q3 2008,Bedok,Room4
+5934,2050.0,Q3 2008,Bedok,Room5
+5936,1500.0,Q3 2008,Bishan,Room3
+5937,1850.0,Q3 2008,Bishan,Room4
+5938,2200.0,Q3 2008,Bishan,Room5
+5940,1400.0,Q3 2008,Bukit Batok,Room3
+5941,1780.0,Q3 2008,Bukit Batok,Room4
+5942,2000.0,Q3 2008,Bukit Batok,Room5
+5944,1700.0,Q3 2008,Bukit Merah,Room3
+5945,2200.0,Q3 2008,Bukit Merah,Room4
+5946,2600.0,Q3 2008,Bukit Merah,Room5
+5949,1700.0,Q3 2008,Bukit Panjang,Room4
+5950,1900.0,Q3 2008,Bukit Panjang,Room5
+5956,1800.0,Q3 2008,Central,Room3
+5961,1700.0,Q3 2008,Choa Chu Kang,Room4
+5962,2000.0,Q3 2008,Choa Chu Kang,Room5
+5963,2050.0,Q3 2008,Choa Chu Kang,Executive
+5964,1630.0,Q3 2008,Clementi,Room3
+5965,1900.0,Q3 2008,Clementi,Room4
+5968,1500.0,Q3 2008,Geylang,Room3
+5969,1900.0,Q3 2008,Geylang,Room4
+5972,1400.0,Q3 2008,Hougang,Room3
+5973,1800.0,Q3 2008,Hougang,Room4
+5974,2000.0,Q3 2008,Hougang,Room5
+5976,1550.0,Q3 2008,Jurong East,Room3
+5977,1900.0,Q3 2008,Jurong East,Room4
+5978,1990.0,Q3 2008,Jurong East,Room5
+5980,1300.0,Q3 2008,Jurong West,Room3
+5981,1800.0,Q3 2008,Jurong West,Room4
+5982,2100.0,Q3 2008,Jurong West,Room5
+5983,2130.0,Q3 2008,Jurong West,Executive
+5984,1500.0,Q3 2008,Kallang/ Whampoa,Room3
+5985,2000.0,Q3 2008,Kallang/ Whampoa,Room4
+5988,1700.0,Q3 2008,Marine Parade,Room3
+5993,1750.0,Q3 2008,Pasir Ris,Room4
+5994,2000.0,Q3 2008,Pasir Ris,Room5
+5995,2200.0,Q3 2008,Pasir Ris,Executive
+5997,1700.0,Q3 2008,Punggol,Room4
+5998,1900.0,Q3 2008,Punggol,Room5
+6000,1730.0,Q3 2008,Queenstown,Room3
+6001,2000.0,Q3 2008,Queenstown,Room4
+6002,2350.0,Q3 2008,Queenstown,Room5
+6005,1750.0,Q3 2008,Sembawang,Room4
+6006,1900.0,Q3 2008,Sembawang,Room5
+6009,1600.0,Q3 2008,Sengkang,Room4
+6010,1900.0,Q3 2008,Sengkang,Room5
+6012,1500.0,Q3 2008,Serangoon,Room3
+6013,1900.0,Q3 2008,Serangoon,Room4
+6016,1500.0,Q3 2008,Tampines,Room3
+6017,1850.0,Q3 2008,Tampines,Room4
+6018,2000.0,Q3 2008,Tampines,Room5
+6019,2100.0,Q3 2008,Tampines,Executive
+6020,1600.0,Q3 2008,Toa Payoh,Room3
+6021,2050.0,Q3 2008,Toa Payoh,Room4
+6024,1300.0,Q3 2008,Woodlands,Room3
+6025,1700.0,Q3 2008,Woodlands,Room4
+6026,1800.0,Q3 2008,Woodlands,Room5
+6027,2000.0,Q3 2008,Woodlands,Executive
+6028,1400.0,Q3 2008,Yishun,Room3
+6029,1630.0,Q3 2008,Yishun,Room4
+6030,1800.0,Q3 2008,Yishun,Room5
+6032,1500.0,Q2 2008,Ang Mo Kio,Room3
+6033,1730.0,Q2 2008,Ang Mo Kio,Room4
+6034,2000.0,Q2 2008,Ang Mo Kio,Room5
+6036,1400.0,Q2 2008,Bedok,Room3
+6037,1700.0,Q2 2008,Bedok,Room4
+6038,2000.0,Q2 2008,Bedok,Room5
+6040,1430.0,Q2 2008,Bishan,Room3
+6041,2000.0,Q2 2008,Bishan,Room4
+6042,2200.0,Q2 2008,Bishan,Room5
+6044,1400.0,Q2 2008,Bukit Batok,Room3
+6045,1700.0,Q2 2008,Bukit Batok,Room4
+6046,2150.0,Q2 2008,Bukit Batok,Room5
+6048,1600.0,Q2 2008,Bukit Merah,Room3
+6049,2300.0,Q2 2008,Bukit Merah,Room4
+6050,2370.0,Q2 2008,Bukit Merah,Room5
+6053,1600.0,Q2 2008,Bukit Panjang,Room4
+6054,1730.0,Q2 2008,Bukit Panjang,Room5
+6060,1800.0,Q2 2008,Central,Room3
+6065,1700.0,Q2 2008,Choa Chu Kang,Room4
+6066,1800.0,Q2 2008,Choa Chu Kang,Room5
+6067,2000.0,Q2 2008,Choa Chu Kang,Executive
+6068,1500.0,Q2 2008,Clementi,Room3
+6069,1900.0,Q2 2008,Clementi,Room4
+6072,1400.0,Q2 2008,Geylang,Room3
+6073,1800.0,Q2 2008,Geylang,Room4
+6076,1400.0,Q2 2008,Hougang,Room3
+6077,1800.0,Q2 2008,Hougang,Room4
+6078,2000.0,Q2 2008,Hougang,Room5
+6079,2000.0,Q2 2008,Hougang,Executive
+6080,1400.0,Q2 2008,Jurong East,Room3
+6081,1700.0,Q2 2008,Jurong East,Room4
+6082,1800.0,Q2 2008,Jurong East,Room5
+6084,1200.0,Q2 2008,Jurong West,Room3
+6085,1700.0,Q2 2008,Jurong West,Room4
+6086,2000.0,Q2 2008,Jurong West,Room5
+6087,2000.0,Q2 2008,Jurong West,Executive
+6088,1400.0,Q2 2008,Kallang/ Whampoa,Room3
+6089,1900.0,Q2 2008,Kallang/ Whampoa,Room4
+6092,1750.0,Q2 2008,Marine Parade,Room3
+6097,1600.0,Q2 2008,Pasir Ris,Room4
+6098,1850.0,Q2 2008,Pasir Ris,Room5
+6099,2200.0,Q2 2008,Pasir Ris,Executive
+6102,1800.0,Q2 2008,Punggol,Room5
+6104,1530.0,Q2 2008,Queenstown,Room3
+6105,1950.0,Q2 2008,Queenstown,Room4
+6109,1600.0,Q2 2008,Sembawang,Room4
+6110,1800.0,Q2 2008,Sembawang,Room5
+6113,1700.0,Q2 2008,Sengkang,Room4
+6114,1850.0,Q2 2008,Sengkang,Room5
+6115,2000.0,Q2 2008,Sengkang,Executive
+6116,1450.0,Q2 2008,Serangoon,Room3
+6117,1730.0,Q2 2008,Serangoon,Room4
+6120,1500.0,Q2 2008,Tampines,Room3
+6121,1800.0,Q2 2008,Tampines,Room4
+6122,2000.0,Q2 2008,Tampines,Room5
+6123,2300.0,Q2 2008,Tampines,Executive
+6124,1500.0,Q2 2008,Toa Payoh,Room3
+6125,2100.0,Q2 2008,Toa Payoh,Room4
+6126,2200.0,Q2 2008,Toa Payoh,Room5
+6128,1250.0,Q2 2008,Woodlands,Room3
+6129,1600.0,Q2 2008,Woodlands,Room4
+6130,1800.0,Q2 2008,Woodlands,Room5
+6131,1900.0,Q2 2008,Woodlands,Executive
+6132,1300.0,Q2 2008,Yishun,Room3
+6133,1600.0,Q2 2008,Yishun,Room4
+6134,1800.0,Q2 2008,Yishun,Room5
+6136,1300.0,Q1 2008,Ang Mo Kio,Room3
+6137,1700.0,Q1 2008,Ang Mo Kio,Room4
+6140,1400.0,Q1 2008,Bedok,Room3
+6141,1600.0,Q1 2008,Bedok,Room4
+6142,2000.0,Q1 2008,Bedok,Room5
+6143,1650.0,Q1 2008,Bedok,Executive
+6144,1480.0,Q1 2008,Bishan,Room3
+6145,1900.0,Q1 2008,Bishan,Room4
+6146,2200.0,Q1 2008,Bishan,Room5
+6148,1200.0,Q1 2008,Bukit Batok,Room3
+6149,1500.0,Q1 2008,Bukit Batok,Room4
+6152,1500.0,Q1 2008,Bukit Merah,Room3
+6153,2000.0,Q1 2008,Bukit Merah,Room4
+6154,2500.0,Q1 2008,Bukit Merah,Room5
+6157,1430.0,Q1 2008,Bukit Panjang,Room4
+6158,1730.0,Q1 2008,Bukit Panjang,Room5
+6164,1600.0,Q1 2008,Central,Room3
+6169,1550.0,Q1 2008,Choa Chu Kang,Room4
+6170,1800.0,Q1 2008,Choa Chu Kang,Room5
+6172,1400.0,Q1 2008,Clementi,Room3
+6173,1700.0,Q1 2008,Clementi,Room4
+6176,1150.0,Q1 2008,Geylang,Room3
+6177,1600.0,Q1 2008,Geylang,Room4
+6180,1000.0,Q1 2008,Hougang,Room3
+6181,1700.0,Q1 2008,Hougang,Room4
+6182,1730.0,Q1 2008,Hougang,Room5
+6184,1400.0,Q1 2008,Jurong East,Room3
+6186,1900.0,Q1 2008,Jurong East,Room5
+6188,1250.0,Q1 2008,Jurong West,Room3
+6189,1500.0,Q1 2008,Jurong West,Room4
+6190,1800.0,Q1 2008,Jurong West,Room5
+6191,2000.0,Q1 2008,Jurong West,Executive
+6192,1400.0,Q1 2008,Kallang/ Whampoa,Room3
+6193,1950.0,Q1 2008,Kallang/ Whampoa,Room4
+6194,2200.0,Q1 2008,Kallang/ Whampoa,Room5
+6196,1600.0,Q1 2008,Marine Parade,Room3
+6201,1600.0,Q1 2008,Pasir Ris,Room4
+6202,1800.0,Q1 2008,Pasir Ris,Room5
+6203,2030.0,Q1 2008,Pasir Ris,Executive
+6205,1500.0,Q1 2008,Punggol,Room4
+6206,1800.0,Q1 2008,Punggol,Room5
+6208,1500.0,Q1 2008,Queenstown,Room3
+6209,1800.0,Q1 2008,Queenstown,Room4
+6213,1550.0,Q1 2008,Sembawang,Room4
+6214,1800.0,Q1 2008,Sembawang,Room5
+6215,1750.0,Q1 2008,Sembawang,Executive
+6217,1700.0,Q1 2008,Sengkang,Room4
+6218,1780.0,Q1 2008,Sengkang,Room5
+6219,1800.0,Q1 2008,Sengkang,Executive
+6220,1280.0,Q1 2008,Serangoon,Room3
+6221,1600.0,Q1 2008,Serangoon,Room4
+6224,1480.0,Q1 2008,Tampines,Room3
+6225,1600.0,Q1 2008,Tampines,Room4
+6226,1950.0,Q1 2008,Tampines,Room5
+6227,2200.0,Q1 2008,Tampines,Executive
+6228,1400.0,Q1 2008,Toa Payoh,Room3
+6229,1780.0,Q1 2008,Toa Payoh,Room4
+6232,1200.0,Q1 2008,Woodlands,Room3
+6233,1500.0,Q1 2008,Woodlands,Room4
+6234,1700.0,Q1 2008,Woodlands,Room5
+6235,2000.0,Q1 2008,Woodlands,Executive
+6236,1350.0,Q1 2008,Yishun,Room3
+6237,1600.0,Q1 2008,Yishun,Room4
+6238,1800.0,Q1 2008,Yishun,Room5
+6240,1250.0,Q4 2007,Ang Mo Kio,Room3
+6241,1500.0,Q4 2007,Ang Mo Kio,Room4
+6242,1600.0,Q4 2007,Ang Mo Kio,Room5
+6244,1200.0,Q4 2007,Bedok,Room3
+6245,1400.0,Q4 2007,Bedok,Room4
+6246,1700.0,Q4 2007,Bedok,Room5
+6249,1600.0,Q4 2007,Bishan,Room4
+6250,1800.0,Q4 2007,Bishan,Room5
+6252,1200.0,Q4 2007,Bukit Batok,Room3
+6253,1350.0,Q4 2007,Bukit Batok,Room4
+6254,1800.0,Q4 2007,Bukit Batok,Room5
+6256,1350.0,Q4 2007,Bukit Merah,Room3
+6257,1800.0,Q4 2007,Bukit Merah,Room4
+6258,1980.0,Q4 2007,Bukit Merah,Room5
+6261,1500.0,Q4 2007,Bukit Panjang,Room4
+6262,1600.0,Q4 2007,Bukit Panjang,Room5
+6263,1900.0,Q4 2007,Bukit Panjang,Executive
+6264,1150.0,Q4 2007,Bukit Timah,Room3
+6268,1300.0,Q4 2007,Central,Room3
+6272,900.0,Q4 2007,Choa Chu Kang,Room3
+6273,1500.0,Q4 2007,Choa Chu Kang,Room4
+6274,1700.0,Q4 2007,Choa Chu Kang,Room5
+6275,1800.0,Q4 2007,Choa Chu Kang,Executive
+6276,1300.0,Q4 2007,Clementi,Room3
+6277,1500.0,Q4 2007,Clementi,Room4
+6280,1200.0,Q4 2007,Geylang,Room3
+6281,1500.0,Q4 2007,Geylang,Room4
+6284,1200.0,Q4 2007,Hougang,Room3
+6285,1600.0,Q4 2007,Hougang,Room4
+6286,1500.0,Q4 2007,Hougang,Room5
+6288,1200.0,Q4 2007,Jurong East,Room3
+6289,1400.0,Q4 2007,Jurong East,Room4
+6290,1650.0,Q4 2007,Jurong East,Room5
+6292,1200.0,Q4 2007,Jurong West,Room3
+6293,1450.0,Q4 2007,Jurong West,Room4
+6294,1600.0,Q4 2007,Jurong West,Room5
+6295,1800.0,Q4 2007,Jurong West,Executive
+6296,1300.0,Q4 2007,Kallang/ Whampoa,Room3
+6297,1600.0,Q4 2007,Kallang/ Whampoa,Room4
+6300,1380.0,Q4 2007,Marine Parade,Room3
+6305,1600.0,Q4 2007,Pasir Ris,Room4
+6306,1800.0,Q4 2007,Pasir Ris,Room5
+6307,1750.0,Q4 2007,Pasir Ris,Executive
+6310,1800.0,Q4 2007,Punggol,Room5
+6312,1300.0,Q4 2007,Queenstown,Room3
+6313,1630.0,Q4 2007,Queenstown,Room4
+6317,1300.0,Q4 2007,Sembawang,Room4
+6318,1700.0,Q4 2007,Sembawang,Room5
+6321,1600.0,Q4 2007,Sengkang,Room4
+6322,1780.0,Q4 2007,Sengkang,Room5
+6324,1350.0,Q4 2007,Serangoon,Room3
+6325,1630.0,Q4 2007,Serangoon,Room4
+6328,1350.0,Q4 2007,Tampines,Room3
+6329,1580.0,Q4 2007,Tampines,Room4
+6330,1900.0,Q4 2007,Tampines,Room5
+6332,1250.0,Q4 2007,Toa Payoh,Room3
+6333,1700.0,Q4 2007,Toa Payoh,Room4
+6336,1100.0,Q4 2007,Woodlands,Room3
+6337,1440.0,Q4 2007,Woodlands,Room4
+6338,1600.0,Q4 2007,Woodlands,Room5
+6339,1600.0,Q4 2007,Woodlands,Executive
+6340,1100.0,Q4 2007,Yishun,Room3
+6341,1400.0,Q4 2007,Yishun,Room4
+6342,1500.0,Q4 2007,Yishun,Room5
+6344,1200.0,Q3 2007,Ang Mo Kio,Room3
+6345,1400.0,Q3 2007,Ang Mo Kio,Room4
+6346,1700.0,Q3 2007,Ang Mo Kio,Room5
+6348,1200.0,Q3 2007,Bedok,Room3
+6349,1400.0,Q3 2007,Bedok,Room4
+6350,1650.0,Q3 2007,Bedok,Room5
+6353,1500.0,Q3 2007,Bishan,Room4
+6354,1700.0,Q3 2007,Bishan,Room5
+6356,1150.0,Q3 2007,Bukit Batok,Room3
+6357,1300.0,Q3 2007,Bukit Batok,Room4
+6358,1500.0,Q3 2007,Bukit Batok,Room5
+6360,1200.0,Q3 2007,Bukit Merah,Room3
+6361,1500.0,Q3 2007,Bukit Merah,Room4
+6362,2000.0,Q3 2007,Bukit Merah,Room5
+6365,1400.0,Q3 2007,Bukit Panjang,Room4
+6366,1400.0,Q3 2007,Bukit Panjang,Room5
+6372,1200.0,Q3 2007,Central,Room3
+6377,1330.0,Q3 2007,Choa Chu Kang,Room4
+6378,1480.0,Q3 2007,Choa Chu Kang,Room5
+6379,1750.0,Q3 2007,Choa Chu Kang,Executive
+6380,1150.0,Q3 2007,Clementi,Room3
+6381,1400.0,Q3 2007,Clementi,Room4
+6384,1200.0,Q3 2007,Geylang,Room3
+6385,1430.0,Q3 2007,Geylang,Room4
+6388,1120.0,Q3 2007,Hougang,Room3
+6389,1300.0,Q3 2007,Hougang,Room4
+6390,1600.0,Q3 2007,Hougang,Room5
+6392,1200.0,Q3 2007,Jurong East,Room3
+6393,1250.0,Q3 2007,Jurong East,Room4
+6394,1530.0,Q3 2007,Jurong East,Room5
+6396,1000.0,Q3 2007,Jurong West,Room3
+6397,1250.0,Q3 2007,Jurong West,Room4
+6398,1500.0,Q3 2007,Jurong West,Room5
+6399,1650.0,Q3 2007,Jurong West,Executive
+6400,1180.0,Q3 2007,Kallang/ Whampoa,Room3
+6401,1400.0,Q3 2007,Kallang/ Whampoa,Room4
+6402,1700.0,Q3 2007,Kallang/ Whampoa,Room5
+6404,1250.0,Q3 2007,Marine Parade,Room3
+6405,1700.0,Q3 2007,Marine Parade,Room4
+6409,1300.0,Q3 2007,Pasir Ris,Room4
+6410,1500.0,Q3 2007,Pasir Ris,Room5
+6411,1800.0,Q3 2007,Pasir Ris,Executive
+6414,1500.0,Q3 2007,Punggol,Room5
+6416,1200.0,Q3 2007,Queenstown,Room3
+6417,1600.0,Q3 2007,Queenstown,Room4
+6418,1800.0,Q3 2007,Queenstown,Room5
+6422,1500.0,Q3 2007,Sembawang,Room5
+6425,1380.0,Q3 2007,Sengkang,Room4
+6426,1600.0,Q3 2007,Sengkang,Room5
+6427,1730.0,Q3 2007,Sengkang,Executive
+6428,1050.0,Q3 2007,Serangoon,Room3
+6429,1500.0,Q3 2007,Serangoon,Room4
+6432,1200.0,Q3 2007,Tampines,Room3
+6433,1500.0,Q3 2007,Tampines,Room4
+6434,1600.0,Q3 2007,Tampines,Room5
+6435,1850.0,Q3 2007,Tampines,Executive
+6436,1100.0,Q3 2007,Toa Payoh,Room3
+6437,1500.0,Q3 2007,Toa Payoh,Room4
+6440,1000.0,Q3 2007,Woodlands,Room3
+6441,1250.0,Q3 2007,Woodlands,Room4
+6442,1400.0,Q3 2007,Woodlands,Room5
+6443,1600.0,Q3 2007,Woodlands,Executive
+6444,1100.0,Q3 2007,Yishun,Room3
+6445,1200.0,Q3 2007,Yishun,Room4
+6446,1540.0,Q3 2007,Yishun,Room5
